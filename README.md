@@ -1,6 +1,6 @@
 # dataverse.ai ($DVERSE) — Coming Soon Landing Page
 
-Official landing page and Web3/AI portal for **dataverse.ai ($DVERSE)**, deployed on **dataverse.info**.
+Official landing page and Web3/AI portal for **dataverse.ai ($DVERSE)**, deployed on **dverse.info**.
 
 Built with **Next.js 15 (App Router)**, **React 19**, **TypeScript**, and **Tailwind CSS**.
 
@@ -48,14 +48,14 @@ npm run start
 
 ---
 
-## 🌐 Deploying to `dataverse.info`
+## 🌐 Deploying to `dverse.info`
 
 ### Option 1: Vercel (Recommended for Next.js)
 1. Push this repository to GitHub.
 2. Sign in to [Vercel](https://vercel.com) and click **"Add New Project"**.
 3. Import your GitHub repository.
 4. Go to **Settings > Domains** in Vercel.
-5. Add `dataverse.info` and `www.dataverse.info`.
+5. Add `dverse.info` and `www.dverse.info`.
 6. Follow the DNS instructions (add `CNAME` or `A` record provided by Vercel in your domain registrar DNS settings).
 
 ### Option 2: Cloudflare Pages / Netlify

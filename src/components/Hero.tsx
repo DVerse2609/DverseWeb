@@ -58,7 +58,7 @@ export default function Hero() {
   };
 
   const handleCopyDomain = () => {
-    navigator.clipboard.writeText("dataverse.info");
+    navigator.clipboard.writeText("dverse.info");
     setCopiedDomain(true);
     setTimeout(() => setCopiedDomain(false), 2000);
   };
@@ -172,7 +172,7 @@ export default function Hero() {
         onClick={handleCopyDomain}
         className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cosmic-900/80 border border-slate-800 hover:border-brand-sky/40 text-xs font-mono text-slate-400 hover:text-slate-200 transition"
       >
-        <span>dataverse.info</span>
+        <span>dverse.info</span>
         {copiedDomain ? (
           <svg className="w-3 h-3 text-emerald-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
             <polyline points="20 6 9 17 4 12" />

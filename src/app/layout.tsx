@@ -2,15 +2,15 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://dataverse.info"),
+  metadataBase: new URL("https://dverse.info"),
   title: "dataverse.ai ($DVERSE) | The World's First Free AI Knowledge Base",
   description:
-    "The world's first free AI knowledge base. Democratizing decentralized intelligence for everyone, powered by $DVERSE on dataverse.info.",
+    "The world's first free AI knowledge base. Democratizing decentralized intelligence for everyone, powered by $DVERSE on dverse.info.",
   keywords: [
     "dataverse",
     "dataverse.ai",
     "Dverse",
-    "dataverse.info",
+    "dverse.info",
     "crypto",
     "AI coin",
     "decentralized AI",
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     title: "dataverse.ai ($DVERSE) — Decentralized Intelligence",
     description:
       "Bridging sovereign data networks with autonomous AI agents. Genesis launch coming soon.",
-    url: "https://dataverse.info",
+    url: "https://dverse.info",
     siteName: "dataverse.ai",
     images: [
       {
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "dataverse.ai ($DVERSE) | Coming Soon",
     description:
-      "The Decentralized Intelligence Layer for Autonomous AI. Official portal dataverse.info",
+      "The Decentralized Intelligence Layer for Autonomous AI. Official portal dverse.info",
     images: ["/logo.png"],
   },
 };
