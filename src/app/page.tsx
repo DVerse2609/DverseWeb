@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react";
 import ParticleCanvas from "@/components/ParticleCanvas";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import NewsCenter from "@/components/NewsCenter";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -18,7 +19,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="relative min-h-screen bg-cosmic-950 text-slate-100 flex flex-col justify-between overflow-hidden">
+    <div className="relative min-h-screen bg-cosmic-950 text-slate-100 flex flex-col justify-between overflow-x-hidden">
       {/* Interactive Cursor Spotlight */}
       <div
         className="pointer-events-none fixed inset-0 z-20 transition-opacity duration-300"
@@ -32,13 +33,15 @@ export default function Home() {
 
       {/* Subtle background ambient glows */}
       <div className="fixed top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[550px] h-[550px] bg-gradient-to-br from-brand-cobalt/20 via-brand-cyan/15 to-transparent rounded-full blur-3xl pointer-events-none z-0" />
+      <div className="fixed bottom-1/4 right-0 w-[450px] h-[450px] bg-gradient-to-tl from-brand-violet/15 via-brand-sapphire/10 to-transparent rounded-full blur-3xl pointer-events-none z-0" />
 
       {/* Top Navbar */}
       <Navbar />
 
-      {/* Main Center Content */}
-      <main className="relative z-10 flex-1 flex items-center justify-center">
+      {/* Main Content: Hero & News Center */}
+      <main className="relative z-10 flex-1 flex flex-col items-center">
         <Hero />
+        <NewsCenter />
       </main>
 
       {/* Footer */}

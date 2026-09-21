@@ -6,7 +6,8 @@
     "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "fetch:news": "python3 scripts/fetch_news.py"
   },
   "dependencies": {
     "lucide-react": "^0.475.0",
