@@ -1,61 +1,11 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Image from "next/image";
 
 export default function Hero() {
-  const [email, setEmail] = useState("");
-  const [isSubmitted, setIsSubmitted] = useState(false);
   const [copiedDomain, setCopiedDomain] = useState(false);
-
-  // Real-time Countdown timer
-  const [timeLeft, setTimeLeft] = useState({
-    days: 2,
-    hours: 14,
-    minutes: 42,
-    seconds: 19,
-  });
-
-  useEffect(() => {
-    const targetDate = new Date();
-    targetDate.setDate(targetDate.getDate() + 2);
-    targetDate.setHours(18, 0, 0, 0);
-
-    const updateTimer = () => {
-      const now = new Date().getTime();
-      const difference = targetDate.getTime() - now;
-
-      if (difference > 0) {
-        setTimeLeft({
-          days: Math.floor(difference / (1000 * 60 * 60 * 24)),
-          hours: Math.floor((difference / (1000 * 60 * 60)) % 24),
-          minutes: Math.floor((difference / 1000 / 60) % 60),
-          seconds: Math.floor((difference / 1000) % 60),
-        });
-      }
-    };
-
-    updateTimer();
-    const interval = setInterval(updateTimer, 1000);
-    return () => clearInterval(interval);
-  }, []);
-
-  const handleSubscribe = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!email || !email.includes("@")) return;
-
-    try {
-      const existing = JSON.parse(localStorage.getItem("dataverse_waitlist") || "[]");
-      if (!existing.includes(email)) {
-        existing.push({ email, timestamp: new Date().toISOString() });
-        localStorage.setItem("dataverse_waitlist", JSON.stringify(existing));
-      }
-    } catch {
-      // ignore
-    }
-
-    setIsSubmitted(true);
-  };
+  const [searchPrompt, setSearchPrompt] = useState("");
 
   const handleCopyDomain = () => {
     navigator.clipboard.writeText("dverse.info");
@@ -63,9 +13,39 @@ export default function Hero() {
     setTimeout(() => setCopiedDomain(false), 2000);
   };
 
+  const triggerSearchAndScroll = (query: string) => {
+    const trimmed = query.trim();
+    const newsSection = document.getElementById("news-center");
+    const newsInput = newsSection?.querySelector<HTMLInputElement>('input[type="text"]');
+
+    if (newsInput && trimmed) {
+      // Set input value and dispatch React input event
+      const nativeSetter = Object.getOwnPropertyDescriptor(
+        window.HTMLInputElement.prototype,
+        "value"
+      )?.set;
+      nativeSetter?.call(newsInput, trimmed);
+      newsInput.dispatchEvent(new Event("input", { bubbles: true }));
+    }
+
+    newsSection?.scrollIntoView({ behavior: "smooth" });
+  };
+
+  const handleSearchSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    triggerSearchAndScroll(searchPrompt);
+  };
+
+  const trendingTopics = [
+    { label: "⚡ Frontier Models", query: "OpenAI" },
+    { label: "🧠 Autonomous Agents", query: "agents" },
+    { label: "🟣 Solana & DePIN", query: "compute" },
+    { label: "🛡️ ZK & Privacy", query: "privacy" },
+  ];
+
   return (
-    <div className="flex flex-col items-center justify-center text-center max-w-3xl mx-auto px-4 py-8 sm:py-12 my-auto">
-      {/* Floating Logo with Orbital Cosmic Rings */}
+    <div className="flex flex-col items-center justify-center text-center max-w-4xl mx-auto px-4 py-8 sm:py-14 my-auto z-10">
+      {/* Floating Crystal Logo with Orbital Cosmic Rings */}
       <div className="relative mb-8 sm:mb-10 flex items-center justify-center">
         {/* Orbital Ring */}
         <div className="absolute w-44 h-44 sm:w-56 sm:h-56 rounded-full border border-brand-sky/20 border-dashed animate-orbit-slow pointer-events-none">
@@ -89,11 +69,11 @@ export default function Hero() {
       </div>
 
       {/* Pill Badge */}
-      <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand-sapphire/15 border border-brand-sky/25 text-xs font-mono text-brand-sky mb-4">
+      <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-brand-sapphire/15 border border-brand-sky/25 text-xs font-mono text-brand-sky mb-4">
         <span className="w-1.5 h-1.5 rounded-full bg-brand-cyan animate-ping" />
-        <span>COMING SOON</span>
+        <span>LIVE INTELLIGENCE PROTOCOL</span>
         <span className="text-slate-500">•</span>
-        <span>$DVERSE</span>
+        <span>$DVERSE ON SOLANA</span>
       </div>
 
       {/* Headline */}
@@ -102,76 +82,118 @@ export default function Hero() {
         <span className="text-gradient-cyan">Free AI Knowledge Base</span>.
       </h1>
 
-      {/* Clean, one-line Subtitle */}
-      <p className="text-slate-400 text-sm sm:text-lg max-w-xl mb-8 leading-relaxed font-light">
-        Democratizing decentralized intelligence for everyone. Powered by{" "}
-        <span className="text-white font-medium font-mono">$DVERSE</span>.
+      {/* Clean, authoritative Subtitle */}
+      <p className="text-slate-400 text-sm sm:text-lg max-w-2xl mb-8 leading-relaxed font-light">
+        Democratizing decentralized intelligence for everyone. Live curated research, zero paywalls, powered by{" "}
+        <span className="text-white font-medium font-mono">$DVERSE</span> on Solana.
       </p>
 
-      {/* Minimal Waitlist Form */}
-      <div className="w-full max-w-md mx-auto mb-10">
-        {!isSubmitted ? (
-          <form
-            onSubmit={handleSubscribe}
-            className="flex items-center gap-2 p-1 rounded-2xl glass-panel focus-within:border-brand-cyan/60 transition duration-300"
-          >
-            <input
-              type="email"
-              required
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              placeholder="Enter your email for early access..."
-              className="w-full px-4 py-3 bg-transparent text-sm text-white placeholder-slate-500 focus:outline-none font-sans"
-            />
-            <button
-              type="submit"
-              className="shrink-0 inline-flex items-center justify-center gap-1.5 px-5 py-3 rounded-xl bg-gradient-to-r from-brand-cobalt to-brand-sapphire hover:from-brand-sapphire hover:to-brand-cyan text-white font-medium text-xs sm:text-sm transition-all duration-300 shadow-[0_0_15px_rgba(37,99,235,0.4)]"
-            >
-              <span>Notify Me</span>
-              <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <line x1="5" y1="12" x2="19" y2="12" />
-                <polyline points="12 5 19 12 12 19" />
-              </svg>
-            </button>
-          </form>
-        ) : (
-          <div className="flex items-center justify-center gap-2 p-3.5 rounded-2xl glass-panel border-emerald-500/40 bg-emerald-950/20 text-emerald-300 text-xs sm:text-sm font-mono animate-fade-in">
-            <svg className="w-4 h-4 text-emerald-400 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
-              <polyline points="22 4 12 14.01 9 11.01" />
+      {/* Interactive AI Knowledge Search Bar */}
+      <div className="w-full max-w-xl mx-auto mb-5">
+        <form
+          onSubmit={handleSearchSubmit}
+          className="group relative flex items-center p-1 rounded-2xl glass-panel focus-within:border-brand-cyan/60 focus-within:shadow-[0_0_25px_rgba(0,242,254,0.18)] transition-all duration-300"
+        >
+          <div className="pl-3.5 pr-2 text-brand-sky pointer-events-none">
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <circle cx="11" cy="11" r="8" />
+              <line x1="21" y1="21" x2="16.65" y2="16.65" />
             </svg>
-            <span>You&apos;re on the list! We&apos;ll notify you at launch.</span>
           </div>
-        )}
+
+          <input
+            type="text"
+            value={searchPrompt}
+            onChange={(e) => setSearchPrompt(e.target.value)}
+            placeholder="Search 100+ AI breakthroughs, models, or topics..."
+            className="w-full py-3 pr-2 bg-transparent text-xs sm:text-sm text-white placeholder-slate-500 focus:outline-none font-sans"
+          />
+
+          <button
+            type="submit"
+            className="shrink-0 inline-flex items-center justify-center gap-1.5 px-4 sm:px-5 py-2.5 rounded-xl bg-gradient-to-r from-brand-cobalt to-brand-sapphire hover:from-brand-sapphire hover:to-brand-cyan text-white font-medium text-xs sm:text-sm transition-all duration-300 shadow-[0_0_15px_rgba(37,99,235,0.35)]"
+          >
+            <span>Explore Feed</span>
+            <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="12" y1="5" x2="12" y2="19" />
+              <polyline points="19 12 12 19 5 12" />
+            </svg>
+          </button>
+        </form>
+
+        {/* Trending Quick-Query Tags */}
+        <div className="flex flex-wrap items-center justify-center gap-1.5 sm:gap-2 mt-3">
+          <span className="text-[11px] font-mono text-slate-500 mr-1 hidden sm:inline">
+            Trending:
+          </span>
+          {trendingTopics.map((topic) => (
+            <button
+              key={topic.label}
+              onClick={() => {
+                setSearchPrompt(topic.query);
+                triggerSearchAndScroll(topic.query);
+              }}
+              className="px-2.5 py-0.5 rounded-lg glass-pill text-[11px] font-mono text-slate-400 hover:text-brand-cyan hover:border-brand-cyan/40 transition duration-200"
+            >
+              {topic.label}
+            </button>
+          ))}
+        </div>
       </div>
 
-      {/* Minimal Countdown */}
-      <div className="flex items-center justify-center gap-2 sm:gap-3 mb-8">
-        {[
-          { label: "Days", value: timeLeft.days },
-          { label: "Hours", value: timeLeft.hours },
-          { label: "Mins", value: timeLeft.minutes },
-          { label: "Secs", value: timeLeft.seconds },
-        ].map((item, idx) => (
-          <div
-            key={idx}
-            className="glass-panel px-3 py-2 sm:px-4 sm:py-2.5 rounded-xl flex flex-col items-center min-w-[58px] sm:min-w-[68px] border-brand-sky/15"
-          >
-            <span className="font-mono text-lg sm:text-xl font-bold text-white">
-              {String(item.value).padStart(2, "0")}
-            </span>
-            <span className="text-[9px] sm:text-[10px] font-mono uppercase text-slate-400">
-              {item.label}
-            </span>
-          </div>
-        ))}
+      {/* Dual High-Conversion Action Buttons */}
+      <div className="flex flex-col sm:flex-row items-center justify-center gap-3 w-full max-w-md mx-auto mb-10">
+        <a
+          href="#news-center"
+          className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-brand-cobalt via-brand-sapphire to-brand-cyan text-white text-xs sm:text-sm font-semibold tracking-wide shadow-[0_0_20px_rgba(0,242,254,0.3)] hover:shadow-[0_0_25px_rgba(0,242,254,0.5)] transition-all duration-300"
+        >
+          <span>⚡ Browse 100+ Live Stories</span>
+          <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <polyline points="6 9 12 15 18 9" />
+          </svg>
+        </a>
+
+        <a
+          href="https://t.me"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-3 rounded-xl glass-panel text-xs sm:text-sm font-medium text-slate-300 hover:text-white hover:border-brand-sky/40 transition duration-300"
+        >
+          <svg className="w-4 h-4 text-brand-sky" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <line x1="22" y1="2" x2="11" y2="13" />
+            <polygon points="22 2 15 22 11 13 2 9 22 2" />
+          </svg>
+          <span>Join Community</span>
+        </a>
+      </div>
+
+      {/* Three Solana & Protocol Trust Badges */}
+      <div className="grid grid-cols-3 gap-2 sm:gap-4 w-full max-w-2xl mx-auto mb-8">
+        <div className="glass-panel p-3 sm:p-4 rounded-2xl flex flex-col items-center border-brand-sky/15 hover:border-brand-cyan/40 transition duration-300">
+          <div className="text-base sm:text-xl font-bold font-mono text-white">100+</div>
+          <div className="text-[10px] sm:text-xs font-mono text-brand-sky uppercase mt-0.5">Live AI Feeds</div>
+          <div className="text-[9px] sm:text-[10px] text-slate-500 font-sans hidden sm:block mt-0.5">Updated Every 6h</div>
+        </div>
+
+        <div className="glass-panel p-3 sm:p-4 rounded-2xl flex flex-col items-center border-brand-sky/15 hover:border-brand-violet/40 transition duration-300">
+          <div className="text-base sm:text-xl font-bold font-mono text-white">Solana</div>
+          <div className="text-[10px] sm:text-xs font-mono text-brand-purple uppercase mt-0.5">High-Speed Layer</div>
+          <div className="text-[9px] sm:text-[10px] text-slate-500 font-sans hidden sm:block mt-0.5">Sub-cent Micro-compute</div>
+        </div>
+
+        <div className="glass-panel p-3 sm:p-4 rounded-2xl flex flex-col items-center border-brand-sky/15 hover:border-emerald-500/40 transition duration-300">
+          <div className="text-base sm:text-xl font-bold font-mono text-white">100%</div>
+          <div className="text-[10px] sm:text-xs font-mono text-emerald-400 uppercase mt-0.5">Free & Open</div>
+          <div className="text-[9px] sm:text-[10px] text-slate-500 font-sans hidden sm:block mt-0.5">Zero Central Paywalls</div>
+        </div>
       </div>
 
       {/* Domain Badge */}
       <button
         onClick={handleCopyDomain}
-        className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cosmic-900/80 border border-slate-800 hover:border-brand-sky/40 text-xs font-mono text-slate-400 hover:text-slate-200 transition"
+        className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-cosmic-900/80 border border-slate-800 hover:border-brand-sky/40 text-xs font-mono text-slate-400 hover:text-slate-200 transition"
       >
+        <span className="text-brand-cyan">official:</span>
         <span>dverse.info</span>
         {copiedDomain ? (
           <svg className="w-3 h-3 text-emerald-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
