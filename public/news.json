@@ -1,5 +1,54 @@
 [
   {
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "source": "The Verge AI",
+    "date": "2026-09-22T11:53:58Z",
+    "snippet": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers"
+  },
+  {
+    "title": "Don’t be fooled by this summer of AI hype",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "source": "MIT Technology Review",
+    "date": "2026-09-22T11:04:51Z",
+    "snippet": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts."
+  },
+  {
+    "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+    "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+    "source": "Wired AI",
+    "date": "2026-09-22T10:30:00Z",
+    "snippet": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work."
+  },
+  {
+    "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+    "url": "https://www.wired.com/story/big-interview-patti-harrison/",
+    "source": "Wired AI",
+    "date": "2026-09-22T10:00:00Z",
+    "snippet": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs."
+  },
+  {
+    "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+    "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+    "source": "Wired AI",
+    "date": "2026-09-22T10:00:00Z",
+    "snippet": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual."
+  },
+  {
+    "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+    "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+    "source": "Wired AI",
+    "date": "2026-09-22T09:30:00Z",
+    "snippet": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments."
+  },
+  {
+    "title": "How to Use AI With Your Privacy Intact",
+    "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+    "source": "Wired AI",
+    "date": "2026-09-22T09:00:00Z",
+    "snippet": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself."
+  },
+  {
     "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
     "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
     "source": "TechCrunch AI",
@@ -280,13 +329,6 @@
     "snippet": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
   },
   {
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "source": "The Verge AI",
-    "date": "2026-09-19T15:25:03Z",
-    "snippet": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't"
-  },
-  {
     "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
     "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
     "source": "TechCrunch AI",
@@ -301,27 +343,6 @@
     "snippet": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
   },
   {
-    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-    "source": "Wired AI",
-    "date": "2026-09-19T11:00:00Z",
-    "snippet": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws."
-  },
-  {
-    "title": "Mathematicians Hate AI. They Can’t Quit It",
-    "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-    "source": "Wired AI",
-    "date": "2026-09-19T10:00:00Z",
-    "snippet": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful."
-  },
-  {
-    "title": "Join the WIRED World Fair in Miami on November 4",
-    "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-    "source": "Wired AI",
-    "date": "2026-09-19T09:00:00Z",
-    "snippet": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life."
-  },
-  {
     "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
     "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
     "source": "Ars Technica",
@@ -329,25 +350,11 @@
     "snippet": "But the military's overall use of AI seems to be accelerating."
   },
   {
-    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-    "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-    "source": "Wired AI",
-    "date": "2026-09-18T19:21:09Z",
-    "snippet": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky."
-  },
-  {
     "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
     "url": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/",
     "source": "ZDNet AI",
     "date": "2026-09-18T15:09:13Z",
     "snippet": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a significant readiness gap."
-  },
-  {
-    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-    "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-    "source": "Wired AI",
-    "date": "2026-09-18T15:00:08Z",
-    "snippet": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have."
   },
   {
     "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
@@ -495,13 +502,6 @@
     "source": "ZDNet AI",
     "date": "2026-09-14T17:27:48Z",
     "snippet": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself."
-  },
-  {
-    "title": "AI agents blew the whistle on their cheating colleagues",
-    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-14T16:00:00Z",
-    "snippet": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…"
   },
   {
     "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
