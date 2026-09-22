@@ -1,5 +1,124 @@
 [
   {
+    "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+    "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+    "source": "Ars Technica Tech",
+    "date": "2026-09-22T16:55:40Z",
+    "snippet": "The English hospitals recovered patient care data only."
+  },
+  {
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "source": "The Verge AI",
+    "date": "2026-09-22T16:34:08Z",
+    "snippet": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z."
+  },
+  {
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-22T16:30:07Z",
+    "snippet": "Anthropic called it \"the strongest-performing model we've tested to date.\""
+  },
+  {
+    "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
+    "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
+    "source": "ZDNet AI",
+    "date": "2026-09-22T16:30:05Z",
+    "snippet": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in."
+  },
+  {
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "source": "The Verge AI",
+    "date": "2026-09-22T16:30:00Z",
+    "snippet": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox."
+  },
+  {
+    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "source": "The Verge AI",
+    "date": "2026-09-22T16:01:10Z",
+    "snippet": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started"
+  },
+  {
+    "title": "Rabbit Is Back, This Time With an AI Agent App",
+    "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+    "source": "Wired AI",
+    "date": "2026-09-22T16:00:00Z",
+    "snippet": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use."
+  },
+  {
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-22T15:00:00Z",
+    "snippet": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
+  },
+  {
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-22T15:00:00Z",
+    "snippet": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200."
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-22T14:30:00Z",
+    "snippet": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off."
+  },
+  {
+    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-22T14:15:00Z",
+    "snippet": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m."
+  },
+  {
+    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-22T14:00:00Z",
+    "snippet": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT."
+  },
+  {
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Technology Review",
+    "date": "2026-09-22T13:42:05Z",
+    "snippet": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…"
+  },
+  {
+    "title": "Everyone can find a reason to dislike data center construction",
+    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-22T13:00:00Z",
+    "snippet": "Inside two years of fraught AI data center debates in Pennsylvania."
+  },
+  {
+    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+    "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+    "source": "Wired AI",
+    "date": "2026-09-22T13:00:00Z",
+    "snippet": "No cameras? No problem."
+  },
+  {
+    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+    "source": "Wired AI",
+    "date": "2026-09-22T13:00:00Z",
+    "snippet": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code."
+  },
+  {
+    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-22T12:23:05Z",
+    "snippet": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue."
+  },
+  {
     "title": "Meta patches Muse exploit that let attackers control the AI agent",
     "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
     "source": "The Verge AI",
@@ -203,13 +322,6 @@
     "snippet": "We know models cheat. A new benchmark measures how much, and on what tasks."
   },
   {
-    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-    "source": "Wired AI",
-    "date": "2026-09-21T10:34:43Z",
-    "snippet": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security."
-  },
-  {
     "title": "UN says AI safeguards can’t wait for certainty",
     "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
     "source": "The Verge AI",
@@ -238,13 +350,6 @@
     "snippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
   },
   {
-    "title": "Is the AI industry really ready to slow down?",
-    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-20T18:56:04Z",
-    "snippet": "On Equity, we debated whether AI executives are serious about wanting to slow down."
-  },
-  {
     "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
     "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
     "source": "The Verge AI",
@@ -252,95 +357,11 @@
     "snippet": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the"
   },
   {
-    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-    "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-20T18:32:52Z",
-    "snippet": "Vocci's lightweight ring costs $249, and might pose some privacy questions."
-  },
-  {
-    "title": "ScrollEd wants to turn textbooks into TikTok",
-    "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-20T18:00:00Z",
-    "snippet": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
-  },
-  {
-    "title": "Trump now says he wants to form an ‘AI Force’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "source": "The Verge AI",
-    "date": "2026-09-20T15:39:22Z",
-    "snippet": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder"
-  },
-  {
-    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "source": "The Verge AI",
-    "date": "2026-09-20T12:00:00Z",
-    "snippet": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey."
-  },
-  {
     "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
     "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
     "source": "Ars Technica Tech",
     "date": "2026-09-20T11:07:00Z",
     "snippet": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle."
-  },
-  {
-    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-    "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-    "source": "Wired AI",
-    "date": "2026-09-20T10:30:00Z",
-    "snippet": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information."
-  },
-  {
-    "title": "It’s Donald Trump Versus MAGA on Data Centers",
-    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-    "source": "Wired AI",
-    "date": "2026-09-20T10:30:00Z",
-    "snippet": "The president has doubled down on data centers and AI. His base is running in the opposite direction."
-  },
-  {
-    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-    "source": "The Verge AI",
-    "date": "2026-09-19T20:44:40Z",
-    "snippet": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes."
-  },
-  {
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-19T20:39:13Z",
-    "snippet": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
-  },
-  {
-    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-19T19:57:47Z",
-    "snippet": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
-  },
-  {
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-19T17:30:00Z",
-    "snippet": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
-  },
-  {
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-19T15:00:00Z",
-    "snippet": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
-  },
-  {
-    "title": "AI safety conversations have gotten unbelievable",
-    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-19T15:00:00Z",
-    "snippet": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
   },
   {
     "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
@@ -490,13 +511,6 @@
     "snippet": "Safety is the watchword, but there could be ulterior benefits for the industry."
   },
   {
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-14T17:54:22Z",
-    "snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…"
-  },
-  {
     "title": "The latest Windows 11 update may mess with your device’s audio – here’s the workaround",
     "url": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix/",
     "source": "ZDNet AI",
@@ -572,13 +586,6 @@
     "source": "ZDNet AI",
     "date": "2026-09-09T20:54:09Z",
     "snippet": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino. Here’s the rundown."
-  },
-  {
-    "title": "This LG TV jailbreak turns smart devices into spies, say researchers",
-    "url": "https://www.zdnet.com/uncategorized/lg-tv-can-spy-on-you-say-researchers-how-to-prevent-it/",
-    "source": "ZDNet AI",
-    "date": "2026-09-09T18:59:45Z",
-    "snippet": "Researchers say LG TV’s behavior ‘parallels malware’ – with user data logged even when TVs are on standby."
   },
   {
     "title": "T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder",
@@ -691,12 +698,5 @@
     "source": "VentureBeat AI",
     "date": "2026-08-27T14:01:00Z",
     "snippet": "Presented by Gravitee Read more"
-  },
-  {
-    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-    "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-    "source": "Ars Technica Tech",
-    "date": "2026-08-27T14:00:13Z",
-    "snippet": "227 install commands were found in corporate docs pointing at code nobody owns."
   }
 ]
