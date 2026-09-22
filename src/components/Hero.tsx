@@ -57,8 +57,8 @@ export default function Hero() {
         <span className="text-white font-medium font-mono">$DVERSE</span> on Solana.
       </p>
 
-      {/* Dual High-Conversion Action Buttons */}
-      <div className="flex flex-col sm:flex-row items-center justify-center gap-3 w-full max-w-md mx-auto mb-10">
+      {/* High-Conversion Action Buttons */}
+      <div className="flex flex-col sm:flex-row items-center justify-center gap-2.5 sm:gap-3 w-full max-w-xl mx-auto mb-10">
         <a
           href="#news-center"
           className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-gradient-to-r from-brand-cobalt via-brand-sapphire to-brand-cyan text-white text-xs sm:text-sm font-semibold tracking-wide shadow-[0_0_20px_rgba(0,242,254,0.3)] hover:shadow-[0_0_25px_rgba(0,242,254,0.5)] transition-all duration-300"
@@ -69,18 +69,32 @@ export default function Hero() {
           </svg>
         </a>
 
-        <a
-          href="https://t.me/dversecommunity"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl glass-panel text-xs sm:text-sm font-medium text-slate-300 hover:text-white hover:border-brand-sky/40 transition duration-300"
-        >
-          <svg className="w-4 h-4 text-brand-sky" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <line x1="22" y1="2" x2="11" y2="13" />
-            <polygon points="22 2 15 22 11 13 2 9 22 2" />
-          </svg>
-          <span>Join Community</span>
-        </a>
+        <div className="flex items-center gap-2 w-full sm:w-auto">
+          <a
+            href="https://t.me/dversecommunity"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex-1 sm:flex-initial inline-flex items-center justify-center gap-1.5 px-4 py-3.5 rounded-xl glass-panel text-xs sm:text-sm font-medium text-slate-300 hover:text-white hover:border-brand-sky/40 transition duration-300"
+          >
+            <svg className="w-4 h-4 text-brand-sky" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="22" y1="2" x2="11" y2="13" />
+              <polygon points="22 2 15 22 11 13 2 9 22 2" />
+            </svg>
+            <span>Telegram</span>
+          </a>
+
+          <a
+            href="https://x.com/DverseAI"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex-1 sm:flex-initial inline-flex items-center justify-center gap-1.5 px-4 py-3.5 rounded-xl glass-panel text-xs sm:text-sm font-medium text-slate-300 hover:text-white hover:border-brand-sky/40 transition duration-300"
+          >
+            <svg className="w-3.5 h-3.5 text-brand-sky" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+            </svg>
+            <span>X</span>
+          </a>
+        </div>
       </div>
 
       {/* Three Solana & Protocol Trust Badges */}

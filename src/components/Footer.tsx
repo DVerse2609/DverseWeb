@@ -29,7 +29,7 @@ export default function Footer() {
         </a>
 
         <a
-          href="https://x.com"
+          href="https://x.com/DverseAI"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-1.5 text-slate-400 hover:text-brand-cyan transition duration-200"

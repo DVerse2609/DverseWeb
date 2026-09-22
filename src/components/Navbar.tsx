@@ -36,7 +36,7 @@ export default function Navbar() {
         </a>
 
         <a
-          href="https://x.com"
+          href="https://x.com/DverseAI"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="X"
