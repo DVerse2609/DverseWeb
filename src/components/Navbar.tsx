@@ -47,7 +47,7 @@ export default function Navbar() {
           </svg>
         </a>
         <a
-          href="https://t.me"
+          href="https://t.me/dversecommunity"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Telegram"

@@ -70,7 +70,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="https://t.me"
+          href="https://t.me/dversecommunity"
           target="_blank"
           rel="noopener noreferrer"
           className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl glass-panel text-xs sm:text-sm font-medium text-slate-300 hover:text-white hover:border-brand-sky/40 transition duration-300"
