@@ -81,7 +81,11 @@ function formatDisplayDate(dateStr: string): string {
   }
 }
 
-export default function NewsCenter() {
+interface NewsCenterProps {
+  hideHeader?: boolean;
+}
+
+export default function NewsCenter({ hideHeader = false }: NewsCenterProps) {
   const [articles, setArticles] = useState<NewsItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -138,25 +142,27 @@ export default function NewsCenter() {
     return filteredArticles.slice(0, visibleCount);
   }, [filteredArticles, visibleCount]);
 
-  return (
-    <section id="news-center" className="relative w-full max-w-5xl mx-auto px-4 sm:px-6 py-16 sm:py-24 z-10 scroll-mt-20">
-      {/* Header section */}
-      <div className="flex flex-col items-center text-center mb-10">
-        <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-brand-sapphire/20 border border-brand-sky/30 text-xs font-mono text-brand-sky mb-3">
-          <span className="relative flex h-2 w-2">
-            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-cyan opacity-75" />
-            <span className="relative inline-flex rounded-full h-2 w-2 bg-brand-cyan" />
-          </span>
-          <span>AUTOMATED INTELLIGENCE FEED</span>
-        </div>
+  const content = (
+    <div className="w-full">
+      {/* Header section (if not hidden) */}
+      {!hideHeader && (
+        <div className="flex flex-col items-center text-center mb-10">
+          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-brand-sapphire/20 border border-brand-sky/30 text-xs font-mono text-brand-sky mb-3">
+            <span className="relative flex h-2 w-2">
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-cyan opacity-75" />
+              <span className="relative inline-flex rounded-full h-2 w-2 bg-brand-cyan" />
+            </span>
+            <span>AUTOMATED INTELLIGENCE FEED</span>
+          </div>
 
-        <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-tight mb-3">
-          AI & ML <span className="text-gradient-cyan">News Center</span>
-        </h2>
-        <p className="text-slate-400 text-sm sm:text-base max-w-2xl font-light">
-          Real-time curated intelligence from the world&apos;s leading AI research labs and tech publications. Zero centralized databases, powered entirely by decentralized static feeds.
-        </p>
-      </div>
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-tight mb-3">
+            AI & ML <span className="text-gradient-cyan">News Center</span>
+          </h2>
+          <p className="text-slate-400 text-sm sm:text-base max-w-2xl font-light">
+            Real-time curated intelligence from the world&apos;s leading AI research labs and tech publications. Zero centralized databases, powered entirely by decentralized static feeds.
+          </p>
+        </div>
+      )}
 
       {/* Controls: Search & Source filter pills */}
       <div className="flex flex-col gap-4 mb-8">
@@ -331,6 +337,19 @@ export default function NewsCenter() {
           )}
         </div>
       )}
+    </div>
+  );
+
+  if (hideHeader) {
+    return content;
+  }
+
+  return (
+    <section
+      id="news-center"
+      className="relative w-full max-w-5xl mx-auto px-4 sm:px-6 py-16 sm:py-24 z-10 scroll-mt-20"
+    >
+      {content}
     </section>
   );
 }

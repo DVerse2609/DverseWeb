@@ -32,17 +32,21 @@ jobs:
         run: |
           python scripts/fetch_news.py
 
-      - name: Commit and Push Updated News Feed
+      - name: Fetch and Aggregate Global Crypto & AI Events
+        run: |
+          python scripts/fetch_events.py
+
+      - name: Commit and Push Updated Data Feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/news.json
+          git add public/news.json public/events.json
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
-            echo "No news changes detected."
+            echo "No news or events changes detected."
           else
             # [skip ci] prevents unnecessary CI and deployment build consumption
-            git commit -m "chore(news): automated AI/ML news update [skip ci]"
+            git commit -m "chore(data): automated AI news and global events update [skip ci]"
             git push
           fi

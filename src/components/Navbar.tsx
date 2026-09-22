@@ -26,12 +26,20 @@ export default function Navbar() {
       <div className="flex items-center gap-2.5 sm:gap-3">
         <a
           href="#news-center"
-          className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-mono font-medium text-slate-200 bg-cosmic-900/90 border border-brand-sky/25 hover:border-brand-cyan/60 hover:text-brand-cyan transition duration-200 shadow-sm"
+          className="inline-flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl text-xs font-mono font-medium text-slate-200 bg-cosmic-900/90 border border-brand-sky/25 hover:border-brand-cyan/60 hover:text-brand-cyan transition duration-200 shadow-sm"
         >
           <span className="w-1.5 h-1.5 rounded-full bg-brand-cyan animate-pulse" />
           <span>AI News</span>
-          <span className="text-[10px] text-brand-sky bg-brand-cyan/10 px-1.5 py-0.2 rounded border border-brand-cyan/20">
-            Feed
+        </a>
+
+        <a
+          href="#events"
+          className="inline-flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl text-xs font-mono font-medium text-slate-200 bg-cosmic-900/90 border border-brand-purple/30 hover:border-brand-purple/60 hover:text-brand-purple transition duration-200 shadow-sm"
+        >
+          <span className="w-1.5 h-1.5 rounded-full bg-brand-purple animate-pulse" />
+          <span>Events</span>
+          <span className="text-[10px] text-brand-purple bg-brand-purple/15 px-1.5 py-0.2 rounded border border-brand-purple/20 hidden sm:inline-block">
+            2026
           </span>
         </a>
 

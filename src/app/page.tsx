@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import ParticleCanvas from "@/components/ParticleCanvas";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
-import NewsCenter from "@/components/NewsCenter";
+import IntelligenceHub from "@/components/IntelligenceHub";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -38,10 +38,10 @@ export default function Home() {
       {/* Top Navbar */}
       <Navbar />
 
-      {/* Main Content: Hero & News Center */}
+      {/* Main Content: Hero & Unified Intelligence Hub */}
       <main className="relative z-10 flex-1 flex flex-col items-center">
         <Hero />
-        <NewsCenter />
+        <IntelligenceHub />
       </main>
 
       {/* Footer */}
