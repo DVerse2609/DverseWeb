@@ -75,7 +75,7 @@ export default function IntelligenceHub() {
             <span>🗓️</span>
             <span>Crypto & AI Events</span>
             <span className="text-[10px] px-2 py-0.5 rounded-full bg-brand-purple/20 text-brand-purple border border-brand-purple/30 font-bold">
-              2026
+              100+
             </span>
           </button>
         </div>
@@ -113,7 +113,7 @@ export default function IntelligenceHub() {
             Crypto & AI <span className="text-gradient-cyan">Global Events</span>
           </h2>
           <p className="text-slate-400 text-sm sm:text-base max-w-2xl font-light">
-            Curated calendar of premier summits, hackathons, and developer conferences across Web3, Artificial Intelligence, and Decentralized AI. Click any event to view agenda details and save to your calendar.
+            Curated calendar of 100+ premier summits, hackathons, and developer conferences across Web3, Artificial Intelligence, and Decentralized AI. Click any event to view agenda details and save to your calendar.
           </p>
         </div>
       )}

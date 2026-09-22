@@ -55,6 +55,7 @@ export default function EventsCenter() {
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
   const [selectedTimeline, setSelectedTimeline] = useState<"all" | "upcoming" | "past">("all");
   const [searchQuery, setSearchQuery] = useState<string>("");
+  const [visibleCount, setVisibleCount] = useState<number>(18);
 
   // Modal state
   const [activeModalEvent, setActiveModalEvent] = useState<EventItem | null>(null);
@@ -121,6 +122,10 @@ export default function EventsCenter() {
     });
   }, [events, selectedCategory, selectedTimeline, searchQuery]);
 
+  const displayedEvents = useMemo(() => {
+    return filteredEvents.slice(0, visibleCount);
+  }, [filteredEvents, visibleCount]);
+
   // Generate and download .ics iCalendar file for Apple Calendar / Outlook
   const handleDownloadIcs = (ev: EventItem) => {
     try {
@@ -185,7 +190,10 @@ export default function EventsCenter() {
             return (
               <button
                 key={cat}
-                onClick={() => setSelectedCategory(cat)}
+                onClick={() => {
+                  setSelectedCategory(cat);
+                  setVisibleCount(18);
+                }}
                 className={`px-3 sm:px-4 py-1.5 rounded-xl text-xs font-mono font-medium whitespace-nowrap transition-all duration-200 border ${
                   isSelected
                     ? "bg-brand-sapphire/30 text-brand-cyan border-brand-cyan/50 shadow-[0_0_12px_rgba(0,242,254,0.2)]"
@@ -203,17 +211,23 @@ export default function EventsCenter() {
           {/* Timeline filter */}
           <div className="flex items-center p-1 rounded-xl bg-cosmic-900/90 border border-white/10 text-xs font-mono">
             <button
-              onClick={() => setSelectedTimeline("all")}
+              onClick={() => {
+                setSelectedTimeline("all");
+                setVisibleCount(18);
+              }}
               className={`px-2.5 py-1 rounded-lg transition ${
                 selectedTimeline === "all"
                   ? "bg-brand-sapphire/40 text-brand-cyan font-semibold"
                   : "text-slate-400 hover:text-slate-200"
               }`}
             >
-              All (2026)
+              All (100)
             </button>
             <button
-              onClick={() => setSelectedTimeline("upcoming")}
+              onClick={() => {
+                setSelectedTimeline("upcoming");
+                setVisibleCount(18);
+              }}
               className={`px-2.5 py-1 rounded-lg transition ${
                 selectedTimeline === "upcoming"
                   ? "bg-brand-sapphire/40 text-brand-cyan font-semibold"
@@ -223,7 +237,10 @@ export default function EventsCenter() {
               Upcoming
             </button>
             <button
-              onClick={() => setSelectedTimeline("past")}
+              onClick={() => {
+                setSelectedTimeline("past");
+                setVisibleCount(18);
+              }}
               className={`px-2.5 py-1 rounded-lg transition ${
                 selectedTimeline === "past"
                   ? "bg-brand-sapphire/40 text-brand-cyan font-semibold"
@@ -239,7 +256,10 @@ export default function EventsCenter() {
             <input
               type="text"
               value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
+              onChange={(e) => {
+                setSearchQuery(e.target.value);
+                setVisibleCount(18);
+              }}
               placeholder="Search summit, city..."
               className="w-full px-3 py-1.5 pl-8 rounded-xl bg-cosmic-900/90 border border-white/10 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-brand-cyan/50 font-mono"
             />
@@ -321,133 +341,152 @@ export default function EventsCenter() {
 
       {/* Events Grid */}
       {!isLoading && !error && filteredEvents.length > 0 && (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6">
-          {filteredEvents.map((ev) => {
-            const catStyle = CATEGORY_STYLES[ev.category] || CATEGORY_STYLES.Crypto;
-            const isLive = ev.status === "Live Now";
-            const isCompleted = ev.status === "Completed";
+        <>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6">
+            {displayedEvents.map((ev) => {
+              const catStyle = CATEGORY_STYLES[ev.category] || CATEGORY_STYLES.Crypto;
+              const isLive = ev.status === "Live Now";
+              const isCompleted = ev.status === "Completed";
 
-            return (
-              <div
-                key={ev.id}
-                onClick={() => setActiveModalEvent(ev)}
-                className="group relative flex flex-col justify-between glass-panel p-5 sm:p-6 rounded-2xl border-brand-sky/15 hover:border-brand-cyan/50 hover:bg-white/[0.04] transition-all duration-300 cursor-pointer shadow-lg hover:shadow-[0_0_25px_rgba(0,242,254,0.12)]"
-              >
-                {/* Subtle top glow indicator */}
+              return (
                 <div
-                  className="absolute top-0 left-8 right-8 h-[1px] opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
-                  style={{
-                    background: `linear-gradient(90deg, transparent, ${catStyle.text}, transparent)`,
-                  }}
-                />
+                  key={ev.id}
+                  onClick={() => setActiveModalEvent(ev)}
+                  className="group relative flex flex-col justify-between glass-panel p-5 sm:p-6 rounded-2xl border-brand-sky/15 hover:border-brand-cyan/50 hover:bg-white/[0.04] transition-all duration-300 cursor-pointer shadow-lg hover:shadow-[0_0_25px_rgba(0,242,254,0.12)]"
+                >
+                  {/* Subtle top glow indicator */}
+                  <div
+                    className="absolute top-0 left-8 right-8 h-[1px] opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
+                    style={{
+                      background: `linear-gradient(90deg, transparent, ${catStyle.text}, transparent)`,
+                    }}
+                  />
 
-                {/* Card Top: Category & Status */}
-                <div>
-                  <div className="flex items-center justify-between gap-2 mb-3">
-                    {/* Category pill */}
-                    <span
-                      className={`inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-[11px] font-mono font-medium border ${catStyle.bg} ${catStyle.text} ${catStyle.border}`}
-                    >
-                      <span className="w-1.5 h-1.5 rounded-full bg-current" />
-                      <span>{catStyle.label}</span>
-                    </span>
-
-                    {/* Status Pill */}
-                    <span
-                      className={`text-[10px] font-mono uppercase px-2 py-0.5 rounded-full border ${
-                        isLive
-                          ? "bg-emerald-500/20 text-emerald-300 border-emerald-500/40 animate-pulse font-semibold"
-                          : isCompleted
-                          ? "bg-slate-800/80 text-slate-400 border-slate-700/60"
-                          : "bg-brand-sapphire/20 text-brand-sky border-brand-sky/30"
-                      }`}
-                    >
-                      {ev.status}
-                    </span>
-                  </div>
-
-                  {/* Badge & Title */}
-                  <div className="text-[10px] font-mono uppercase tracking-wider text-slate-400 mb-1">
-                    {ev.badge}
-                  </div>
-                  <h3 className="text-base sm:text-lg font-bold text-white group-hover:text-brand-cyan transition-colors duration-200 line-clamp-2 leading-snug mb-3">
-                    {ev.title}
-                  </h3>
-
-                  {/* Date & Location Rows */}
-                  <div className="space-y-1.5 mb-4 text-xs font-mono text-slate-300">
-                    <div className="flex items-center gap-2">
-                      <svg
-                        className="w-3.5 h-3.5 text-brand-sky shrink-0"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        strokeWidth="2"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      >
-                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
-                        <line x1="16" y1="2" x2="16" y2="6" />
-                        <line x1="8" y1="2" x2="8" y2="6" />
-                        <line x1="3" y1="10" x2="21" y2="10" />
-                      </svg>
-                      <span className="truncate">{ev.formattedDate}</span>
-                    </div>
-
-                    <div className="flex items-center gap-2">
-                      <svg
-                        className="w-3.5 h-3.5 text-brand-purple shrink-0"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        strokeWidth="2"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      >
-                        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
-                        <circle cx="12" cy="10" r="3" />
-                      </svg>
-                      <span className="truncate text-slate-400">{ev.location}</span>
-                    </div>
-                  </div>
-
-                  {/* Snippet Description */}
-                  <p className="text-slate-400 text-xs font-light leading-relaxed line-clamp-2 mb-4">
-                    {ev.description}
-                  </p>
-                </div>
-
-                {/* Card Bottom: Topic Tags & Action Hint */}
-                <div>
-                  {/* Topic pills */}
-                  <div className="flex flex-wrap gap-1.5 mb-4">
-                    {ev.topics.slice(0, 3).map((topic, i) => (
+                  {/* Card Top: Category & Status */}
+                  <div>
+                    <div className="flex items-center justify-between gap-2 mb-3">
+                      {/* Category pill */}
                       <span
-                        key={i}
-                        className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-white/[0.03] text-slate-400 border border-white/5"
+                        className={`inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-[11px] font-mono font-medium border ${catStyle.bg} ${catStyle.text} ${catStyle.border}`}
                       >
-                        #{topic}
+                        <span className="w-1.5 h-1.5 rounded-full bg-current" />
+                        <span>{catStyle.label}</span>
                       </span>
-                    ))}
-                    {ev.topics.length > 3 && (
-                      <span className="text-[10px] font-mono text-slate-500 py-0.5">
-                        +{ev.topics.length - 3}
+
+                      {/* Status Pill */}
+                      <span
+                        className={`text-[10px] font-mono uppercase px-2 py-0.5 rounded-full border ${
+                          isLive
+                            ? "bg-emerald-500/20 text-emerald-300 border-emerald-500/40 animate-pulse font-semibold"
+                            : isCompleted
+                            ? "bg-slate-800/80 text-slate-400 border-slate-700/60"
+                            : "bg-brand-sapphire/20 text-brand-sky border-brand-sky/30"
+                        }`}
+                      >
+                        {ev.status}
                       </span>
-                    )}
+                    </div>
+
+                    {/* Badge & Title */}
+                    <div className="text-[10px] font-mono uppercase tracking-wider text-slate-400 mb-1">
+                      {ev.badge}
+                    </div>
+                    <h3 className="text-base sm:text-lg font-bold text-white group-hover:text-brand-cyan transition-colors duration-200 line-clamp-2 leading-snug mb-3">
+                      {ev.title}
+                    </h3>
+
+                    {/* Date & Location Rows */}
+                    <div className="space-y-1.5 mb-4 text-xs font-mono text-slate-300">
+                      <div className="flex items-center gap-2">
+                        <svg
+                          className="w-3.5 h-3.5 text-brand-sky shrink-0"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                        >
+                          <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
+                          <line x1="16" y1="2" x2="16" y2="6" />
+                          <line x1="8" y1="2" x2="8" y2="6" />
+                          <line x1="3" y1="10" x2="21" y2="10" />
+                        </svg>
+                        <span className="truncate">{ev.formattedDate}</span>
+                      </div>
+
+                      <div className="flex items-center gap-2">
+                        <svg
+                          className="w-3.5 h-3.5 text-brand-purple shrink-0"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                        >
+                          <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                          <circle cx="12" cy="10" r="3" />
+                        </svg>
+                        <span className="truncate text-slate-400">{ev.location}</span>
+                      </div>
+                    </div>
+
+                    {/* Snippet Description */}
+                    <p className="text-slate-400 text-xs font-light leading-relaxed line-clamp-2 mb-4">
+                      {ev.description}
+                    </p>
                   </div>
 
-                  {/* Interactive Trigger Banner */}
-                  <div className="pt-3 border-t border-white/5 flex items-center justify-between text-xs font-mono text-brand-sky group-hover:text-brand-cyan transition-colors">
-                    <span className="text-[11px]">View Details & Calendar</span>
-                    <span className="text-sm transition-transform group-hover:translate-x-1 duration-200">
-                      →
-                    </span>
+                  {/* Card Bottom: Topic Tags & Action Hint */}
+                  <div>
+                    {/* Topic pills */}
+                    <div className="flex flex-wrap gap-1.5 mb-4">
+                      {ev.topics.slice(0, 3).map((topic, i) => (
+                        <span
+                          key={i}
+                          className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-white/[0.03] text-slate-400 border border-white/5"
+                        >
+                          #{topic}
+                        </span>
+                      ))}
+                      {ev.topics.length > 3 && (
+                        <span className="text-[10px] font-mono text-slate-500 py-0.5">
+                          +{ev.topics.length - 3}
+                        </span>
+                      )}
+                    </div>
+
+                    {/* Interactive Trigger Banner */}
+                    <div className="pt-3 border-t border-white/5 flex items-center justify-between text-xs font-mono text-brand-sky group-hover:text-brand-cyan transition-colors">
+                      <span className="text-[11px]">View Details & Calendar</span>
+                      <span className="text-sm transition-transform group-hover:translate-x-1 duration-200">
+                        →
+                      </span>
+                    </div>
                   </div>
                 </div>
-              </div>
-            );
-          })}
-        </div>
+              );
+            })}
+          </div>
+
+          {/* Load More Button */}
+          {visibleCount < filteredEvents.length && (
+            <div className="flex flex-col items-center justify-center pt-8">
+              <button
+                type="button"
+                onClick={() => setVisibleCount((prev) => prev + 18)}
+                className="inline-flex items-center gap-2 px-7 py-3 rounded-xl glass-panel text-xs sm:text-sm font-mono text-slate-200 hover:text-white hover:border-brand-purple/50 hover:shadow-[0_0_20px_rgba(168,85,247,0.25)] transition-all duration-300 group"
+              >
+                <span>Load More Summits ({filteredEvents.length - visibleCount} remaining)</span>
+                <span className="text-brand-purple group-hover:translate-y-0.5 transition-transform duration-200">↓</span>
+              </button>
+              <span className="text-[11px] font-mono text-slate-500 mt-2">
+                Showing {Math.min(visibleCount, filteredEvents.length)} of {filteredEvents.length} global summits & hackathons
+              </span>
+            </div>
+          )}
+        </>
       )}
 
       {/* ========================================================================= */}
