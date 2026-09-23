@@ -1,5 +1,124 @@
 [
   {
+    "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+    "url": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+    "source": "Wired AI",
+    "date": "2026-09-23T18:03:00Z",
+    "snippet": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology."
+  },
+  {
+    "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+    "source": "The Verge AI",
+    "date": "2026-09-23T18:00:00Z",
+    "snippet": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public."
+  },
+  {
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T17:00:00Z",
+    "snippet": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
+  },
+  {
+    "title": "Even Americans who use AI every day are worried about it",
+    "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T16:49:58Z",
+    "snippet": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
+  },
+  {
+    "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+    "source": "The Verge AI",
+    "date": "2026-09-23T16:23:05Z",
+    "snippet": "Sen. Bernie Sanders (I-VT) and Rep."
+  },
+  {
+    "title": "YouTube Music gets more conversational with new AI features",
+    "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T15:19:30Z",
+    "snippet": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists."
+  },
+  {
+    "title": "How to fix your Windows File History if the September update broke it",
+    "url": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
+    "source": "ZDNet AI",
+    "date": "2026-09-23T15:01:00Z",
+    "snippet": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it."
+  },
+  {
+    "title": "YouTube will let you build your own algorithm with AI",
+    "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T14:30:00Z",
+    "snippet": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+  },
+  {
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T14:30:00Z",
+    "snippet": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m."
+  },
+  {
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T14:30:00Z",
+    "snippet": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
+  },
+  {
+    "title": "YouTube is building AI creator tools that do almost everything for them",
+    "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+    "source": "The Verge AI",
+    "date": "2026-09-23T14:30:00Z",
+    "snippet": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do."
+  },
+  {
+    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T14:00:00Z",
+    "snippet": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders."
+  },
+  {
+    "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+    "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T13:00:00Z",
+    "snippet": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations."
+  },
+  {
+    "title": "Nearly 70% of workers use AI regularly now – but many get no time to upskill",
+    "url": "https://www.zdnet.com/innovation/workera-study-ai-skills-upskilling-2026/",
+    "source": "ZDNet AI",
+    "date": "2026-09-23T13:00:00Z",
+    "snippet": "ZDNET Exclusive: A new Workera report shows businesses and employees aren’t on the same page about AI upskilling. Here’s what organizations need to know."
+  },
+  {
+    "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+    "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+    "source": "Wired AI",
+    "date": "2026-09-23T12:54:58Z",
+    "snippet": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers."
+  },
+  {
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T12:00:00Z",
+    "snippet": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
+  },
+  {
+    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "source": "The Verge AI",
+    "date": "2026-09-23T11:02:39Z",
+    "snippet": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product."
+  },
+  {
     "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
     "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
     "source": "Wired AI",
@@ -154,25 +273,11 @@
     "snippet": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m."
   },
   {
-    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22T14:00:00Z",
-    "snippet": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT."
-  },
-  {
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
     "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "source": "MIT Technology Review",
     "date": "2026-09-22T13:42:05Z",
     "snippet": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…"
-  },
-  {
-    "title": "Everyone can find a reason to dislike data center construction",
-    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22T13:00:00Z",
-    "snippet": "Inside two years of fraught AI data center debates in Pennsylvania."
   },
   {
     "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
@@ -187,13 +292,6 @@
     "source": "Wired AI",
     "date": "2026-09-22T13:00:00Z",
     "snippet": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code."
-  },
-  {
-    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22T12:23:05Z",
-    "snippet": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue."
   },
   {
     "title": "Meta patches Muse exploit that let attackers control the AI agent",
@@ -231,27 +329,6 @@
     "snippet": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual."
   },
   {
-    "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-    "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-    "source": "Wired AI",
-    "date": "2026-09-22T09:30:00Z",
-    "snippet": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments."
-  },
-  {
-    "title": "How to Use AI With Your Privacy Intact",
-    "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-    "source": "Wired AI",
-    "date": "2026-09-22T09:00:00Z",
-    "snippet": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself."
-  },
-  {
-    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21T23:44:28Z",
-    "snippet": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
-  },
-  {
     "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
     "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
     "source": "Ars Technica Tech",
@@ -259,67 +336,11 @@
     "snippet": "A simple ClickFix attack is only one way to completely hijack the new agent."
   },
   {
-    "title": "California tightens rules on AI data center energy and water use",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-    "source": "The Verge AI",
-    "date": "2026-09-21T20:29:45Z",
-    "snippet": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times."
-  },
-  {
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21T20:15:58Z",
-    "snippet": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
-  },
-  {
-    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21T19:25:00Z",
-    "snippet": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15."
-  },
-  {
-    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21T19:19:21Z",
-    "snippet": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures."
-  },
-  {
-    "title": "Meta’s AI agent has been blocked from using Amazon.com",
-    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21T17:55:18Z",
-    "snippet": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?"
-  },
-  {
-    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21T16:38:51Z",
-    "snippet": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss."
-  },
-  {
     "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
     "url": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
     "source": "ZDNet AI",
     "date": "2026-09-21T16:07:21Z",
     "snippet": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut."
-  },
-  {
-    "title": "Can John Ternus find Apple’s next big thing?",
-    "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-    "source": "The Verge AI",
-    "date": "2026-09-21T14:00:00Z",
-    "snippet": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark."
-  },
-  {
-    "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-    "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-    "source": "The Verge AI",
-    "date": "2026-09-21T13:36:52Z",
-    "snippet": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and"
   },
   {
     "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
@@ -355,13 +376,6 @@
     "source": "ZDNet AI",
     "date": "2026-09-21T11:53:04Z",
     "snippet": "We know models cheat. A new benchmark measures how much, and on what tasks."
-  },
-  {
-    "title": "UN says AI safeguards can’t wait for certainty",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-    "source": "The Verge AI",
-    "date": "2026-09-21T10:18:06Z",
-    "snippet": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York"
   },
   {
     "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
@@ -574,25 +588,11 @@
     "snippet": "New research explores behavioral trends behind that ‘nothing to hide’ phrase. Plus: 6 ways to improve your phone privacy."
   },
   {
-    "title": "The iPhone 17 and other older models just got a surprise $100 price hike",
-    "url": "https://www.zdnet.com/business/iphone-17-older-models-100-price-hike/",
-    "source": "ZDNet AI",
-    "date": "2026-09-09T22:22:42Z",
-    "snippet": "Apple quietly increased prices across its existing lineup after revealing its latest devices. Here’s why."
-  },
-  {
     "title": "Four groups caught using the same Chrome and Windows exploit kit",
     "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
     "source": "Ars Technica Tech",
     "date": "2026-09-09T20:55:02Z",
     "snippet": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
-  },
-  {
-    "title": "5 biggest Apple announcements from the iPhone Duo event",
-    "url": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
-    "source": "ZDNet AI",
-    "date": "2026-09-09T20:54:09Z",
-    "snippet": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino. Here’s the rundown."
   },
   {
     "title": "T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder",
