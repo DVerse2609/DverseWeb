@@ -1,5 +1,26 @@
 [
   {
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+    "source": "The Verge AI",
+    "date": "2026-09-24T11:52:32Z",
+    "snippet": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the"
+  },
+  {
+    "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+    "source": "Wired AI",
+    "date": "2026-09-24T10:46:56Z",
+    "snippet": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law."
+  },
+  {
+    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+    "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "source": "The Verge AI",
+    "date": "2026-09-24T09:04:18Z",
+    "snippet": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is"
+  },
+  {
     "title": "Everything new coming to Meta’s AI agent Muse",
     "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
     "source": "TechCrunch AI",
@@ -119,13 +140,6 @@
     "snippet": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology."
   },
   {
-    "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-    "source": "The Verge AI",
-    "date": "2026-09-23T18:00:00Z",
-    "snippet": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public."
-  },
-  {
     "title": "ChatGPT mobile app gets voice-based agentic features",
     "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
     "source": "TechCrunch AI",
@@ -138,13 +152,6 @@
     "source": "TechCrunch AI",
     "date": "2026-09-23T16:49:58Z",
     "snippet": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
-  },
-  {
-    "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-    "source": "The Verge AI",
-    "date": "2026-09-23T16:23:05Z",
-    "snippet": "Sen. Bernie Sanders (I-VT) and Rep."
   },
   {
     "title": "YouTube Music gets more conversational with new AI features",
@@ -168,18 +175,18 @@
     "snippet": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
   },
   {
-    "title": "YouTube releases new AI features for creators within its Studio app",
-    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-23T14:30:00Z",
-    "snippet": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
-  },
-  {
     "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
     "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
     "source": "TechCrunch AI",
     "date": "2026-09-23T14:30:00Z",
     "snippet": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m."
+  },
+  {
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T14:30:00Z",
+    "snippet": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
   },
   {
     "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
@@ -320,13 +327,6 @@
     "source": "Wired AI",
     "date": "2026-09-22T13:00:00Z",
     "snippet": "No cameras? No problem."
-  },
-  {
-    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
-    "source": "Wired AI",
-    "date": "2026-09-22T13:00:00Z",
-    "snippet": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code."
   },
   {
     "title": "Don’t be fooled by this summer of AI hype",
