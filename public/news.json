@@ -1,10 +1,31 @@
 [
   {
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "source": "The Verge AI",
+    "date": "2026-09-25T12:00:00Z",
+    "snippet": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents."
+  },
+  {
+    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "source": "Ars Technica",
+    "date": "2026-09-25T11:00:28Z",
+    "snippet": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\""
+  },
+  {
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "source": "MIT Technology Review",
+    "date": "2026-09-25T09:16:25Z",
+    "snippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which…"
+  },
+  {
     "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
     "source": "TechCrunch AI",
     "date": "2026-09-25T05:00:00Z",
-    "snippet": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+    "snippet": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
   },
   {
     "title": "Google Wallet got a lot of new tricks in 2026 – these 5 are my favorites",
@@ -194,13 +215,6 @@
     "source": "The Verge AI",
     "date": "2026-09-24T14:15:17Z",
     "snippet": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit."
-  },
-  {
-    "title": "The vibes are bad for Flock in Washington",
-    "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-    "source": "The Verge AI",
-    "date": "2026-09-24T14:15:05Z",
-    "snippet": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair"
   },
   {
     "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
@@ -532,13 +546,6 @@
     "snippet": "The latest out-of-band update resolves a few problems in Windows 11, including one that cut off the sound for certain USB audio devices."
   },
   {
-    "title": "Roundtables: Could AI really kill us all?",
-    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-15T17:47:51Z",
-    "snippet": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?"
-  },
-  {
     "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
     "url": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
     "source": "ZDNet AI",
@@ -691,12 +698,5 @@
     "source": "Ars Technica Tech",
     "date": "2026-08-30T11:03:47Z",
     "snippet": "The company is testing robots on tasks that can performed by technicians."
-  },
-  {
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-    "source": "Ars Technica",
-    "date": "2026-08-27T22:15:43Z",
-    "snippet": "Standardized driver interface aims to let devices talk to AI and each other."
   }
 ]
