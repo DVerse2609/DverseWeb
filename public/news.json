@@ -1,5 +1,68 @@
 [
   {
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25T23:11:10Z",
+    "snippet": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans."
+  },
+  {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25T22:20:47Z",
+    "snippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+  },
+  {
+    "title": "Meta opens early access program for new Muse features",
+    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25T20:34:53Z",
+    "snippet": "Anyone interested in joining has to ask Muse to put them on the list."
+  },
+  {
+    "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "source": "Wired AI",
+    "date": "2026-09-25T20:30:40Z",
+    "snippet": "They wanted the silicon. They got the sand."
+  },
+  {
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25T19:13:38Z",
+    "snippet": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
+  },
+  {
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "source": "Ars Technica",
+    "date": "2026-09-25T19:11:05Z",
+    "snippet": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”"
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25T18:48:33Z",
+    "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
+  },
+  {
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25T18:33:59Z",
+    "snippet": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
+  },
+  {
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25T18:22:47Z",
+    "snippet": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later."
+  },
+  {
     "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
     "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
     "source": "Ars Technica",
@@ -47,6 +110,13 @@
     "source": "TechCrunch AI",
     "date": "2026-09-25T16:16:52Z",
     "snippet": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
+  },
+  {
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25T16:00:00Z",
+    "snippet": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later."
   },
   {
     "title": "Sony and UMG are suing Suno again",
@@ -203,13 +273,6 @@
     "snippet": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls."
   },
   {
-    "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-    "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24T17:39:24Z",
-    "snippet": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
-  },
-  {
     "title": "Muse will apparently let you download its entire filesystem",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
     "source": "The Verge AI",
@@ -224,39 +287,11 @@
     "snippet": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate."
   },
   {
-    "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-    "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24T17:00:00Z",
-    "snippet": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24T16:46:47Z",
-    "snippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
-  },
-  {
-    "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-    "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24T16:35:13Z",
-    "snippet": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway."
-  },
-  {
     "title": "Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it",
     "url": "https://www.zdnet.com/home-and-office/microsoft-surface-mouse-haptic-feedback-customizable/",
     "source": "ZDNet AI",
     "date": "2026-09-24T16:22:13Z",
     "snippet": "Due October 13, the $80 Surface mouse packs an impressive array of features. I want one."
-  },
-  {
-    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24T16:03:36Z",
-    "snippet": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m."
   },
   {
     "title": "AI agent kill switch urged by Okta-led alliance – how businesses could make it work",
@@ -266,32 +301,11 @@
     "snippet": "In response to the emerging threat of rogue and shadow AI agents, here’s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity."
   },
   {
-    "title": "Google tests letting Gemini call businesses for you",
-    "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24T16:00:00Z",
-    "snippet": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription."
-  },
-  {
     "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
     "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
     "source": "Wired AI",
     "date": "2026-09-24T16:00:00Z",
     "snippet": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning."
-  },
-  {
-    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24T15:00:00Z",
-    "snippet": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT."
-  },
-  {
-    "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-    "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24T14:43:25Z",
-    "snippet": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month."
   },
   {
     "title": "Is your Apple Watch 12 or Ultra 4 randomly restarting? Here’s the fix",
@@ -362,13 +376,6 @@
     "source": "Wired AI",
     "date": "2026-09-23T12:54:58Z",
     "snippet": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers."
-  },
-  {
-    "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
-    "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
-    "source": "Wired AI",
-    "date": "2026-09-23T10:15:00Z",
-    "snippet": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation."
   },
   {
     "title": "The AI Hype Index: AI loves cheating",
@@ -691,12 +698,5 @@
     "source": "Ars Technica Tech",
     "date": "2026-08-31T16:33:38Z",
     "snippet": "In exchange for free stuff, devices make home connections part of a proxy network."
-  },
-  {
-    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-    "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-    "source": "Ars Technica",
-    "date": "2026-08-31T10:00:34Z",
-    "snippet": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform."
   }
 ]
