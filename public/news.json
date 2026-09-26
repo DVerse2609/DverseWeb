@@ -1,5 +1,26 @@
 [
   {
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "source": "The Verge AI",
+    "date": "2026-09-26T16:34:59Z",
+    "snippet": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access."
+  },
+  {
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-26T14:00:00Z",
+    "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+  },
+  {
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "source": "The Verge AI",
+    "date": "2026-09-26T14:00:00Z",
+    "snippet": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business."
+  },
+  {
     "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
     "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
     "source": "Wired AI",
@@ -266,13 +287,6 @@
     "snippet": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m."
   },
   {
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24T19:00:42Z",
-    "snippet": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
-  },
-  {
     "title": "Jensen Huang talks about AI and climate change like a supervillain",
     "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
     "source": "The Verge AI",
@@ -285,20 +299,6 @@
     "source": "The Verge AI",
     "date": "2026-09-24T17:52:29Z",
     "snippet": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls."
-  },
-  {
-    "title": "Muse will apparently let you download its entire filesystem",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-    "source": "The Verge AI",
-    "date": "2026-09-24T17:14:12Z",
-    "snippet": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L."
-  },
-  {
-    "title": "Muse sure looks a lot like OpenClaw",
-    "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-    "source": "The Verge AI",
-    "date": "2026-09-24T17:10:38Z",
-    "snippet": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate."
   },
   {
     "title": "Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it",
