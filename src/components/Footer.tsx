@@ -2,9 +2,13 @@
 
 import React from "react";
 
-export default function Footer() {
+export default function Footer({ compact = false }: { compact?: boolean }) {
   return (
-    <footer className="w-full max-w-7xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-slate-850/80 text-xs font-mono text-slate-500 z-20">
+    <footer
+      className={`w-full max-w-7xl mx-auto px-6 ${
+        compact ? "py-2.5 sm:py-3" : "py-3.5 sm:py-4"
+      } flex flex-col sm:flex-row items-center justify-between gap-2.5 sm:gap-4 border-t border-slate-850/80 text-xs font-mono text-slate-500 z-20 shrink-0`}
+    >
       <div className="flex items-center gap-2">
         <span className="text-slate-400 font-semibold font-mono">
           DATAVERSE<span className="text-brand-cyan">.AI</span>

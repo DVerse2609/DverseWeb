@@ -8,8 +8,24 @@ Outputs statically to public/events.json.
 
 import json
 import os
+import re
 from datetime import datetime, date, timezone
-from urllib.parse import quote
+from urllib.parse import quote, urljoin
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import requests
+from bs4 import BeautifulSoup
+
+USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/128.0.0.0 Safari/537.36"
+)
+
+CATEGORY_FALLBACKS = {
+    "Crypto": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop",
+    "AI": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop",
+    "Crypto x AI": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+}
 
 # 100 Premier Global Events Curated for 2026
 CORE_EVENTS = [
@@ -1583,6 +1599,40 @@ def compute_status_and_days(start_str: str, end_str: str, today: date) -> tuple[
     except Exception:
         return "Upcoming", 999
 
+def is_valid_image_url(url: str) -> bool:
+    if not url or not isinstance(url, str):
+        return False
+    url = url.strip()
+    if not url.startswith("http://") and not url.startswith("https://"):
+        return False
+    if any(x in url.lower() for x in ["feedburner", "1x1", "pixel", "beacon", "statcounter"]):
+        return False
+    return True
+
+def scrape_event_image(ev: dict) -> tuple[dict, str | None]:
+    url = ev.get("officialUrl")
+    if not url:
+        return ev, None
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    try:
+        resp = requests.get(url, headers=headers, timeout=4.5)
+        if resp.status_code == 200:
+            soup = BeautifulSoup(resp.text, "html.parser")
+            og = soup.find("meta", attrs={"property": "og:image"})
+            tw = soup.find("meta", attrs={"name": "twitter:image"})
+            img = (og.get("content") if og else None) or (tw.get("content") if tw else None)
+            if img:
+                img = urljoin(url, img.strip())
+                if is_valid_image_url(img):
+                    return ev, img
+    except Exception:
+        pass
+    return ev, None
+
 def process_events():
     today = datetime.now(timezone.utc).date()
     processed = []
@@ -1603,12 +1653,29 @@ def process_events():
             "status": status,
             "daysLeft": days_left,
             "formattedDate": formatted_date,
-            "googleCalendarUrl": google_cal
+            "googleCalendarUrl": google_cal,
+            "image": None,
         }
         processed.append(item)
     
     # Sort chronologically by startDate
     processed.sort(key=lambda x: x["startDate"])
+
+    # Concurrent OpenGraph image scraping
+    print(f"🖼️ Scraping official banner images for {len(processed)} global events...")
+    with ThreadPoolExecutor(max_workers=16) as executor:
+        future_to_ev = {executor.submit(scrape_event_image, ev): ev for ev in processed}
+        resolved_count = 0
+        for future in as_completed(future_to_ev):
+            ev, img_url = future.result()
+            if img_url:
+                ev["image"] = img_url
+                resolved_count += 1
+            else:
+                cat = ev.get("category", "Crypto")
+                ev["image"] = CATEGORY_FALLBACKS.get(cat, CATEGORY_FALLBACKS["Crypto x AI"])
+
+    print(f"  ✓ Resolved {resolved_count}/{len(processed)} event banner images from official websites")
     
     output_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "public", "events.json")
     with open(output_path, "w", encoding="utf-8") as f:

@@ -5,7 +5,7 @@ import React, { useState, useEffect, useMemo } from "react";
 export interface EventItem {
   id: string;
   title: string;
-  category: "Crypto" | "AI" | "DeAI";
+  category: "Crypto" | "AI" | "Crypto x AI" | string;
   badge: string;
   startDate: string;
   endDate: string;
@@ -20,47 +20,126 @@ export interface EventItem {
   daysLeft: number;
   formattedDate: string;
   googleCalendarUrl: string;
+  image?: string | null;
 }
 
-const CATEGORY_STYLES: Record<string, { label: string; text: string; bg: string; border: string; glow: string }> = {
+const CATEGORY_STYLES: Record<
+  string,
+  {
+    label: string;
+    text: string;
+    bg: string;
+    border: string;
+    dot: string;
+    accent: string;
+  }
+> = {
   Crypto: {
     label: "Crypto & Web3",
     text: "text-amber-400",
     bg: "bg-amber-500/10",
     border: "border-amber-500/30",
-    glow: "rgba(245, 158, 11, 0.15)",
+    dot: "bg-amber-400",
+    accent: "from-amber-500/30 via-amber-950/20 to-cosmic-950",
   },
   AI: {
     label: "Artificial Intelligence",
     text: "text-brand-cyan",
     bg: "bg-cyan-500/10",
     border: "border-cyan-500/30",
-    glow: "rgba(0, 242, 254, 0.15)",
+    dot: "bg-brand-cyan",
+    accent: "from-cyan-500/30 via-cyan-950/20 to-cosmic-950",
   },
-  DeAI: {
-    label: "Crypto x AI / DeAI",
+  "Crypto x AI": {
+    label: "Crypto x AI",
     text: "text-brand-purple",
     bg: "bg-purple-500/10",
     border: "border-purple-500/30",
-    glow: "rgba(168, 85, 247, 0.15)",
+    dot: "bg-brand-purple",
+    accent: "from-purple-500/30 via-purple-950/20 to-cosmic-950",
+  },
+  DeAI: {
+    label: "Crypto x AI",
+    text: "text-brand-purple",
+    bg: "bg-purple-500/10",
+    border: "border-purple-500/30",
+    dot: "bg-brand-purple",
+    accent: "from-purple-500/30 via-purple-950/20 to-cosmic-950",
   },
 };
 
-export default function EventsCenter() {
+function getCategoryConfig(category: string) {
+  return (
+    CATEGORY_STYLES[category] || {
+      label: category || "Event",
+      text: "text-brand-sky",
+      bg: "bg-slate-800/60",
+      border: "border-slate-700",
+      dot: "bg-brand-sky",
+      accent: "from-brand-cyan/30 via-brand-sapphire/20 to-cosmic-950",
+    }
+  );
+}
+
+/** Robust Event Image with smooth fallback */
+function EventThumbnail({
+  src,
+  alt,
+  category,
+}: {
+  src?: string | null;
+  alt: string;
+  category: string;
+}) {
+  const [hasError, setHasError] = useState(false);
+  const cfg = getCategoryConfig(category);
+
+  if (!src || hasError) {
+    return (
+      <div
+        className={`w-full h-full flex flex-col items-center justify-center p-4 bg-gradient-to-br ${cfg.accent} bg-cosmic-900 border border-slate-800/80 relative overflow-hidden`}
+      >
+        <div className="w-10 h-10 rounded-full bg-slate-800/80 flex items-center justify-center mb-1 text-slate-300">
+          🌐
+        </div>
+        <span className="text-[11px] font-mono text-slate-400 uppercase tracking-widest text-center line-clamp-1">
+          {cfg.label}
+        </span>
+      </div>
+    );
+  }
+
+  return (
+    <div className="w-full h-full relative overflow-hidden bg-cosmic-950">
+      <img
+        src={src}
+        alt={alt}
+        loading="lazy"
+        onError={() => setHasError(true)}
+        className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+      />
+      <div className="absolute inset-0 bg-gradient-to-t from-cosmic-950/80 via-transparent to-black/20 pointer-events-none" />
+    </div>
+  );
+}
+
+interface EventsCenterProps {
+  hideHeader?: boolean;
+}
+
+export default function EventsCenter({ hideHeader = false }: EventsCenterProps) {
   const [events, setEvents] = useState<EventItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // Filters
-  const [selectedCategory, setSelectedCategory] = useState<string>("All");
-  const [selectedTimeline, setSelectedTimeline] = useState<"all" | "upcoming" | "past">("all");
-  const [searchQuery, setSearchQuery] = useState<string>("");
-  const [visibleCount, setVisibleCount] = useState<number>(18);
+  // Filters & State
+  const [searchQuery, setSearchQuery] = useState("");
+  const [selectedCategory, setSelectedCategory] = useState("All");
+  const [timelineFilter, setTimelineFilter] = useState<"all" | "upcoming" | "completed">("all");
+  const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
+  const [visibleCount, setVisibleCount] = useState(12);
+  const [copiedUrl, setCopiedUrl] = useState<string | null>(null);
 
-  // Modal state
-  const [activeModalEvent, setActiveModalEvent] = useState<EventItem | null>(null);
-
-  // Load events from static public/events.json
   useEffect(() => {
     async function loadEvents() {
       try {
@@ -73,7 +152,7 @@ export default function EventsCenter() {
         setEvents(Array.isArray(data) ? data : []);
       } catch (err: unknown) {
         console.error("Error loading events.json:", err);
-        setError("Unable to load global events calendar. Please check back shortly.");
+        setError("Unable to load latest events calendar. Please check back shortly.");
       } finally {
         setIsLoading(false);
       }
@@ -82,584 +161,701 @@ export default function EventsCenter() {
     loadEvents();
   }, []);
 
-  // Keyboard shortcut (Escape) to close modal
-  useEffect(() => {
-    const handleKeyDown = (e: KeyboardEvent) => {
-      if (e.key === "Escape") {
-        setActiveModalEvent(null);
-      }
-    };
-    window.addEventListener("keydown", handleKeyDown);
-    return () => window.removeEventListener("keydown", handleKeyDown);
+  // Category counts
+  const categoryStats = useMemo(() => {
+    const counts: Record<string, number> = {};
+    events.forEach((ev) => {
+      const cat = ev.category || "Crypto";
+      counts[cat] = (counts[cat] || 0) + 1;
+    });
+    return counts;
+  }, [events]);
+
+  const uniqueCategories = useMemo(() => {
+    return ["All", "Crypto", "AI", "Crypto x AI"];
   }, []);
 
-  // Filtered list of events
+  // Filtered events
   const filteredEvents = useMemo(() => {
     return events.filter((ev) => {
-      // Category filter
       const matchesCategory =
-        selectedCategory === "All" || ev.category === selectedCategory;
+        selectedCategory === "All" ||
+        ev.category === selectedCategory ||
+        (selectedCategory === "Crypto x AI" && ev.category === "DeAI");
 
-      // Timeline filter
       let matchesTimeline = true;
-      if (selectedTimeline === "upcoming") {
+      if (timelineFilter === "upcoming") {
         matchesTimeline = ev.status !== "Completed";
-      } else if (selectedTimeline === "past") {
+      } else if (timelineFilter === "completed") {
         matchesTimeline = ev.status === "Completed";
       }
 
-      // Search query
       const q = searchQuery.toLowerCase().trim();
       const matchesQuery =
         !q ||
         ev.title.toLowerCase().includes(q) ||
         ev.location.toLowerCase().includes(q) ||
         ev.venue.toLowerCase().includes(q) ||
-        ev.badge.toLowerCase().includes(q) ||
-        ev.topics.some((t) => t.toLowerCase().includes(q));
+        ev.description.toLowerCase().includes(q) ||
+        ev.topics?.some((t) => t.toLowerCase().includes(q));
 
       return matchesCategory && matchesTimeline && matchesQuery;
     });
-  }, [events, selectedCategory, selectedTimeline, searchQuery]);
+  }, [events, selectedCategory, timelineFilter, searchQuery]);
+
+  // Featured flagship event (top upcoming or featured event)
+  const isHeroMode = !searchQuery && selectedCategory === "All" && timelineFilter === "all" && filteredEvents.length > 0;
+  // Pick Solana Breakpoint or first featured event as hero
+  const featuredEvent = useMemo(() => {
+    if (!isHeroMode) return null;
+    return filteredEvents.find((e) => e.isFeatured) || filteredEvents[0];
+  }, [isHeroMode, filteredEvents]);
+
+  const remainingEvents = useMemo(() => {
+    if (!featuredEvent) return filteredEvents;
+    return filteredEvents.filter((e) => e.id !== featuredEvent.id);
+  }, [filteredEvents, featuredEvent]);
 
   const displayedEvents = useMemo(() => {
-    return filteredEvents.slice(0, visibleCount);
-  }, [filteredEvents, visibleCount]);
+    return remainingEvents.slice(0, visibleCount);
+  }, [remainingEvents, visibleCount]);
 
-  // Generate and download .ics iCalendar file for Apple Calendar / Outlook
-  const handleDownloadIcs = (ev: EventItem) => {
-    try {
-      const cleanStart = ev.startDate.replace(/-/g, "");
-      const endDateObj = new Date(ev.endDate);
-      endDateObj.setDate(endDateObj.getDate() + 1);
-      const cleanEnd = endDateObj.toISOString().slice(0, 10).replace(/-/g, "");
-
-      const icsLines = [
-        "BEGIN:VCALENDAR",
-        "VERSION:2.0",
-        "PRODID:-//dataverse.ai//Events Calendar//EN",
-        "CALSCALE:GREGORIAN",
-        "METHOD:PUBLISH",
-        "BEGIN:VEVENT",
-        `UID:${ev.id}@dverse.info`,
-        `DTSTAMP:${cleanStart}T000000Z`,
-        `DTSTART;VALUE=DATE:${cleanStart}`,
-        `DTEND;VALUE=DATE:${cleanEnd}`,
-        `SUMMARY:${ev.title}`,
-        `DESCRIPTION:${ev.description.replace(/\n/g, "\\n")} \\n\\nOfficial: ${ev.officialUrl}\\nCurated by dataverse.ai ($DVERSE)`,
-        `LOCATION:${ev.venue}, ${ev.location}`,
-        `URL:${ev.officialUrl}`,
-        "STATUS:CONFIRMED",
-        "END:VEVENT",
-        "END:VCALENDAR",
-      ];
-
-      const blob = new Blob([icsLines.join("\r\n")], {
-        type: "text/calendar;charset=utf-8",
-      });
-      const url = window.URL.createObjectURL(blob);
-      const link = document.createElement("a");
-      link.href = url;
-      link.setAttribute("download", `${ev.id}.ics`);
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-      window.URL.revokeObjectURL(url);
-    } catch (err) {
-      console.error("Failed to generate ICS file:", err);
-    }
+  const handleCopyLink = (url: string, e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    navigator.clipboard.writeText(url);
+    setCopiedUrl(url);
+    setTimeout(() => {
+      setCopiedUrl(null);
+    }, 2000);
   };
 
   return (
-    <div className="w-full">
-      {/* Search & Category Filter Toolbar */}
-      <div className="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-4 mb-8">
-        {/* Category selection pills */}
-        <div className="flex items-center gap-1.5 overflow-x-auto pb-2 md:pb-0 scrollbar-none">
-          {["All", "Crypto", "AI", "DeAI"].map((cat) => {
+    <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
+      {/* Header section with heading and a small body */}
+      {!hideHeader && (
+        <div className="flex flex-col items-center text-center mb-10">
+          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight mb-4 leading-tight">
+            Crypto & AI <span className="text-gradient-cyan">Global Events</span>
+          </h1>
+          <p className="text-slate-400 text-sm sm:text-base lg:text-lg max-w-3xl font-light leading-relaxed">
+            Curated calendar of 100+ premier summits, developer hackathons, and research conferences across Web3, Artificial Intelligence, and Decentralized Intelligence.
+          </p>
+        </div>
+      )}
+
+      {/* Featured Flagship Event Hero Card (Prominent Card with Scraped Image) */}
+      {!isLoading && !error && featuredEvent && (
+        <div className="mb-10 w-full">
+          <div className="relative group rounded-3xl glass-panel p-6 sm:p-8 lg:p-10 border-brand-cyan/25 hover:border-brand-cyan/50 transition-all duration-300 shadow-[0_8px_32px_rgba(0,242,254,0.12)] overflow-hidden">
+            {/* Ambient Background Glow */}
+            <div className="absolute top-0 right-0 -mr-20 -mt-20 w-96 h-96 bg-gradient-to-br from-brand-cyan/20 via-brand-sapphire/15 to-transparent rounded-full blur-3xl pointer-events-none" />
+
+            <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+              {/* Left Column: Metadata, Title, Description, and CTAs */}
+              <div className="lg:col-span-7 flex flex-col justify-between">
+                <div>
+                  {/* Top Badges */}
+                  <div className="flex flex-wrap items-center gap-2.5 mb-4">
+                    <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-mono font-bold bg-brand-cyan/15 text-brand-cyan border border-brand-cyan/30 tracking-wider uppercase">
+                      <span className="w-1.5 h-1.5 rounded-full bg-brand-cyan animate-ping" />
+                      Featured Summit
+                    </span>
+
+                    {(() => {
+                      const cfg = getCategoryConfig(featuredEvent.category);
+                      return (
+                        <span
+                          className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-mono font-medium border ${cfg.bg} ${cfg.text} ${cfg.border}`}
+                        >
+                          <span className={`w-1.5 h-1.5 rounded-full ${cfg.dot}`} />
+                          {featuredEvent.category}
+                        </span>
+                      );
+                    })()}
+
+                    <span className="text-xs font-mono text-slate-400">
+                      {featuredEvent.formattedDate}
+                    </span>
+                    <span className="text-slate-600 hidden sm:inline">•</span>
+                    <span className="text-xs font-mono text-brand-sky hidden sm:inline">
+                      📍 {featuredEvent.location}
+                    </span>
+                  </div>
+
+                  {/* Title */}
+                  <a
+                    href={featuredEvent.officialUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block group/title mb-3"
+                  >
+                    <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white group-hover/title:text-brand-cyan transition-colors leading-tight">
+                      {featuredEvent.title}
+                    </h2>
+                  </a>
+
+                  {/* Small Body / Description */}
+                  <p className="text-slate-300 text-sm sm:text-base leading-relaxed mb-5 font-normal">
+                    {featuredEvent.description}
+                  </p>
+
+                  {/* Topics Pills */}
+                  {featuredEvent.topics && featuredEvent.topics.length > 0 && (
+                    <div className="flex flex-wrap gap-1.5 mb-6">
+                      {featuredEvent.topics.map((t) => (
+                        <span
+                          key={t}
+                          className="px-2.5 py-0.5 rounded-md glass-pill text-[11px] font-mono text-slate-300 border-slate-700/60"
+                        >
+                          #{t}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                </div>
+
+                {/* CTAs */}
+                <div className="flex flex-wrap items-center justify-between gap-3 pt-4 border-t border-slate-800/60">
+                  <div className="flex items-center gap-3">
+                    <a
+                      href={featuredEvent.officialUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-brand-cyan to-brand-sapphire text-cosmic-950 font-bold text-xs sm:text-sm shadow-[0_0_20px_rgba(0,242,254,0.3)] hover:shadow-[0_0_28px_rgba(0,242,254,0.5)] transition duration-300 hover:scale-[1.02]"
+                    >
+                      <span>Visit Official Site</span>
+                      <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                        <line x1="7" y1="17" x2="17" y2="7" />
+                        <polyline points="7 7 17 7 17 17" />
+                      </svg>
+                    </a>
+
+                    {featuredEvent.googleCalendarUrl && (
+                      <a
+                        href={featuredEvent.googleCalendarUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="px-4 py-2.5 rounded-xl bg-cosmic-800/80 hover:bg-cosmic-700 border border-slate-700 text-slate-200 hover:text-white text-xs font-mono transition flex items-center gap-1.5"
+                      >
+                        <span>📅 Add to Calendar</span>
+                      </a>
+                    )}
+                  </div>
+
+                  <button
+                    onClick={(e) => handleCopyLink(featuredEvent.officialUrl, e)}
+                    title="Copy Event Link"
+                    className="p-2.5 rounded-xl bg-cosmic-800/80 hover:bg-cosmic-700 border border-slate-700 text-slate-300 hover:text-white text-xs font-mono transition flex items-center gap-1.5"
+                  >
+                    {copiedUrl === featuredEvent.officialUrl ? (
+                      <span className="text-emerald-400">✓ Copied</span>
+                    ) : (
+                      <>
+                        <svg className="w-3.5 h-3.5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3" />
+                        </svg>
+                        <span>Share</span>
+                      </>
+                    )}
+                  </button>
+                </div>
+              </div>
+
+              {/* Right Column: High-Res Scraped Event Banner */}
+              <div className="lg:col-span-5 h-64 sm:h-80 lg:h-96 rounded-2xl overflow-hidden border border-brand-cyan/20 relative shadow-[0_0_24px_rgba(0,242,254,0.12)]">
+                <a
+                  href={featuredEvent.officialUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block w-full h-full"
+                >
+                  <EventThumbnail
+                    src={featuredEvent.image}
+                    alt={featuredEvent.title}
+                    category={featuredEvent.category}
+                  />
+                  <div className="absolute bottom-3 left-3 px-3 py-1 rounded-lg glass-pill text-[11px] font-mono text-white/90">
+                    📍 {featuredEvent.venue || featuredEvent.location}
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Control Bar: Search, Category Pills, Timeline & View Mode */}
+      <div className="flex flex-col gap-4 mb-8">
+        <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3">
+          {/* Search Box */}
+          <div className="relative flex-1">
+            <div className="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none text-slate-400">
+              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <circle cx="11" cy="11" r="8" />
+                <line x1="21" y1="21" x2="16.65" y2="16.65" />
+              </svg>
+            </div>
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={(e) => {
+                setSearchQuery(e.target.value);
+                setVisibleCount(12);
+              }}
+              placeholder="Search conferences, cities, venues, or topics..."
+              className="w-full pl-10 pr-10 py-2.5 rounded-xl glass-panel text-sm text-white placeholder-slate-500 focus:outline-none focus:border-brand-cyan/60 transition duration-200"
+            />
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery("")}
+                className="absolute inset-y-0 right-0 pr-3.5 flex items-center text-xs text-slate-400 hover:text-white"
+              >
+                Clear
+              </button>
+            )}
+          </div>
+
+          {/* Timeline & View Switcher */}
+          <div className="flex items-center gap-2 justify-end">
+            <select
+              value={timelineFilter}
+              onChange={(e) => setTimelineFilter(e.target.value as "all" | "upcoming" | "completed")}
+              className="glass-pill px-3 py-2 rounded-xl text-xs font-mono text-slate-300 focus:outline-none focus:border-brand-cyan/40 bg-cosmic-900 cursor-pointer"
+            >
+              <option value="all">All Dates</option>
+              <option value="upcoming">Upcoming Only</option>
+              <option value="completed">Past Events</option>
+            </select>
+
+            <div className="flex items-center glass-pill p-1 rounded-xl">
+              <button
+                onClick={() => setViewMode("grid")}
+                title="Grid View"
+                className={`p-1.5 rounded-lg transition ${
+                  viewMode === "grid"
+                    ? "bg-brand-cyan/20 text-brand-cyan border border-brand-cyan/40 shadow-[0_0_8px_rgba(0,242,254,0.3)]"
+                    : "text-slate-400 hover:text-slate-200"
+                }`}
+              >
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <rect x="3" y="3" width="7" height="7" rx="1" />
+                  <rect x="14" y="3" width="7" height="7" rx="1" />
+                  <rect x="14" y="14" width="7" height="7" rx="1" />
+                  <rect x="3" y="14" width="7" height="7" rx="1" />
+                </svg>
+              </button>
+              <button
+                onClick={() => setViewMode("list")}
+                title="List View"
+                className={`p-1.5 rounded-lg transition ${
+                  viewMode === "list"
+                    ? "bg-brand-cyan/20 text-brand-cyan border border-brand-cyan/40 shadow-[0_0_8px_rgba(0,242,254,0.3)]"
+                    : "text-slate-400 hover:text-slate-200"
+                }`}
+              >
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <line x1="8" y1="6" x2="21" y2="6" />
+                  <line x1="8" y1="12" x2="21" y2="12" />
+                  <line x1="8" y1="18" x2="21" y2="18" />
+                  <line x1="3" y1="6" x2="3.01" y2="6" />
+                  <line x1="3" y1="12" x2="3.01" y2="12" />
+                  <line x1="3" y1="18" x2="3.01" y2="18" />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        {/* Category Filter Pills */}
+        <div className="flex items-center gap-2 overflow-x-auto pb-1.5 scrollbar-thin">
+          {uniqueCategories.map((cat) => {
             const isSelected = selectedCategory === cat;
-            const label =
+            const count =
               cat === "All"
-                ? "All Sectors"
-                : cat === "Crypto"
-                ? "Crypto & Web3"
-                : cat === "AI"
-                ? "Artificial Intelligence"
-                : "Crypto x AI";
+                ? events.length
+                : cat === "Crypto x AI"
+                ? (categoryStats["Crypto x AI"] || 0) + (categoryStats["DeAI"] || 0)
+                : categoryStats[cat] || 0;
+            const cfg = cat === "All" ? null : getCategoryConfig(cat);
 
             return (
               <button
                 key={cat}
                 onClick={() => {
                   setSelectedCategory(cat);
-                  setVisibleCount(18);
+                  setVisibleCount(12);
                 }}
-                className={`px-3 sm:px-4 py-1.5 rounded-xl text-xs font-mono font-medium whitespace-nowrap transition-all duration-200 border ${
+                className={`whitespace-nowrap px-3.5 py-1.5 rounded-xl text-xs font-mono transition-all duration-200 flex items-center gap-2 ${
                   isSelected
-                    ? "bg-brand-sapphire/30 text-brand-cyan border-brand-cyan/50 shadow-[0_0_12px_rgba(0,242,254,0.2)]"
-                    : "text-slate-400 hover:text-slate-200 border-white/5 bg-white/[0.02] hover:bg-white/[0.05]"
+                    ? "bg-brand-cyan/20 border border-brand-cyan text-brand-sky shadow-[0_0_14px_rgba(0,242,254,0.25)] font-semibold"
+                    : "glass-pill text-slate-400 hover:text-slate-200 hover:border-slate-700"
                 }`}
               >
-                {label}
+                {cfg && <span className={`w-1.5 h-1.5 rounded-full ${cfg.dot}`} />}
+                <span>{cat}</span>
+                <span className={`text-[10px] px-1.5 py-0.2 rounded-full ${isSelected ? "bg-brand-cyan/30 text-white" : "bg-slate-800 text-slate-400"}`}>
+                  {count}
+                </span>
               </button>
             );
           })}
-        </div>
-
-        {/* Timeline Filter & Search Input */}
-        <div className="flex items-center gap-2.5 w-full md:w-auto">
-          {/* Timeline filter */}
-          <div className="flex items-center p-1 rounded-xl bg-cosmic-900/90 border border-white/10 text-xs font-mono">
-            <button
-              onClick={() => {
-                setSelectedTimeline("all");
-                setVisibleCount(18);
-              }}
-              className={`px-2.5 py-1 rounded-lg transition ${
-                selectedTimeline === "all"
-                  ? "bg-brand-sapphire/40 text-brand-cyan font-semibold"
-                  : "text-slate-400 hover:text-slate-200"
-              }`}
-            >
-              All (100)
-            </button>
-            <button
-              onClick={() => {
-                setSelectedTimeline("upcoming");
-                setVisibleCount(18);
-              }}
-              className={`px-2.5 py-1 rounded-lg transition ${
-                selectedTimeline === "upcoming"
-                  ? "bg-brand-sapphire/40 text-brand-cyan font-semibold"
-                  : "text-slate-400 hover:text-slate-200"
-              }`}
-            >
-              Upcoming
-            </button>
-            <button
-              onClick={() => {
-                setSelectedTimeline("past");
-                setVisibleCount(18);
-              }}
-              className={`px-2.5 py-1 rounded-lg transition ${
-                selectedTimeline === "past"
-                  ? "bg-brand-sapphire/40 text-brand-cyan font-semibold"
-                  : "text-slate-400 hover:text-slate-200"
-              }`}
-            >
-              Past
-            </button>
-          </div>
-
-          {/* Quick search */}
-          <div className="relative flex-1 md:w-56">
-            <input
-              type="text"
-              value={searchQuery}
-              onChange={(e) => {
-                setSearchQuery(e.target.value);
-                setVisibleCount(18);
-              }}
-              placeholder="Search summit, city..."
-              className="w-full px-3 py-1.5 pl-8 rounded-xl bg-cosmic-900/90 border border-white/10 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-brand-cyan/50 font-mono"
-            />
-            <svg
-              className="absolute left-2.5 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-slate-500"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            >
-              <circle cx="11" cy="11" r="8" />
-              <line x1="21" y1="21" x2="16.65" y2="16.65" />
-            </svg>
-          </div>
         </div>
       </div>
 
       {/* Loading Skeleton */}
       {isLoading && (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6">
-          {[1, 2, 3, 4, 5, 6].map((idx) => (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {[1, 2, 3, 4, 5, 6].map((i) => (
             <div
-              key={idx}
-              className="glass-panel p-5 rounded-2xl animate-pulse border-white/5"
+              key={i}
+              className="glass-panel rounded-2xl animate-pulse flex flex-col h-80 overflow-hidden border-slate-800"
             >
-              <div className="flex items-center justify-between mb-4">
-                <div className="h-4 w-24 bg-white/5 rounded" />
-                <div className="h-4 w-16 bg-white/5 rounded-full" />
-              </div>
-              <div className="h-6 w-3/4 bg-white/10 rounded mb-3" />
-              <div className="h-4 w-1/2 bg-white/5 rounded mb-4" />
-              <div className="h-12 w-full bg-white/5 rounded mb-4" />
-              <div className="flex gap-1.5">
-                <div className="h-5 w-14 bg-white/5 rounded-full" />
-                <div className="h-5 w-14 bg-white/5 rounded-full" />
+              <div className="h-44 bg-slate-800 w-full" />
+              <div className="p-5 flex flex-col gap-3 flex-1 justify-between">
+                <div className="h-5 w-3/4 bg-slate-800 rounded-md" />
+                <div className="h-4 w-full bg-slate-800/60 rounded-md" />
+                <div className="h-4 w-1/2 bg-slate-800/40 rounded-md" />
               </div>
             </div>
           ))}
         </div>
       )}
 
-      {/* Error state */}
-      {error && !isLoading && (
-        <div className="p-8 text-center glass-panel rounded-2xl border-red-500/20 max-w-lg mx-auto">
-          <p className="text-red-400 text-sm mb-3 font-mono">{error}</p>
+      {/* Error State */}
+      {!isLoading && error && (
+        <div className="glass-panel p-10 rounded-2xl text-center border-red-500/20 text-slate-400 my-8">
+          <div className="w-12 h-12 rounded-full bg-red-500/10 border border-red-500/30 flex items-center justify-center mx-auto mb-4 text-red-400 text-xl">
+            ⚠️
+          </div>
+          <h3 className="text-lg font-bold text-white mb-2">Events Signal Interrupted</h3>
+          <p className="text-red-400 font-mono text-xs sm:text-sm mb-6 max-w-md mx-auto">{error}</p>
           <button
             onClick={() => window.location.reload()}
-            className="px-4 py-2 rounded-xl bg-red-500/20 text-red-300 text-xs font-mono hover:bg-red-500/30 transition"
+            className="px-5 py-2 rounded-xl bg-cosmic-800 hover:bg-cosmic-700 text-xs font-mono text-white border border-slate-700 transition"
           >
-            Retry Loading
+            Retry Connection
           </button>
         </div>
       )}
 
-      {/* Empty State */}
+      {/* Empty Results */}
       {!isLoading && !error && filteredEvents.length === 0 && (
-        <div className="p-12 text-center glass-panel rounded-2xl border-white/5 max-w-md mx-auto">
-          <span className="text-3xl mb-3 block">🗓️</span>
-          <h4 className="text-white font-medium text-base mb-1 font-mono">
-            No events found
-          </h4>
-          <p className="text-slate-400 text-xs mb-4">
-            Try adjusting your search terms or filter selection.
+        <div className="glass-panel p-12 rounded-2xl text-center text-slate-400 my-8 border-slate-800">
+          <div className="w-12 h-12 rounded-full bg-slate-800/80 flex items-center justify-center mx-auto mb-3 text-slate-400 text-xl">
+            🔍
+          </div>
+          <p className="text-base font-mono mb-2 text-slate-200">No events matching your query.</p>
+          <p className="text-xs text-slate-500 max-w-md mx-auto mb-5">
+            Try adjusting your search terms or selecting &quot;All&quot; from the category filters.
           </p>
           <button
             onClick={() => {
-              setSelectedCategory("All");
-              setSelectedTimeline("all");
               setSearchQuery("");
+              setSelectedCategory("All");
+              setTimelineFilter("all");
             }}
-            className="px-4 py-2 rounded-xl bg-brand-sapphire/20 text-brand-cyan border border-brand-cyan/30 text-xs font-mono hover:bg-brand-sapphire/40 transition"
+            className="px-4 py-2 rounded-xl bg-brand-cyan/20 border border-brand-cyan/40 text-brand-sky text-xs font-mono hover:bg-brand-cyan/30 transition"
           >
             Reset Filters
           </button>
         </div>
       )}
 
-      {/* Events Grid */}
-      {!isLoading && !error && filteredEvents.length > 0 && (
+      {/* Events Display: Grid Mode vs List Mode */}
+      {!isLoading && !error && displayedEvents.length > 0 && (
         <>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6">
-            {displayedEvents.map((ev) => {
-              const catStyle = CATEGORY_STYLES[ev.category] || CATEGORY_STYLES.Crypto;
-              const isLive = ev.status === "Live Now";
-              const isCompleted = ev.status === "Completed";
+          {viewMode === "grid" ? (
+            /* Bento Grid with Scraped Event Photos */
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {displayedEvents.map((event, idx) => {
+                const cfg = getCategoryConfig(event.category);
+                const isCopied = copiedUrl === event.officialUrl;
 
-              return (
-                <div
-                  key={ev.id}
-                  onClick={() => setActiveModalEvent(ev)}
-                  className="group relative flex flex-col justify-between glass-panel p-5 sm:p-6 rounded-2xl border-brand-sky/15 hover:border-brand-cyan/50 hover:bg-white/[0.04] transition-all duration-300 cursor-pointer shadow-lg hover:shadow-[0_0_25px_rgba(0,242,254,0.12)]"
-                >
-                  {/* Subtle top glow indicator */}
+                return (
                   <div
-                    className="absolute top-0 left-8 right-8 h-[1px] opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
-                    style={{
-                      background: `linear-gradient(90deg, transparent, ${catStyle.text}, transparent)`,
-                    }}
-                  />
-
-                  {/* Card Top: Category & Status */}
-                  <div>
-                    <div className="flex items-center justify-between gap-2 mb-3">
-                      {/* Category pill */}
-                      <span
-                        className={`inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-[11px] font-mono font-medium border ${catStyle.bg} ${catStyle.text} ${catStyle.border}`}
+                    key={event.id || idx}
+                    className="group relative glass-panel rounded-2xl flex flex-col justify-between overflow-hidden transition-all duration-300 hover:-translate-y-1.5 hover:border-brand-cyan/40 hover:shadow-[0_12px_32px_rgba(0,242,254,0.14)]"
+                  >
+                    {/* Top Scraped Media Frame */}
+                    <div className="relative w-full h-48 overflow-hidden bg-cosmic-950">
+                      <a
+                        href={event.officialUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block w-full h-full"
                       >
-                        <span className="w-1.5 h-1.5 rounded-full bg-current" />
-                        <span>{catStyle.label}</span>
-                      </span>
+                        <EventThumbnail
+                          src={event.image}
+                          alt={event.title}
+                          category={event.category}
+                        />
+                      </a>
 
-                      {/* Status Pill */}
-                      <span
-                        className={`text-[10px] font-mono uppercase px-2 py-0.5 rounded-full border ${
-                          isLive
-                            ? "bg-emerald-500/20 text-emerald-300 border-emerald-500/40 animate-pulse font-semibold"
-                            : isCompleted
-                            ? "bg-slate-800/80 text-slate-400 border-slate-700/60"
-                            : "bg-brand-sapphire/20 text-brand-sky border-brand-sky/30"
-                        }`}
-                      >
-                        {ev.status}
-                      </span>
-                    </div>
-
-                    {/* Badge & Title */}
-                    <div className="text-[10px] font-mono uppercase tracking-wider text-slate-400 mb-1">
-                      {ev.badge}
-                    </div>
-                    <h3 className="text-base sm:text-lg font-bold text-white group-hover:text-brand-cyan transition-colors duration-200 line-clamp-2 leading-snug mb-3">
-                      {ev.title}
-                    </h3>
-
-                    {/* Date & Location Rows */}
-                    <div className="space-y-1.5 mb-4 text-xs font-mono text-slate-300">
-                      <div className="flex items-center gap-2">
-                        <svg
-                          className="w-3.5 h-3.5 text-brand-sky shrink-0"
-                          viewBox="0 0 24 24"
-                          fill="none"
-                          stroke="currentColor"
-                          strokeWidth="2"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        >
-                          <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
-                          <line x1="16" y1="2" x2="16" y2="6" />
-                          <line x1="8" y1="2" x2="8" y2="6" />
-                          <line x1="3" y1="10" x2="21" y2="10" />
-                        </svg>
-                        <span className="truncate">{ev.formattedDate}</span>
-                      </div>
-
-                      <div className="flex items-center gap-2">
-                        <svg
-                          className="w-3.5 h-3.5 text-brand-purple shrink-0"
-                          viewBox="0 0 24 24"
-                          fill="none"
-                          stroke="currentColor"
-                          strokeWidth="2"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        >
-                          <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
-                          <circle cx="12" cy="10" r="3" />
-                        </svg>
-                        <span className="truncate text-slate-400">{ev.location}</span>
-                      </div>
-                    </div>
-
-                    {/* Snippet Description */}
-                    <p className="text-slate-400 text-xs font-light leading-relaxed line-clamp-2 mb-4">
-                      {ev.description}
-                    </p>
-                  </div>
-
-                  {/* Card Bottom: Topic Tags & Action Hint */}
-                  <div>
-                    {/* Topic pills */}
-                    <div className="flex flex-wrap gap-1.5 mb-4">
-                      {ev.topics.slice(0, 3).map((topic, i) => (
+                      {/* Category Badge overlay on top-left of image */}
+                      <div className="absolute top-3 left-3 z-10">
                         <span
-                          key={i}
-                          className="text-[10px] font-mono px-2 py-0.5 rounded-md bg-white/[0.03] text-slate-400 border border-white/5"
+                          className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[10px] font-mono font-medium backdrop-blur-md border shadow-md ${cfg.bg} ${cfg.text} ${cfg.border}`}
                         >
-                          #{topic}
+                          <span className={`w-1.5 h-1.5 rounded-full ${cfg.dot}`} />
+                          {event.category}
                         </span>
-                      ))}
-                      {ev.topics.length > 3 && (
-                        <span className="text-[10px] font-mono text-slate-500 py-0.5">
-                          +{ev.topics.length - 3}
+                      </div>
+
+                      {/* Status / Days Left pill floating on top-right */}
+                      <div className="absolute top-3 right-3 z-10">
+                        <span
+                          className={`inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-mono backdrop-blur-md border ${
+                            event.status === "Live Now"
+                              ? "bg-emerald-500/20 text-emerald-400 border-emerald-500/40 animate-pulse font-bold"
+                              : event.status === "Completed"
+                              ? "bg-slate-900/80 text-slate-400 border-slate-700/60"
+                              : "bg-brand-cyan/15 text-brand-sky border-brand-cyan/30 font-medium"
+                          }`}
+                        >
+                          {event.status}
                         </span>
-                      )}
+                      </div>
                     </div>
 
-                    {/* Interactive Trigger Banner */}
-                    <div className="pt-3 border-t border-white/5 flex items-center justify-between text-xs font-mono text-brand-sky group-hover:text-brand-cyan transition-colors">
-                      <span className="text-[11px]">View Details & Calendar</span>
-                      <span className="text-sm transition-transform group-hover:translate-x-1 duration-200">
-                        →
-                      </span>
+                    {/* Card Content Body */}
+                    <div className="p-5 sm:p-6 flex flex-col justify-between flex-1">
+                      <div>
+                        {/* Date & Location Header */}
+                        <div className="flex items-center justify-between text-[11px] font-mono text-slate-400 mb-2 gap-2">
+                          <span className="text-brand-sky">{event.formattedDate}</span>
+                          <span className="truncate max-w-[140px] text-slate-500" title={event.location}>
+                            📍 {event.location}
+                          </span>
+                        </div>
+
+                        {/* Title with Link */}
+                        <a
+                          href={event.officialUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="block mb-2"
+                        >
+                          <h3 className="text-base sm:text-lg font-bold text-white group-hover:text-brand-cyan transition-colors duration-200 line-clamp-2 leading-snug">
+                            {event.title}
+                          </h3>
+                        </a>
+
+                        {/* Small Body / Description */}
+                        <p className="text-slate-400 text-xs sm:text-sm leading-relaxed line-clamp-2 font-light mb-3">
+                          {event.description}
+                        </p>
+
+                        {/* Topics */}
+                        {event.topics && event.topics.length > 0 && (
+                          <div className="flex flex-wrap gap-1 mb-4">
+                            {event.topics.slice(0, 3).map((t) => (
+                              <span
+                                key={t}
+                                className="px-2 py-0.5 rounded text-[10px] font-mono bg-cosmic-800 text-slate-400 border border-slate-700/50"
+                              >
+                                #{t}
+                              </span>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+
+                      {/* Card Bottom Bar */}
+                      <div className="pt-3 border-t border-slate-800/60 flex items-center justify-between text-xs mt-auto">
+                        <a
+                          href={event.officialUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-flex items-center gap-1.5 font-mono text-brand-sky hover:text-brand-cyan transition-colors font-medium group/link"
+                        >
+                          <span>Official Site</span>
+                          <svg
+                            className="w-3.5 h-3.5 transition-transform group-hover/link:translate-x-0.5 group-hover/link:-translate-y-0.5"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            strokeWidth="2"
+                          >
+                            <line x1="7" y1="17" x2="17" y2="7" />
+                            <polyline points="7 7 17 7 17 17" />
+                          </svg>
+                        </a>
+
+                        <div className="flex items-center gap-1.5">
+                          {event.googleCalendarUrl && (
+                            <a
+                              href={event.googleCalendarUrl}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              title="Add to Google Calendar"
+                              className="p-1.5 rounded-lg bg-cosmic-800/80 hover:bg-cosmic-700 text-slate-400 hover:text-white transition"
+                            >
+                              📅
+                            </a>
+                          )}
+
+                          <button
+                            onClick={(e) => handleCopyLink(event.officialUrl, e)}
+                            title="Copy link"
+                            className="p-1.5 rounded-lg bg-cosmic-800/80 hover:bg-cosmic-700 text-slate-400 hover:text-white transition flex items-center gap-1"
+                          >
+                            {isCopied ? (
+                              <span className="text-[10px] font-mono text-emerald-400">Copied!</span>
+                            ) : (
+                              <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                                <path strokeLinecap="round" strokeLinejoin="round" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2" />
+                              </svg>
+                            )}
+                          </button>
+                        </div>
+                      </div>
                     </div>
                   </div>
-                </div>
-              );
-            })}
-          </div>
+                );
+              })}
+            </div>
+          ) : (
+            /* List Layout with Media Thumbnails */
+            <div className="flex flex-col gap-3.5">
+              {displayedEvents.map((event, idx) => {
+                const cfg = getCategoryConfig(event.category);
+                const isCopied = copiedUrl === event.officialUrl;
 
-          {/* Load More Button */}
-          {visibleCount < filteredEvents.length && (
-            <div className="flex flex-col items-center justify-center pt-8">
+                return (
+                  <div
+                    key={event.id || idx}
+                    className="group glass-panel p-3.5 sm:p-4 rounded-2xl flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 transition-all duration-200 hover:border-brand-cyan/40 hover:bg-cosmic-900/80"
+                  >
+                    {/* Thumbnail on left */}
+                    <div className="w-full sm:w-36 h-28 sm:h-24 shrink-0 rounded-xl overflow-hidden relative bg-cosmic-950">
+                      <a
+                        href={event.officialUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block w-full h-full"
+                      >
+                        <EventThumbnail
+                          src={event.image}
+                          alt={event.title}
+                          category={event.category}
+                        />
+                      </a>
+                    </div>
+
+                    {/* Middle: Details */}
+                    <div className="flex-1 min-w-0">
+                      <div className="flex items-center gap-2 mb-1.5 flex-wrap">
+                        <span
+                          className={`inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-mono font-medium border ${cfg.bg} ${cfg.text} ${cfg.border}`}
+                        >
+                          <span className={`w-1.5 h-1.5 rounded-full ${cfg.dot}`} />
+                          {event.category}
+                        </span>
+                        <span className="text-[11px] font-mono text-brand-sky">
+                          {event.formattedDate}
+                        </span>
+                        <span className="text-slate-600 hidden sm:inline">•</span>
+                        <span className="text-[11px] font-mono text-slate-400 truncate max-w-xs">
+                          📍 {event.location}
+                        </span>
+                      </div>
+
+                      <a
+                        href={event.officialUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block"
+                      >
+                        <h3 className="text-sm sm:text-base font-bold text-white group-hover:text-brand-cyan transition-colors line-clamp-1 leading-snug">
+                          {event.title}
+                        </h3>
+                      </a>
+                      <p className="text-slate-400 text-xs line-clamp-1 mt-1 font-light">
+                        {event.description}
+                      </p>
+                    </div>
+
+                    {/* Right: Actions */}
+                    <div className="flex items-center gap-2 self-end sm:self-center shrink-0">
+                      {event.googleCalendarUrl && (
+                        <a
+                          href={event.googleCalendarUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          title="Add to Google Calendar"
+                          className="p-2 rounded-lg bg-cosmic-800 text-slate-400 hover:text-white transition"
+                        >
+                          📅
+                        </a>
+                      )}
+
+                      <button
+                        onClick={(e) => handleCopyLink(event.officialUrl, e)}
+                        title="Copy Story Link"
+                        className="p-2 rounded-lg bg-cosmic-800 text-slate-400 hover:text-white transition"
+                      >
+                        {isCopied ? (
+                          <span className="text-xs font-mono text-emerald-400">✓</span>
+                        ) : (
+                          <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                            <path strokeLinecap="round" strokeLinejoin="round" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2" />
+                          </svg>
+                        )}
+                      </button>
+
+                      <a
+                        href={event.officialUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="px-3.5 py-1.5 rounded-lg bg-cosmic-800 border border-slate-700/60 hover:border-brand-cyan/40 text-brand-sky hover:text-brand-cyan text-xs font-mono font-medium transition inline-flex items-center gap-1.5"
+                      >
+                        <span>Visit</span>
+                        <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                          <line x1="7" y1="17" x2="17" y2="7" />
+                          <polyline points="7 7 17 7 17 17" />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          )}
+
+          {/* Load More Button & Progress Bar */}
+          {visibleCount < remainingEvents.length && (
+            <div className="flex flex-col items-center justify-center pt-10">
+              <div className="w-48 h-1 bg-slate-800 rounded-full mb-3 overflow-hidden">
+                <div
+                  className="h-full bg-gradient-to-r from-brand-cyan to-brand-sapphire transition-all duration-500 rounded-full"
+                  style={{
+                    width: `${Math.min(
+                      100,
+                      ((visibleCount + (featuredEvent ? 1 : 0)) /
+                        filteredEvents.length) *
+                        100
+                    )}%`,
+                  }}
+                />
+              </div>
+
               <button
-                type="button"
-                onClick={() => setVisibleCount((prev) => prev + 18)}
-                className="inline-flex items-center gap-2 px-7 py-3 rounded-xl glass-panel text-xs sm:text-sm font-mono text-slate-200 hover:text-white hover:border-brand-purple/50 hover:shadow-[0_0_20px_rgba(168,85,247,0.25)] transition-all duration-300 group"
+                onClick={() => setVisibleCount((prev) => prev + 12)}
+                className="inline-flex items-center gap-2.5 px-6 py-3 rounded-xl glass-panel text-xs sm:text-sm font-mono text-slate-200 hover:text-white hover:border-brand-cyan/60 hover:shadow-[0_0_20px_rgba(0,242,254,0.2)] transition-all duration-300"
               >
-                <span>Load More Summits ({filteredEvents.length - visibleCount} remaining)</span>
-                <span className="text-brand-purple group-hover:translate-y-0.5 transition-transform duration-200">↓</span>
+                <span>Load More Events ({remainingEvents.length - visibleCount} more)</span>
+                <svg className="w-4 h-4 text-brand-cyan" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <polyline points="6 9 12 15 18 9" />
+                </svg>
               </button>
-              <span className="text-[11px] font-mono text-slate-500 mt-2">
-                Showing {Math.min(visibleCount, filteredEvents.length)} of {filteredEvents.length} global summits & hackathons
+
+              <span className="text-[11px] font-mono text-slate-500 mt-2.5">
+                Showing {Math.min(visibleCount + (featuredEvent ? 1 : 0), filteredEvents.length)} of {filteredEvents.length} global events
               </span>
             </div>
           )}
         </>
-      )}
-
-      {/* ========================================================================= */}
-      {/* Interactive Glassmorphic Modal with Multi-Actions                         */}
-      {/* ========================================================================= */}
-      {activeModalEvent && (
-        <div
-          className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 bg-cosmic-950/80 backdrop-blur-md animate-fade-in"
-          onClick={() => setActiveModalEvent(null)}
-        >
-          <div
-            className="relative w-full max-w-2xl bg-cosmic-900/95 border border-brand-sky/30 rounded-3xl p-6 sm:p-8 shadow-[0_0_50px_rgba(0,0,0,0.8)] max-h-[90vh] overflow-y-auto"
-            onClick={(e) => e.stopPropagation()}
-          >
-            {/* Close Button */}
-            <button
-              onClick={() => setActiveModalEvent(null)}
-              aria-label="Close modal"
-              className="absolute top-5 right-5 w-8 h-8 rounded-full bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white flex items-center justify-center transition"
-            >
-              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <line x1="18" y1="6" x2="6" y2="18" />
-                <line x1="6" y1="6" x2="18" y2="18" />
-              </svg>
-            </button>
-
-            {/* Header: Category & Badge */}
-            <div className="flex flex-wrap items-center gap-2 mb-3">
-              {(() => {
-                const style =
-                  CATEGORY_STYLES[activeModalEvent.category] ||
-                  CATEGORY_STYLES.Crypto;
-                return (
-                  <span
-                    className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-mono font-medium border ${style.bg} ${style.text} ${style.border}`}
-                  >
-                    <span className="w-1.5 h-1.5 rounded-full bg-current" />
-                    <span>{style.label}</span>
-                  </span>
-                );
-              })()}
-
-              <span className="text-xs font-mono uppercase px-2.5 py-1 rounded-full bg-brand-sapphire/20 text-brand-sky border border-brand-sky/30">
-                {activeModalEvent.badge}
-              </span>
-
-              <span
-                className={`text-xs font-mono uppercase px-2.5 py-1 rounded-full border ${
-                  activeModalEvent.status === "Live Now"
-                    ? "bg-emerald-500/20 text-emerald-300 border-emerald-500/40 animate-pulse font-semibold"
-                    : activeModalEvent.status === "Completed"
-                    ? "bg-slate-800/80 text-slate-400 border-slate-700/60"
-                    : "bg-brand-sapphire/20 text-brand-cyan border-brand-cyan/30"
-                }`}
-              >
-                {activeModalEvent.status}
-              </span>
-            </div>
-
-            {/* Event Title */}
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight mb-4">
-              {activeModalEvent.title}
-            </h2>
-
-            {/* Metadata Grid */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 p-4 rounded-2xl bg-white/[0.02] border border-white/5 mb-6 text-xs font-mono">
-              <div className="space-y-1">
-                <div className="text-slate-400 uppercase text-[10px]">Dates</div>
-                <div className="text-white font-medium flex items-center gap-1.5">
-                  <span>🗓️</span>
-                  <span>{activeModalEvent.formattedDate}</span>
-                </div>
-              </div>
-
-              <div className="space-y-1">
-                <div className="text-slate-400 uppercase text-[10px]">Location</div>
-                <div className="text-white font-medium flex items-center gap-1.5 truncate">
-                  <span>📍</span>
-                  <span>{activeModalEvent.location}</span>
-                </div>
-              </div>
-
-              <div className="space-y-1 sm:col-span-2">
-                <div className="text-slate-400 uppercase text-[10px]">Venue</div>
-                <div className="text-brand-sky font-medium flex items-center gap-1.5">
-                  <span>🏛️</span>
-                  <span>{activeModalEvent.venue}</span>
-                </div>
-              </div>
-            </div>
-
-            {/* Detailed Description */}
-            <div className="mb-6">
-              <h4 className="text-xs font-mono uppercase tracking-wider text-slate-400 mb-2">
-                About The Summit
-              </h4>
-              <p className="text-slate-300 text-sm leading-relaxed font-light">
-                {activeModalEvent.description}
-              </p>
-            </div>
-
-            {/* Topic Tracks */}
-            <div className="mb-8">
-              <h4 className="text-xs font-mono uppercase tracking-wider text-slate-400 mb-2">
-                Key Topics & Tracks
-              </h4>
-              <div className="flex flex-wrap gap-2">
-                {activeModalEvent.topics.map((t, idx) => (
-                  <span
-                    key={idx}
-                    className="text-xs font-mono px-3 py-1 rounded-xl bg-brand-sapphire/15 border border-brand-sky/20 text-brand-sky"
-                  >
-                    #{t}
-                  </span>
-                ))}
-              </div>
-            </div>
-
-            {/* Multi-Action Button Bar */}
-            <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 pt-5 border-t border-white/10">
-              {/* Primary: Visit Official Site */}
-              <a
-                href={activeModalEvent.officialUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex-1 inline-flex items-center justify-center gap-2 px-5 py-3 rounded-xl bg-gradient-to-r from-brand-cobalt via-brand-sapphire to-brand-cyan text-white text-xs sm:text-sm font-semibold tracking-wide shadow-[0_0_20px_rgba(0,242,254,0.3)] hover:shadow-[0_0_25px_rgba(0,242,254,0.5)] transition duration-300"
-              >
-                <span>🎟️ Visit Official Site</span>
-                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-                  <polyline points="15 3 21 3 21 9" />
-                  <line x1="10" y1="14" x2="21" y2="3" />
-                </svg>
-              </a>
-
-              {/* Secondary: Google Calendar */}
-              {activeModalEvent.googleCalendarUrl && (
-                <a
-                  href={activeModalEvent.googleCalendarUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center gap-1.5 px-4 py-3 rounded-xl glass-panel text-xs sm:text-sm font-medium text-slate-200 hover:text-white hover:border-brand-sky/40 transition duration-300"
-                >
-                  <span>📅 Google Cal</span>
-                </a>
-              )}
-
-              {/* Secondary: Download .ics */}
-              <button
-                type="button"
-                onClick={() => handleDownloadIcs(activeModalEvent)}
-                className="inline-flex items-center justify-center gap-1.5 px-4 py-3 rounded-xl glass-panel text-xs sm:text-sm font-medium text-slate-200 hover:text-white hover:border-brand-sky/40 transition duration-300"
-              >
-                <span>💾 Save .ics</span>
-              </button>
-
-              {/* Twitter / X Handle */}
-              {activeModalEvent.xHandle && (
-                <a
-                  href={`https://x.com/${activeModalEvent.xHandle.replace("@", "")}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center gap-1.5 px-3.5 py-3 rounded-xl glass-panel text-xs sm:text-sm font-medium text-slate-300 hover:text-white hover:border-brand-cyan/40 transition duration-300"
-                  aria-label="View on X"
-                >
-                  <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
-                  </svg>
-                </a>
-              )}
-            </div>
-          </div>
-        </div>
       )}
     </div>
   );

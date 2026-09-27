@@ -4,7 +4,6 @@ import React, { useState, useEffect } from "react";
 import ParticleCanvas from "@/components/ParticleCanvas";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
-import IntelligenceHub from "@/components/IntelligenceHub";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -19,7 +18,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="relative min-h-screen bg-cosmic-950 text-slate-100 flex flex-col justify-between overflow-x-hidden">
+    <div className="relative h-screen max-h-screen bg-cosmic-950 text-slate-100 flex flex-col justify-between overflow-hidden">
       {/* Interactive Cursor Spotlight */}
       <div
         className="pointer-events-none fixed inset-0 z-20 transition-opacity duration-300"
@@ -38,14 +37,13 @@ export default function Home() {
       {/* Top Navbar */}
       <Navbar />
 
-      {/* Main Content: Hero & Unified Intelligence Hub */}
-      <main className="relative z-10 flex-1 flex flex-col items-center">
+      {/* Main Content: Hero Section (Non-scrollable single screen) */}
+      <main className="relative z-10 flex-1 flex flex-col items-center justify-center overflow-hidden w-full">
         <Hero />
-        <IntelligenceHub />
       </main>
 
       {/* Footer */}
-      <Footer />
+      <Footer compact={true} />
     </div>
   );
 }
