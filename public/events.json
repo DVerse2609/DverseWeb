@@ -2259,7 +2259,7 @@
     "daysLeft": 35,
     "formattedDate": "Nov 02 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CoRL%202026%20%28Conference%20on%20Robot%20Learning%29&dates=20261102/20261105&details=Focused%20exclusively%20on%20the%20intersection%20of%20robotics%20and%20machine%20learning%2C%20highlighting%20policy%20learning%2C%20world%20models%2C%20and%20foundation%20models%20for%20embodied%20agents.%0A%0AOfficial%20Website%3A%20https%3A//corl.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=COEX%20Convention%20%26%20Exhibition%20Center%2C%20Seoul%2C%20South%20Korea&sf=true&output=xml",
-    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tLx4_m8ccWXQgRw1yzUAFaDnO_zMevvhvszeWaLHeiG3GSoPw3c5T2zgB2TmrSo968YKFE6Ph4ZMM7s7njr-QMUPSy6PLu8Sc_s0FZywJKRegcgyOb_nlnZK0qTFjmj877QbwWuZ-TgpLHdF8bsOKeqwC6-qUquGFgYoMe9j_fyjxQX1ZVpCcAzAjXEpU=w1280"
+    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u7D9M79XJk3nIWMtgT0_RGYzyAX6r1EG97QhkJcmswiIfHJRdlyA584cgiQW_D0eSQJi9DygVQAVHEdOusVcGjuTXL3dsZXZz1HaLiLQmjny2wLdPMQqAR7Gyi0oRp0-ZDtetkQ67Bw9gFOWaBaBBJr-PsZekjI2qAbppiaMOI6L2CY6U0kRrHI2_Fqac=w1280"
   },
   {
     "id": "devcon-2026",
@@ -2285,7 +2285,7 @@
     "daysLeft": 36,
     "formattedDate": "Nov 03 – 06, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Devcon%202026&dates=20261103/20261106&details=The%20Ethereum%20Foundation%27s%20premier%20conference%20for%20developers%2C%20researchers%2C%20and%20community%20builders%20from%20all%20over%20the%20world%2C%20emphasizing%20decentralization%20and%20cryptographic%20proofs.%0A%0AOfficial%20Website%3A%20https%3A//devcon.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Jio%20World%20Convention%20Centre%2C%20Mumbai%2C%20India&sf=true&output=xml",
-    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop"
+    "image": "https://www.devcon.org/assets/images/new-og.jpg"
   },
   {
     "id": "openai-devday-2026",
