@@ -1,5 +1,181 @@
 [
   {
+    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+    "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+    "source": "Wired AI",
+    "date": "2026-09-29T18:03:01Z",
+    "snippet": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+    "image": "https://media.wired.com/photos/6abbc40baa4c41ce1b0d6fa0/master/pass/092926-AI%20Science%20Discovery.jpg"
+  },
+  {
+    "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+    "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
+    "source": "ZDNet AI",
+    "date": "2026-09-29T17:58:37Z",
+    "snippet": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ChatGPT-space-2.jpg"
+  },
+  {
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T17:45:51Z",
+    "snippet": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800"
+  },
+  {
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "source": "The Verge AI",
+    "date": "2026-09-29T17:35:03Z",
+    "snippet": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Get Kindle Unlimited free for 3 months with this early Prime Day deal",
+    "url": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
+    "source": "ZDNet AI",
+    "date": "2026-09-29T17:32:40Z",
+    "snippet": "Amazon’s free Kindle Unlimited deal only comes around a couple times a year – and I highly recommend it.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/b966cd19-e865-46c7-b313-15107e0dcf93.jpg"
+  },
+  {
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T17:20:00Z",
+    "snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620"
+  },
+  {
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T17:17:15Z",
+    "snippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-1.16.22-PM.jpg?w=988"
+  },
+  {
+    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T17:15:00Z",
+    "snippet": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690"
+  },
+  {
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T17:15:00Z",
+    "snippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+  },
+  {
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T17:15:00Z",
+    "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+  },
+  {
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "source": "The Verge AI",
+    "date": "2026-09-29T17:15:00Z",
+    "snippet": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+    "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+    "source": "Wired AI",
+    "date": "2026-09-29T17:15:00Z",
+    "snippet": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+    "image": "https://media.wired.com/photos/6abbcee9422fade848ea964d/master/pass/Dots%20Hero%20Image.png"
+  },
+  {
+    "title": "Protesters gather at OpenAI’s DevDay",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "source": "The Verge AI",
+    "date": "2026-09-29T17:12:27Z",
+    "snippet": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outside",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3019.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
+  },
+  {
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T16:55:56Z",
+    "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024"
+  },
+  {
+    "title": "OpenAI DevDay 2026: The biggest news and announcements",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+    "source": "The Verge AI",
+    "date": "2026-09-29T16:00:00Z",
+    "snippet": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T15:12:07Z",
+    "snippet": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840"
+  },
+  {
+    "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+    "source": "The Verge AI",
+    "date": "2026-09-29T14:08:21Z",
+    "snippet": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T13:53:01Z",
+    "snippet": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Dazzle-AI-Team-Photo.jpg?resize=1200,784"
+  },
+  {
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T13:47:30Z",
+    "snippet": "The tech giant says the agent can help owners run their business and find new customers.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GTM_Connectors_16x9-1.png?resize=1200,675"
+  },
+  {
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T12:45:05Z",
+    "snippet": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+  },
+  {
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T12:30:00Z",
+    "snippet": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800"
+  },
+  {
+    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+    "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+    "source": "The Verge AI",
+    "date": "2026-09-29T12:00:00Z",
+    "snippet": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292801324.jpg?quality=90&strip=all&crop=0%2C10.729583668295%2C100%2C78.54083266341&w=1200"
+  },
+  {
     "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
     "source": "The Verge AI",
@@ -61,7 +237,7 @@
     "source": "MIT Technology Review",
     "date": "2026-09-28T22:17:07Z",
     "snippet": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600"
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/9.21-Roundtables-Thumbnail-1.png?resize=1200,600"
   },
   {
     "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
@@ -136,68 +312,12 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
   },
   {
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T18:00:00Z",
-    "snippet": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024"
-  },
-  {
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T17:29:50Z",
-    "snippet": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
-  },
-  {
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T17:09:02Z",
-    "snippet": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800"
-  },
-  {
     "title": "When can we say AI made a scientific discovery?",
     "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
     "source": "MIT Technology Review",
     "date": "2026-09-28T17:03:16Z",
     "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600"
-  },
-  {
-    "title": "Florida seeks a ban on ChatGPT acting like a person",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-    "source": "The Verge AI",
-    "date": "2026-09-28T17:00:23Z",
-    "snippet": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-    "source": "The Verge AI",
-    "date": "2026-09-28T17:00:00Z",
-    "snippet": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T16:52:38Z",
-    "snippet": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
-  },
-  {
-    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-    "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-    "source": "The Verge AI",
-    "date": "2026-09-28T16:44:57Z",
-    "snippet": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rather than dynamically change prices.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2289554785.jpg?quality=90&strip=all&crop=0%2C10.729479874121%2C100%2C78.541040251757&w=1200"
   },
   {
     "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
@@ -208,84 +328,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Comp_Export_5091d1.jpg"
   },
   {
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T15:30:00Z",
-    "snippet": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-De-Jong-Amin-Lee_16x9-Dark.png?resize=1200,675"
-  },
-  {
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T15:00:00Z",
-    "snippet": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-call.png?resize=1200,800"
-  },
-  {
     "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
     "url": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
     "source": "ZDNet AI",
     "date": "2026-09-28T14:40:43Z",
     "snippet": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/0969a659-9c73-4b4c-9670-9e14e0bc8474.jpg"
-  },
-  {
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T14:30:00Z",
-    "snippet": "Thousands of applications. Multiple rounds of review.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Deshpande-Appleton-Nayak-Risch-Xu.png?resize=1200,675"
-  },
-  {
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T14:05:00Z",
-    "snippet": "Modulate deploys its models to detect deepfake, fraud and scam",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675"
-  },
-  {
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-    "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T14:00:00Z",
-    "snippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2025-exhibitor.jpg?resize=1200,800"
-  },
-  {
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T14:00:00Z",
-    "snippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675"
-  },
-  {
-    "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
-    "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-    "source": "The Verge AI",
-    "date": "2026-09-28T14:00:00Z",
-    "snippet": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other company runs on — it makes important platform tools like Jira and Trello that allow people to organize and manage big teams, create shared databases of company information, and generally allow work to",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-28_Cannon-Brookes.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T13:38:48Z",
-    "snippet": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
-  },
-  {
-    "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-    "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-    "source": "The Verge AI",
-    "date": "2026-09-28T13:36:06Z",
-    "snippet": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
@@ -336,36 +384,12 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600"
   },
   {
-    "title": "Engram is a sampler that turns broken AI hallucinations into music",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "source": "The Verge AI",
-    "date": "2026-09-27T20:46:36Z",
-    "snippet": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200"
-  },
-  {
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27T20:34:28Z",
-    "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800"
-  },
-  {
     "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
     "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
     "source": "Wired AI",
     "date": "2026-09-26T10:30:00Z",
     "snippet": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
     "image": "https://media.wired.com/photos/6ab6a33ebc7793cf754905a1/master/pass/GettyImages-2296209094.jpg"
-  },
-  {
-    "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-    "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-    "source": "Wired AI",
-    "date": "2026-09-25T20:30:40Z",
-    "snippet": "They wanted the silicon. They got the sand.",
-    "image": "https://media.wired.com/photos/6ab6c8393be975e24c8d9909/master/pass/_DSC5425%20(1).jpg"
   },
   {
     "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
@@ -390,14 +414,6 @@
     "date": "2026-09-25T17:57:37Z",
     "snippet": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-500x500-1763511853.jpg"
-  },
-  {
-    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-    "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-    "source": "Wired AI",
-    "date": "2026-09-25T16:58:20Z",
-    "snippet": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-    "image": "https://media.wired.com/photos/6ab6a387ee39eece457c4cb2/master/pass/GettyImages-2235057505.jpg"
   },
   {
     "title": "This one WatchOS 27 feature just solved my biggest issue with Apple Watch",
@@ -678,22 +694,6 @@
     "date": "2026-09-16T16:25:53Z",
     "snippet": "The update lets you contact VIPs with a tap and adds scam protection.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/82c83abe-dddf-4f5b-b490-44ef6795201e.jpg"
-  },
-  {
-    "title": "I’ve used both iPhone 18 Pro models – here’s how my buying advice is changing in 2026",
-    "url": "https://www.zdnet.com/business/iphone-18-pro-vs-pro-max-buying-advice-2026/",
-    "source": "ZDNet AI",
-    "date": "2026-09-16T12:05:35Z",
-    "snippet": "Can’t decide between the iPhone 18 Pro and 18 Pro Max? Absolute feature parity makes this year’s decision a little easier for me.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00614.jpeg"
-  },
-  {
-    "title": "Windows 11 out-of-band update fixes audio glitch and other bugs – grab it now",
-    "url": "https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/",
-    "source": "ZDNet AI",
-    "date": "2026-09-16T09:04:02Z",
-    "snippet": "The latest out-of-band update resolves a few problems in Windows 11, including one that cut off the sound for certain USB audio devices.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-out-of-band-patch.jpg"
   },
   {
     "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
