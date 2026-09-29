@@ -1,5 +1,85 @@
 [
   {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28T23:39:20Z",
+    "snippet": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+  },
+  {
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Technology Review",
+    "date": "2026-09-28T22:17:07Z",
+    "snippet": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600"
+  },
+  {
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "source": "The Verge AI",
+    "date": "2026-09-28T21:31:35Z",
+    "snippet": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+  },
+  {
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28T21:29:18Z",
+    "snippet": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831"
+  },
+  {
+    "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
+    "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
+    "source": "ZDNet AI",
+    "date": "2026-09-28T20:39:56Z",
+    "snippet": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ios-2701.jpg"
+  },
+  {
+    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28T20:39:33Z",
+    "snippet": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1833911955.jpg?resize=1200,800"
+  },
+  {
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28T19:33:57Z",
+    "snippet": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800"
+  },
+  {
+    "title": "OpenAI’s AI agents need to catch up",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "source": "The Verge AI",
+    "date": "2026-09-28T18:45:00Z",
+    "snippet": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28T18:31:23Z",
+    "snippet": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+  },
+  {
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "source": "The Verge AI",
+    "date": "2026-09-28T18:30:00Z",
+    "snippet": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
     "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
     "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
     "source": "TechCrunch AI",
@@ -12,7 +92,7 @@
     "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
     "source": "TechCrunch AI",
     "date": "2026-09-28T17:29:50Z",
-    "snippet": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "snippet": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
   },
   {
@@ -112,20 +192,20 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675"
   },
   {
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T14:00:00Z",
-    "snippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675"
-  },
-  {
     "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
     "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
     "source": "TechCrunch AI",
     "date": "2026-09-28T14:00:00Z",
     "snippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT.",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2025-exhibitor.jpg?resize=1200,800"
+  },
+  {
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28T14:00:00Z",
+    "snippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675"
   },
   {
     "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
@@ -140,7 +220,7 @@
     "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
     "source": "TechCrunch AI",
     "date": "2026-09-28T13:38:48Z",
-    "snippet": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+    "snippet": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
   },
   {
@@ -212,7 +292,7 @@
     "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
     "source": "TechCrunch AI",
     "date": "2026-09-27T20:34:28Z",
-    "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800"
   },
   {
@@ -232,11 +312,11 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200"
   },
   {
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "title": "Anthropic’s Dario Amodei gets the ‘SNL’ treatment",
     "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
     "source": "TechCrunch AI",
     "date": "2026-09-27T16:30:00Z",
-    "snippet": "\"AI is the devil and I its maker.\"",
+    "snippet": "\"Saturday Night Live\" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603"
   },
   {
@@ -248,68 +328,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800"
   },
   {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-26T21:02:06Z",
-    "snippet": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612"
-  },
-  {
-    "title": "OpenAI pauses training of its ‘most capable models’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "source": "The Verge AI",
-    "date": "2026-09-26T16:34:59Z",
-    "snippet": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-26T14:00:00Z",
-    "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667"
-  },
-  {
-    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-    "source": "The Verge AI",
-    "date": "2026-09-26T14:00:00Z",
-    "snippet": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
     "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
     "source": "Wired AI",
     "date": "2026-09-26T10:30:00Z",
     "snippet": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
     "image": "https://media.wired.com/photos/6ab6a33ebc7793cf754905a1/master/pass/GettyImages-2296209094.jpg"
-  },
-  {
-    "title": "At Meta Connect, the company’s smart glasses were everywhere",
-    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-26T01:08:57Z",
-    "snippet": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200"
-  },
-  {
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25T23:11:10Z",
-    "snippet": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675"
-  },
-  {
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25T22:20:47Z",
-    "snippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
   },
   {
     "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
@@ -358,14 +382,6 @@
     "date": "2026-09-25T16:51:43Z",
     "snippet": "Sometimes less is more, and the most helpful software update is the simplest.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/watch0s2-Screenshot-2026-09-25-122704.jpg"
-  },
-  {
-    "title": "Meta makes the Muse filesystem even more accessible",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-    "source": "The Verge AI",
-    "date": "2026-09-25T16:49:53Z",
-    "snippet": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
   },
   {
     "title": "Your LG TV is constantly collecting your data – here’s how to stop it",
@@ -502,14 +518,6 @@
     "date": "2026-09-22T16:30:05Z",
     "snippet": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Opus-5.5.jpg"
-  },
-  {
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-22T13:42:05Z",
-    "snippet": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/IMG_6949.png?resize=1200,600"
   },
   {
     "title": "Don’t be fooled by this summer of AI hype",
@@ -790,13 +798,5 @@
     "date": "2026-09-02T20:32:02Z",
     "snippet": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence-500x500.png"
-  },
-  {
-    "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-    "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-02T11:00:43Z",
-    "snippet": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-500x500-1788301464.jpg"
   }
 ]
