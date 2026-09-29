@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T05:13:43Z",
+    "snippet": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675"
+  },
+  {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29T00:30:00Z",
+    "snippet": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800"
+  },
+  {
     "title": "OpenAI reportedly ditches model over safety concerns",
     "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
     "source": "TechCrunch AI",
@@ -54,6 +70,14 @@
     "date": "2026-09-28T19:33:57Z",
     "snippet": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
     "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800"
+  },
+  {
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28T19:21:59Z",
+    "snippet": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856"
   },
   {
     "title": "OpenAI’s AI agents need to catch up",
@@ -296,36 +320,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800"
   },
   {
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27T19:57:30Z",
-    "snippet": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
-  },
-  {
     "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
     "source": "The Verge AI",
     "date": "2026-09-27T17:21:07Z",
     "snippet": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200"
-  },
-  {
-    "title": "Anthropic’s Dario Amodei gets the ‘SNL’ treatment",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27T16:30:00Z",
-    "snippet": "\"Saturday Night Live\" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603"
-  },
-  {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27T01:30:00Z",
-    "snippet": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800"
   },
   {
     "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
