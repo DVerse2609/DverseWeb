@@ -1609,7 +1609,7 @@
     "daysLeft": -20,
     "formattedDate": "Sep 08 – 10, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AI%20Hardware%20%26%20Edge%20AI%20Summit%202026&dates=20260908/20260910&details=The%20definitive%20semiconductor%20conference%20analyzing%20AI%20chips%2C%20custom%20silicon%2C%20high-bandwidth%20memory%20%28HBM%29%2C%20and%20optical%20interconnects%20for%20massive%20scale%20training%20clusters.%0A%0AOfficial%20Website%3A%20https%3A//aihardwaresummit.com%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Santa%20Clara%20Convention%20Center%2C%20Santa%20Clara%2C%20CA%2C%20USA&sf=true&output=xml",
-    "image": "https://cdn.asp.events/CLIENT_Kisaco_R_E0D4AD69_B740_B124_D2ADF5A777880773/sites/AI-Infra-Summit-2026/media/6313_AI_Infrastructure_Summit_Logo_FINAL_Hor_LightBackground.png/fit-in/1200x630/filters:no_upscale()"
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop"
   },
   {
     "id": "bittensor-subnet-world-2026",
@@ -2259,7 +2259,7 @@
     "daysLeft": 33,
     "formattedDate": "Nov 02 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CoRL%202026%20%28Conference%20on%20Robot%20Learning%29&dates=20261102/20261105&details=Focused%20exclusively%20on%20the%20intersection%20of%20robotics%20and%20machine%20learning%2C%20highlighting%20policy%20learning%2C%20world%20models%2C%20and%20foundation%20models%20for%20embodied%20agents.%0A%0AOfficial%20Website%3A%20https%3A//corl.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=COEX%20Convention%20%26%20Exhibition%20Center%2C%20Seoul%2C%20South%20Korea&sf=true&output=xml",
-    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ulSrddROMQzcqAH2Go3hIRx_58BXlvQYcQ6tCE93iOUSUcwKaOFnaImxV9nrxdLafLHoJ9kWvHKSxLx8fM--JTIdyeuztB4bsNtA4cvo4faOViJ2gRg_nkQKA74A42wnFUwW3l00dYWX6GVN4JX2jTMV-oZlDiYK9wE8cljIihlk-wtshzTC0r2CqvCwE=w1280"
+    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tIu5WobkypzPJoxcohAPtz2BLmrjCNK2nSemhyG3hPG-S94y3u_DkhJWR7mhcDjG9yF-MDfx6TWRnVvBUJs72SyBcVS08KmNYAQ02uqVwQprpeeVJNo46Qjq07UQBenAZrqgVL3O_gCMSQYBeh6BhBb0gQsquYp_3cSCT9deUh51chtFHWSwGBJtlnbbI=w1280"
   },
   {
     "id": "devcon-2026",
