@@ -673,7 +673,7 @@
     "daysLeft": -131,
     "formattedDate": "May 18 – 22, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=IEEE%20ICRA%202026%20%28Robotics%20%26%20Automation%29&dates=20260518/20260522&details=The%20IEEE%20Robotics%20and%20Automation%20Society%27s%20flagship%20conference%2C%20exploring%20physical%20AI%2C%20humanoid%20robotics%2C%20manipulation%2C%20and%20autonomous%20navigation.%0A%0AOfficial%20Website%3A%20https%3A//www.icra2026.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=ExCeL%20London%2C%20London%2C%20UK&sf=true&output=xml",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop"
+    "image": "https://www.icra2026.org/img/nenektg.jpg"
   },
   {
     "id": "dappcon-berlin-2026",
@@ -2259,7 +2259,7 @@
     "daysLeft": 33,
     "formattedDate": "Nov 02 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CoRL%202026%20%28Conference%20on%20Robot%20Learning%29&dates=20261102/20261105&details=Focused%20exclusively%20on%20the%20intersection%20of%20robotics%20and%20machine%20learning%2C%20highlighting%20policy%20learning%2C%20world%20models%2C%20and%20foundation%20models%20for%20embodied%20agents.%0A%0AOfficial%20Website%3A%20https%3A//corl.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=COEX%20Convention%20%26%20Exhibition%20Center%2C%20Seoul%2C%20South%20Korea&sf=true&output=xml",
-    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vdmGUV41zEEkHOPxPzgguEDUh5JnowjFYGqXU2HRPsZYywgKTiyrvzpoV4pMeNb8zrJxJkf-opJil0SEoYc3Sbg4bo_Fl3oZcvSWGBNSTnYCRpZW_-tFzBPEakqR00mKWOXwu1voKS3AmrfiT_59g3v8oRPxq1KZVxj0jwVvbl1CYx1osmjYo95c20f6E=w1280"
+    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ulSrddROMQzcqAH2Go3hIRx_58BXlvQYcQ6tCE93iOUSUcwKaOFnaImxV9nrxdLafLHoJ9kWvHKSxLx8fM--JTIdyeuztB4bsNtA4cvo4faOViJ2gRg_nkQKA74A42wnFUwW3l00dYWX6GVN4JX2jTMV-oZlDiYK9wE8cljIihlk-wtshzTC0r2CqvCwE=w1280"
   },
   {
     "id": "devcon-2026",

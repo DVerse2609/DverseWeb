@@ -1,5 +1,29 @@
 [
   {
+    "title": "Airbnb adds AI search, more social features",
+    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-30T12:00:00Z",
+    "snippet": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/en-US-AIFeatures-UnifiedSearch.jpeg?resize=1200,800"
+  },
+  {
+    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+    "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+    "source": "Ars Technica Tech",
+    "date": "2026-09-30T11:15:14Z",
+    "snippet": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-500x500-1772240635.jpg"
+  },
+  {
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "source": "MIT Technology Review",
+    "date": "2026-09-30T10:40:30Z",
+    "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600"
+  },
+  {
     "title": "Sam Altman says OpenAI won’t go public until its models are safe",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
     "source": "The Verge AI",
@@ -312,14 +336,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800"
   },
   {
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28T23:39:20Z",
-    "snippet": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
-  },
-  {
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
     "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "source": "MIT Technology Review",
@@ -600,14 +616,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/090626-CengizYar-MITTechReview-20_0b38bc.jpg?resize=1200,600"
   },
   {
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-21T12:00:00Z",
-    "snippet": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Dying-on-Camera.webp?resize=1200,600"
-  },
-  {
     "title": "The AI models that cheat the most, according to new CAIS benchmark",
     "url": "https://www.zdnet.com/innovation/ai-model-cheating-benchmark-cheatbench/",
     "source": "ZDNet AI",
@@ -790,13 +798,5 @@
     "date": "2026-09-03T19:52:06Z",
     "snippet": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-500x500.jpg"
-  },
-  {
-    "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-    "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-03T18:58:31Z",
-    "snippet": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-500x500.jpg"
   }
 ]
