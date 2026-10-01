@@ -1,5 +1,13 @@
 [
   {
+    "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
+    "url": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
+    "source": "ZDNet AI",
+    "date": "2026-10-01T09:00:00Z",
+    "snippet": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2219096918.jpg"
+  },
+  {
     "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
     "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
     "source": "The Verge AI",
@@ -710,14 +718,6 @@
     "date": "2026-09-17T18:33:13Z",
     "snippet": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-500x500.jpg"
-  },
-  {
-    "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
-    "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
-    "source": "ZDNet AI",
-    "date": "2026-09-17T17:00:00Z",
-    "snippet": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Claude-projects-bg.png"
   },
   {
     "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
