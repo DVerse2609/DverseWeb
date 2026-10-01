@@ -1,5 +1,93 @@
 [
   {
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-30T23:43:07Z",
+    "snippet": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+  },
+  {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-30T21:07:40Z",
+    "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800"
+  },
+  {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "source": "Ars Technica Tech",
+    "date": "2026-09-30T20:44:48Z",
+    "snippet": "A simple email gives the attackers the ability to remotely inject OS commands.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg"
+  },
+  {
+    "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "source": "The Verge AI",
+    "date": "2026-09-30T20:41:41Z",
+    "snippet": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "source": "Wired AI",
+    "date": "2026-09-30T20:30:09Z",
+    "snippet": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+    "image": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/master/pass/093026-ai-regulations.jpg"
+  },
+  {
+    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+    "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "source": "Ars Technica",
+    "date": "2026-09-30T19:31:25Z",
+    "snippet": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-500x500.jpg"
+  },
+  {
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "source": "Wired AI",
+    "date": "2026-09-30T19:30:00Z",
+    "snippet": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+    "image": "https://media.wired.com/photos/6abc30af03c559dbc086f308/master/pass/AI-Lab-AI-Agent-War-Business.jpg"
+  },
+  {
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-30T19:00:57Z",
+    "snippet": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800"
+  },
+  {
+    "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+    "source": "Wired AI",
+    "date": "2026-09-30T19:00:00Z",
+    "snippet": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+    "image": "https://media.wired.com/photos/6abc561adcf8a088a1995737/master/pass/science_biological_weapons_ai.jpg"
+  },
+  {
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-30T18:23:57Z",
+    "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
+  },
+  {
+    "title": "The AI Tamagotchis are coming",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "source": "The Verge AI",
+    "date": "2026-09-30T18:07:38Z",
+    "snippet": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&strip=all&crop=0%2C30.366492146597%2C100%2C39.267015706806&w=1200"
+  },
+  {
     "title": "openSUSE Leap adds a new security layer: Immutable mode",
     "url": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/",
     "source": "ZDNet AI",
@@ -20,8 +108,16 @@
     "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
     "source": "TechCrunch AI",
     "date": "2026-09-30T17:24:45Z",
-    "snippet": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "snippet": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
+  },
+  {
+    "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "source": "The Verge AI",
+    "date": "2026-09-30T17:15:49Z",
+    "snippet": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0%2C10.728009376723%2C100%2C78.543981246555&w=1200"
   },
   {
     "title": "Meta disputes claim that Muse read a user’s private messages without permission",
@@ -264,22 +360,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ChatGPT-space-2.jpg"
   },
   {
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29T17:45:51Z",
-    "snippet": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800"
-  },
-  {
-    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-    "source": "The Verge AI",
-    "date": "2026-09-29T17:35:03Z",
-    "snippet": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Get Kindle Unlimited free for 3 months with this early Prime Day deal",
     "url": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
     "source": "ZDNet AI",
@@ -288,60 +368,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/b966cd19-e865-46c7-b313-15107e0dcf93.jpg"
   },
   {
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29T17:20:00Z",
-    "snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620"
-  },
-  {
-    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29T17:17:15Z",
-    "snippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-1.16.22-PM.jpg?w=988"
-  },
-  {
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29T17:15:00Z",
-    "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
-  },
-  {
-    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29T17:15:00Z",
-    "snippet": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690"
-  },
-  {
-    "title": "OpenAI launches Dots, its Muse competitor",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-    "source": "The Verge AI",
-    "date": "2026-09-29T17:15:00Z",
-    "snippet": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-  },
-  {
     "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
     "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
     "source": "Wired AI",
     "date": "2026-09-29T17:15:00Z",
     "snippet": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
     "image": "https://media.wired.com/photos/6abbcee9422fade848ea964d/master/pass/Dots%20Hero%20Image.png"
-  },
-  {
-    "title": "Protesters gather at OpenAI’s DevDay",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-    "source": "The Verge AI",
-    "date": "2026-09-29T17:12:27Z",
-    "snippet": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outside",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3019.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
   },
   {
     "title": "Making AI an asset, not an expense",
@@ -422,30 +454,6 @@
     "date": "2026-09-28T10:00:00Z",
     "snippet": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
     "image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/master/pass/092526-AI%20Coworker.jpg"
-  },
-  {
-    "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-    "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-    "source": "Wired AI",
-    "date": "2026-09-28T09:30:00Z",
-    "snippet": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-    "image": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/master/pass/092526-Math%20Art%20AI.jpg"
-  },
-  {
-    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-    "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-    "source": "Wired AI",
-    "date": "2026-09-28T09:00:00Z",
-    "snippet": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-    "image": "https://media.wired.com/photos/6ab2c77aa4511820fe187b66/master/pass/People-Training-AI-to-Understand-Physical-World-With-Video-Games-Business.jpg"
-  },
-  {
-    "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-    "source": "Wired AI",
-    "date": "2026-09-28T09:00:00Z",
-    "snippet": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
-    "image": "https://media.wired.com/photos/6aba2329e8d78c42cabc4ad2/master/pass/092826-Nvidia%20OpenShell.jpg"
   },
   {
     "title": "Who’s liable when AI agents go rogue?",
@@ -790,13 +798,5 @@
     "date": "2026-09-04T17:35:02Z",
     "snippet": "Broadcom admits it put “too big a focus on VCF.”",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg"
-  },
-  {
-    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-04T17:18:12Z",
-    "snippet": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-500x500.jpg"
   }
 ]
