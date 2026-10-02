@@ -1,5 +1,61 @@
 [
   {
+    "title": "AI hallucinations are making entitled customers even worse",
+    "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+    "source": "The Verge AI",
+    "date": "2026-10-02T12:00:00Z",
+    "snippet": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+    "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+    "source": "The Verge AI",
+    "date": "2026-10-02T12:00:00Z",
+    "snippet": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI. There are now more",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268788_Datacenter_biomimicry_PARKIN_2-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Amazon writes scary blog warning communities not to block data centers",
+    "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+    "source": "The Verge AI",
+    "date": "2026-10-02T11:52:20Z",
+    "snippet": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "source": "Wired AI",
+    "date": "2026-10-02T09:45:00Z",
+    "snippet": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+    "image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/master/pass/GettyImages-2278945913.jpg"
+  },
+  {
+    "title": "AI music maker Suno now generates spoken words",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+    "source": "The Verge AI",
+    "date": "2026-10-02T09:42:19Z",
+    "snippet": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+    "url": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+    "source": "Wired AI",
+    "date": "2026-10-02T09:30:00Z",
+    "snippet": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+    "image": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/master/pass/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg"
+  },
+  {
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-02T08:00:00Z",
+    "snippet": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600"
+  },
+  {
     "title": "Whatever AI Safety Is, It’s Not This",
     "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
     "source": "Wired AI",
@@ -256,14 +312,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
   },
   {
-    "title": "The AI Tamagotchis are coming",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-    "source": "The Verge AI",
-    "date": "2026-09-30T18:07:38Z",
-    "snippet": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&strip=all&crop=0%2C30.366492146597%2C100%2C39.267015706806&w=1200"
-  },
-  {
     "title": "openSUSE Leap adds a new security layer: Immutable mode",
     "url": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/",
     "source": "ZDNet AI",
@@ -286,14 +334,6 @@
     "date": "2026-09-30T17:24:45Z",
     "snippet": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
-  },
-  {
-    "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-    "source": "The Verge AI",
-    "date": "2026-09-30T17:15:49Z",
-    "snippet": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0%2C10.728009376723%2C100%2C78.543981246555&w=1200"
   },
   {
     "title": "Meta disputes claim that Muse read a user’s private messages without permission",
@@ -326,22 +366,6 @@
     "date": "2026-09-30T15:45:00Z",
     "snippet": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a scam.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Impersonation-Risk-Detection.jpg"
-  },
-  {
-    "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-    "source": "The Verge AI",
-    "date": "2026-09-30T15:18:49Z",
-    "snippet": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
-  },
-  {
-    "title": "Google reportedly tests paying publishers for AI search results",
-    "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-    "source": "The Verge AI",
-    "date": "2026-09-30T14:51:49Z",
-    "snippet": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
@@ -430,22 +454,6 @@
     "date": "2026-09-29T10:43:45Z",
     "snippet": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?resize=1200,600"
-  },
-  {
-    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-    "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-    "source": "Wired AI",
-    "date": "2026-09-29T10:36:22Z",
-    "snippet": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
-    "image": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/master/pass/092926-OpenAI%20Scrap.jpg"
-  },
-  {
-    "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-    "source": "Wired AI",
-    "date": "2026-09-29T10:30:00Z",
-    "snippet": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
-    "image": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/master/pass/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg"
   },
   {
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -678,14 +686,6 @@
     "date": "2026-09-21T12:00:00Z",
     "snippet": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260916_methodology.jpg?resize=1200,600"
-  },
-  {
-    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-21T12:00:00Z",
-    "snippet": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/090626-CengizYar-MITTechReview-20_0b38bc.jpg?resize=1200,600"
   },
   {
     "title": "The AI models that cheat the most, according to new CAIS benchmark",
