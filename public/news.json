@@ -1,11 +1,83 @@
 [
   {
+    "title": "Whatever AI Safety Is, It’s Not This",
+    "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+    "source": "Wired AI",
+    "date": "2026-10-01T22:10:42Z",
+    "snippet": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+    "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/master/pass/Model-Behavior-Trump-AI-Business.jpg"
+  },
+  {
+    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-01T21:08:11Z",
+    "snippet": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024"
+  },
+  {
+    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+    "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-01T20:28:45Z",
+    "snippet": "It has been a bad month for federal government cybersecurity.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-500x500.jpeg"
+  },
+  {
+    "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+    "source": "Wired AI",
+    "date": "2026-10-01T19:58:31Z",
+    "snippet": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+    "image": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/master/pass/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg"
+  },
+  {
+    "title": "Google’s new Guided Vision feature can help you read the fine print",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "source": "The Verge AI",
+    "date": "2026-10-01T19:47:51Z",
+    "snippet": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-01T19:21:53Z",
+    "snippet": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675"
+  },
+  {
+    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-01T19:18:03Z",
+    "snippet": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800"
+  },
+  {
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-01T18:14:42Z",
+    "snippet": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+  },
+  {
     "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
     "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
     "source": "TechCrunch AI",
     "date": "2026-10-01T17:50:19Z",
     "snippet": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200"
+  },
+  {
+    "title": "Memory executives expect RAM shortage to continue through 2028",
+    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-01T17:49:56Z",
+    "snippet": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-500x500.jpg"
   },
   {
     "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
@@ -240,22 +312,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.47.10-AM.png?w=982"
   },
   {
-    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-30T16:00:00Z",
-    "snippet": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800"
-  },
-  {
-    "title": "Instinct’s new product recommendations are giving some users the ick",
-    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-30T15:56:28Z",
-    "snippet": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686"
-  },
-  {
     "title": "Google figures out how to watermark AI-designed proteins",
     "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
     "source": "Ars Technica",
@@ -286,30 +342,6 @@
     "date": "2026-09-30T14:51:49Z",
     "snippet": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-30T14:30:00Z",
-    "snippet": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Andrew-Feldman_1-Speaker-16x9-Dark.png?resize=1200,675"
-  },
-  {
-    "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-    "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-    "source": "The Verge AI",
-    "date": "2026-09-30T14:30:00Z",
-    "snippet": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-30T14:27:11Z",
-    "snippet": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/founders.jpg?resize=1200,800"
   },
   {
     "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
@@ -454,22 +486,6 @@
     "date": "2026-09-28T14:40:43Z",
     "snippet": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/0969a659-9c73-4b4c-9670-9e14e0bc8474.jpg"
-  },
-  {
-    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-    "source": "Wired AI",
-    "date": "2026-09-28T11:32:19Z",
-    "snippet": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-    "image": "https://media.wired.com/photos/6aba376a2b66b9dd652c1c6c/master/pass/092826-OpenAi%20Whitehouse%20Hack.jpg"
-  },
-  {
-    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-    "source": "Wired AI",
-    "date": "2026-09-28T10:00:00Z",
-    "snippet": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-    "image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/master/pass/092526-AI%20Coworker.jpg"
   },
   {
     "title": "Who’s liable when AI agents go rogue?",
@@ -782,21 +798,5 @@
     "date": "2026-09-09T16:59:40Z",
     "snippet": "\"We really do earnestly believe AI could kill all humans!\"",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-504013302-500x500-1788971361.jpg"
-  },
-  {
-    "title": "Why this month's Microsoft patch release is a doozy",
-    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-    "source": "Ars Technica",
-    "date": "2026-09-08T21:11:46Z",
-    "snippet": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg"
-  },
-  {
-    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-04T22:17:36Z",
-    "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg"
   }
 ]
