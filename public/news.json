@@ -1,5 +1,29 @@
 [
   {
+    "title": "iPhone 18 Pro Max can’t call or text on AT&T? Apple will replace it for free",
+    "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
+    "source": "ZDNet AI",
+    "date": "2026-10-03T01:43:56Z",
+    "snippet": "Some iPhone 18 Pro Max phones on AT&T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00736.jpeg"
+  },
+  {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-03T00:45:39Z",
+    "snippet": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-02T23:03:16Z",
+    "snippet": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg"
+  },
+  {
     "title": "Sean Parker is rebuilding Stability AI around music",
     "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
     "source": "TechCrunch AI",
@@ -22,14 +46,6 @@
     "date": "2026-10-02T20:08:40Z",
     "snippet": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "iPhone 18 Pro Max stuck in SOS mode? Try AT&T’s urgent fix ASAP",
-    "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-call-text-sos-issue-update-fix/",
-    "source": "ZDNet AI",
-    "date": "2026-10-02T19:40:38Z",
-    "snippet": "Some iPhone 18 Pro Max users can’t call or text. AT&T is telling them to update immediately.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00736.jpeg"
   },
   {
     "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
@@ -140,7 +156,7 @@
     "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
     "source": "Wired AI",
     "date": "2026-10-02T15:00:00Z",
-    "snippet": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+    "snippet": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
     "image": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/master/pass/Backchannel-Trump-AI-Business-2297413584.jpg"
   },
   {
@@ -342,14 +358,6 @@
     "date": "2026-10-01T14:00:00Z",
     "snippet": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801"
-  },
-  {
-    "title": "Hearing tech startup Legato launches its AI hearing glasses",
-    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-01T13:00:00Z",
-    "snippet": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670"
   },
   {
     "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
@@ -790,13 +798,5 @@
     "date": "2026-09-11T11:30:58Z",
     "snippet": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-500x500.jpg"
-  },
-  {
-    "title": "Four groups caught using the same Chrome and Windows exploit kit",
-    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-09T20:55:02Z",
-    "snippet": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-500x500.jpg"
   }
 ]
