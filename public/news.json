@@ -1,5 +1,13 @@
 [
   {
+    "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+    "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+    "source": "Wired AI",
+    "date": "2026-10-04T10:00:00Z",
+    "snippet": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+    "image": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg"
+  },
+  {
     "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
     "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
     "source": "TechCrunch AI",
@@ -406,14 +414,6 @@
     "date": "2026-09-30T19:31:25Z",
     "snippet": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-500x500.jpg"
-  },
-  {
-    "title": "The Battle to Be Your Personal AI Agent Is Here",
-    "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-    "source": "Wired AI",
-    "date": "2026-09-30T19:30:00Z",
-    "snippet": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
-    "image": "https://media.wired.com/photos/6abc30af03c559dbc086f308/master/pass/AI-Lab-AI-Agent-War-Business.jpg"
   },
   {
     "title": "openSUSE Leap adds a new security layer: Immutable mode",
