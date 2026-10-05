@@ -985,7 +985,7 @@
     "daysLeft": -108,
     "formattedDate": "Jun 18 – 19, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Solana%20DeAI%20Accelerate%20London&dates=20260618/20260619&details=Connecting%20early-stage%20decentralized%20AI%20startups%20building%20on%20Solana%20with%20venture%20capital%20firms%2C%20liquidity%20providers%2C%20and%20security%20auditors.%0A%0AOfficial%20Website%3A%20https%3A//superteam.fun%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Level39%20Canary%20Wharf%2C%20London%2C%20UK&sf=true&output=xml",
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop"
+    "image": "https://res.cloudinary.com/dgvnuwspr/image/upload/assets/st/og/og-home.png"
   },
   {
     "id": "solana-hacker-house-bangalore-2026",
@@ -1401,7 +1401,7 @@
     "daysLeft": -53,
     "formattedDate": "Aug 09 – 13, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ACM%20SIGGRAPH%202026&dates=20260809/20260813&details=The%20world%27s%20leading%20annual%20conference%20on%20computer%20graphics%20and%20interactive%20techniques%2C%20unveiling%20breakthroughs%20in%20neural%20rendering%2C%20Gaussian%20splatting%2C%20and%20generative%203D%20physics.%0A%0AOfficial%20Website%3A%20https%3A//s2026.siggraph.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Los%20Angeles%20Convention%20Center%2C%20Los%20Angeles%2C%20CA%2C%20USA&sf=true&output=xml",
-    "image": "https://s2026.siggraph.org/wp-content/uploads/2025/08/s2026-site-image.jpg"
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop"
   },
   {
     "id": "istanbul-blockchain-week-2026",
@@ -2259,7 +2259,7 @@
     "daysLeft": 28,
     "formattedDate": "Nov 02 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CoRL%202026%20%28Conference%20on%20Robot%20Learning%29&dates=20261102/20261105&details=Focused%20exclusively%20on%20the%20intersection%20of%20robotics%20and%20machine%20learning%2C%20highlighting%20policy%20learning%2C%20world%20models%2C%20and%20foundation%20models%20for%20embodied%20agents.%0A%0AOfficial%20Website%3A%20https%3A//corl.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=COEX%20Convention%20%26%20Exhibition%20Center%2C%20Seoul%2C%20South%20Korea&sf=true&output=xml",
-    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s7cueGoEQdIf1ScwLxWd7eeYgTaNrTAdTBnlApnDhPOYnFYA6yfic17wD2nkxoP6X9pzHURDY349KS2M77P011kcjc-Q6jyX02d6yuNMebqa_9XcHhIlUpdF3H5O6ioqOGlKSTG-8vvGrK0GH8vQeGFS2e6ee1bua8Sn8aWRJYZm1nUrTpc82MRpi7waU=w1280"
+    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sY-Qt-5X3wZU_XaN1qb45jm7XSxgXQous5fHW8dZWa9l4cKDda6w0y8ufKLNxSz8fK5Ry6Eo4Rvag32rH0od5dDgt3Xbx-RtiR-CUBK1-d0igV0NzXx7aof0Qq65SfE9uFQOjML4lEBWE9uFNVNowUiHI3n_xjNwd2ROYjBBwO2t2ANXCNibF4c9zuHoM=w1280"
   },
   {
     "id": "devcon-2026",
