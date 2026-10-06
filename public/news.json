@@ -1,5 +1,117 @@
 [
   {
+    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "source": "Wired AI",
+    "date": "2026-10-06T17:28:33Z",
+    "snippet": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+    "image": "https://media.wired.com/photos/6ac4301373c1ba905b24e9bd/master/pass/science_openai_mathematicians_weird.jpg"
+  },
+  {
+    "title": "Office 2021 support ends this month – you have 5 options",
+    "url": "https://www.zdnet.com/tech/microsoft-office-2021-support-ends-your-options/",
+    "source": "ZDNet AI",
+    "date": "2026-10-06T16:40:40Z",
+    "snippet": "Microsoft is ending support and updates for Office 2021 on October 13. What does that mean, and what are your alternatives?",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/colorsoffice-GettyImages-2294922131.jpg"
+  },
+  {
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T16:35:00Z",
+    "snippet": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675"
+  },
+  {
+    "title": "We can’t just change the definition of ‘recording’",
+    "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+    "source": "The Verge AI",
+    "date": "2026-10-06T16:29:44Z",
+    "snippet": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T16:00:00Z",
+    "snippet": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024"
+  },
+  {
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T15:25:00Z",
+    "snippet": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016"
+  },
+  {
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T14:33:16Z",
+    "snippet": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
+  },
+  {
+    "title": "Pinterest’s AI now turns beauty Pins into action plans",
+    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T14:00:49Z",
+    "snippet": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675"
+  },
+  {
+    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+    "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T14:00:00Z",
+    "snippet": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_ee9b8a.png?w=1200"
+  },
+  {
+    "title": "Google is about to remove free access to Gemini Flash and Pro",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "source": "The Verge AI",
+    "date": "2026-10-06T13:19:01Z",
+    "snippet": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+    "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+    "source": "Wired AI",
+    "date": "2026-10-06T13:15:23Z",
+    "snippet": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+    "image": "https://media.wired.com/photos/6ac4f176165d7d326c8d86b1/master/pass/GettyImages-2277901311.jpg"
+  },
+  {
+    "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you control it",
+    "url": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
+    "source": "ZDNet AI",
+    "date": "2026-10-06T13:00:04Z",
+    "snippet": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676053_f66563.jpg"
+  },
+  {
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-06T12:21:53Z",
+    "snippet": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-500x500.jpg"
+  },
+  {
+    "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+    "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-06T12:00:31Z",
+    "snippet": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg"
+  },
+  {
     "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
     "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
     "source": "The Verge AI",
@@ -176,14 +288,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/SB200_Philpot-von-Tobel-Chien-Grayson-Reum.png?resize=1200,675"
   },
   {
-    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-    "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-    "source": "The Verge AI",
-    "date": "2026-10-05T14:30:00Z",
-    "snippet": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
     "source": "TechCrunch AI",
@@ -192,20 +296,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800"
   },
   {
-    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-    "source": "The Verge AI",
-    "date": "2026-10-05T13:47:14Z",
-    "snippet": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/highlights_siri_conversations_endframe__d56qnw2oz22q_large_2x.jpg?quality=90&strip=all&crop=17.168746500778%2C34.087860369258%2C65.996740905563%2C64.026266887145&w=1200"
-  },
-  {
     "title": "Bringing predictive analytics to the agentic AI era",
     "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
     "source": "MIT Technology Review",
     "date": "2026-10-05T13:29:32Z",
     "snippet": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b.png?resize=1200,600"
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b-e1791293413974.png?resize=1200,600"
   },
   {
     "title": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
@@ -240,30 +336,6 @@
     "image": null
   },
   {
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-04T20:31:07Z",
-    "snippet": "AI slop seems to be overwhelming bug bounty programs.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863"
-  },
-  {
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-04T20:08:34Z",
-    "snippet": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800"
-  },
-  {
-    "title": "Trump unveils his new Super Intelligence Force",
-    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-04T15:15:10Z",
-    "snippet": "This new task force is Trump's latest response to the debate over AI safety.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024"
-  },
-  {
     "title": "Rural Data Centers Are in for a Big Federal Tax Break",
     "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
     "source": "Wired AI",
@@ -272,36 +344,12 @@
     "image": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg"
   },
   {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-03T18:43:57Z",
-    "snippet": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
-  },
-  {
     "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
     "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
     "source": "Wired AI",
     "date": "2026-10-03T18:00:00Z",
     "snippet": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
     "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg"
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-03T16:30:01Z",
-    "snippet": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
-  },
-  {
-    "title": "All the AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-03T14:00:00Z",
-    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
   },
   {
     "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
@@ -392,28 +440,12 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600"
   },
   {
-    "title": "Whatever AI Safety Is, It’s Not This",
-    "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-    "source": "Wired AI",
-    "date": "2026-10-01T22:10:42Z",
-    "snippet": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-    "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/master/pass/Model-Behavior-Trump-AI-Business.jpg"
-  },
-  {
     "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
     "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
     "source": "Ars Technica Tech",
     "date": "2026-10-01T20:28:45Z",
     "snippet": "It has been a bad month for federal government cybersecurity.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-500x500.jpeg"
-  },
-  {
-    "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-    "source": "Wired AI",
-    "date": "2026-10-01T19:58:31Z",
-    "snippet": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-    "image": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/master/pass/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg"
   },
   {
     "title": "Memory executives expect RAM shortage to continue through 2028",
@@ -712,28 +744,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255624329-500x500.jpg"
   },
   {
-    "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
-    "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
-    "source": "ZDNet AI",
-    "date": "2026-09-22T16:30:05Z",
-    "snippet": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Opus-5.5.jpg"
-  },
-  {
     "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
     "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
     "source": "Ars Technica Tech",
     "date": "2026-09-21T22:24:38Z",
     "snippet": "A simple ClickFix attack is only one way to completely hijack the new agent.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg"
-  },
-  {
-    "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
-    "url": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
-    "source": "ZDNet AI",
-    "date": "2026-09-21T16:07:21Z",
-    "snippet": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/622a165b-db60-4c0b-ad1c-e6c0aaa53c01.jpg"
   },
   {
     "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
@@ -782,21 +798,5 @@
     "date": "2026-09-14T19:28:42Z",
     "snippet": "This is also the last version of macOS to support Rosetta for Intel apps.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-500x500-1789411872.jpg"
-  },
-  {
-    "title": "AI leaders want to hit the brakes after years of reckless speed",
-    "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-    "source": "Ars Technica",
-    "date": "2026-09-14T19:06:13Z",
-    "snippet": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-500x500-1789407445.jpg"
-  },
-  {
-    "title": "ClickFix attacks infecting PCs and Macs are going viral",
-    "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-11T11:30:58Z",
-    "snippet": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-500x500.jpg"
   }
 ]
