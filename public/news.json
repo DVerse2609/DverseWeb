@@ -1,5 +1,85 @@
 [
   {
+    "title": "Gemini Call for Me might tell your mom you’re running late",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "source": "The Verge AI",
+    "date": "2026-10-05T23:09:55Z",
+    "snippet": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call",
+    "image": null
+  },
+  {
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-05T22:26:35Z",
+    "snippet": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-500x500.jpg"
+  },
+  {
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05T20:36:48Z",
+    "snippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+  },
+  {
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "source": "The Verge AI",
+    "date": "2026-10-05T20:14:57Z",
+    "snippet": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0%2C5.420521028312%2C100%2C89.158957943376&w=1200"
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05T19:33:53Z",
+    "snippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669"
+  },
+  {
+    "title": "All the drama around AI’s takeover of mathematics",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "source": "The Verge AI",
+    "date": "2026-10-05T19:28:59Z",
+    "snippet": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things,",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
+  },
+  {
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "source": "Ars Technica",
+    "date": "2026-10-05T19:14:44Z",
+    "snippet": "The tool can free up over 12GB of storage.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-500x500.jpeg"
+  },
+  {
+    "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+    "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "source": "The Verge AI",
+    "date": "2026-10-05T19:05:19Z",
+    "snippet": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05T18:54:30Z",
+    "snippet": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05T18:29:00Z",
+    "snippet": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801"
+  },
+  {
     "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
     "source": "The Verge AI",
@@ -52,7 +132,7 @@
     "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
     "source": "TechCrunch AI",
     "date": "2026-10-05T15:14:24Z",
-    "snippet": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+    "snippet": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200"
   },
   {
@@ -136,14 +216,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg?resize=1200,800"
   },
   {
-    "title": "Our minds aren’t equipped to handle AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-    "source": "The Verge AI",
-    "date": "2026-10-05T10:00:00Z",
-    "snippet": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly,",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "People really hate AI, so why can’t they get enough?",
     "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
     "source": "MIT Technology Review",
@@ -176,22 +248,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800"
   },
   {
-    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-    "source": "The Verge AI",
-    "date": "2026-10-04T16:16:04Z",
-    "snippet": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
-  },
-  {
-    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-    "source": "The Verge AI",
-    "date": "2026-10-04T15:21:59Z",
-    "snippet": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853"
-  },
-  {
     "title": "Trump unveils his new Super Intelligence Force",
     "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
     "source": "TechCrunch AI",
@@ -222,14 +278,6 @@
     "date": "2026-10-03T18:00:00Z",
     "snippet": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
     "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg"
-  },
-  {
-    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-    "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-    "source": "The Verge AI",
-    "date": "2026-10-03T16:49:10Z",
-    "snippet": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
   },
   {
     "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
@@ -288,44 +336,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
   },
   {
-    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-02T19:15:51Z",
-    "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600.png?w=1200"
-  },
-  {
     "title": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
     "url": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
     "source": "ZDNet AI",
     "date": "2026-10-02T18:18:57Z",
     "snippet": "This authentic-looking scam starts with a sponsored Google link – and it’s catching people off-guard.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ChatGPT-fake.jpg"
-  },
-  {
-    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-02T18:11:27Z",
-    "snippet": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800"
-  },
-  {
-    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-02T17:56:00Z",
-    "snippet": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800"
-  },
-  {
-    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-02T17:48:16Z",
-    "snippet": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024"
   },
   {
     "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
@@ -782,21 +798,5 @@
     "date": "2026-09-14T19:28:42Z",
     "snippet": "This is also the last version of macOS to support Rosetta for Intel apps.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-500x500-1789411872.jpg"
-  },
-  {
-    "title": "AI leaders want to hit the brakes after years of reckless speed",
-    "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-    "source": "Ars Technica",
-    "date": "2026-09-14T19:06:13Z",
-    "snippet": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-500x500-1789407445.jpg"
-  },
-  {
-    "title": "ClickFix attacks infecting PCs and Macs are going viral",
-    "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-11T11:30:58Z",
-    "snippet": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-500x500.jpg"
   }
 ]
