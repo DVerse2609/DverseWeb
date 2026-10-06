@@ -1,5 +1,21 @@
 [
   {
+    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+    "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+    "source": "The Verge AI",
+    "date": "2026-10-06T10:53:11Z",
+    "snippet": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+    "source": "Wired AI",
+    "date": "2026-10-06T10:30:00Z",
+    "snippet": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+    "image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/master/pass/100516-Big%20Interview%20K%20Roose%20Solo.jpg"
+  },
+  {
     "title": "Gemini Call for Me might tell your mom you’re running late",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
     "source": "The Verge AI",
@@ -192,14 +208,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b.png?resize=1200,600"
   },
   {
-    "title": "OpenAI is sticking more ads in ChatGPT",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-    "source": "The Verge AI",
-    "date": "2026-10-05T13:09:48Z",
-    "snippet": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chatgpt-visual-ads.webp?quality=90&strip=all&crop=2.25,0,95.5,100"
-  },
-  {
     "title": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
     "url": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
     "source": "ZDNet AI",
@@ -312,28 +320,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00736.jpeg"
   },
   {
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-03T00:45:39Z",
-    "snippet": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
-  },
-  {
     "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
     "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
     "source": "Ars Technica Tech",
     "date": "2026-10-02T23:03:16Z",
     "snippet": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg"
-  },
-  {
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-02T21:09:14Z",
-    "snippet": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
   },
   {
     "title": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
@@ -454,14 +446,6 @@
     "date": "2026-09-30T20:44:48Z",
     "snippet": "A simple email gives the attackers the ability to remotely inject OS commands.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg"
-  },
-  {
-    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-    "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-    "source": "Wired AI",
-    "date": "2026-09-30T20:30:09Z",
-    "snippet": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-    "image": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/master/pass/093026-ai-regulations.jpg"
   },
   {
     "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
@@ -798,5 +782,21 @@
     "date": "2026-09-14T19:28:42Z",
     "snippet": "This is also the last version of macOS to support Rosetta for Intel apps.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-500x500-1789411872.jpg"
+  },
+  {
+    "title": "AI leaders want to hit the brakes after years of reckless speed",
+    "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "source": "Ars Technica",
+    "date": "2026-09-14T19:06:13Z",
+    "snippet": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-500x500-1789407445.jpg"
+  },
+  {
+    "title": "ClickFix attacks infecting PCs and Macs are going viral",
+    "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+    "source": "Ars Technica Tech",
+    "date": "2026-09-11T11:30:58Z",
+    "snippet": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-500x500.jpg"
   }
 ]
