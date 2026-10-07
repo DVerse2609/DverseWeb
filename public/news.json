@@ -1,5 +1,85 @@
 [
   {
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "source": "The Verge AI",
+    "date": "2026-10-06T23:26:38Z",
+    "snippet": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0%2C10.744316765259%2C100%2C78.511366469482&w=1200"
+  },
+  {
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T22:34:03Z",
+    "snippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800"
+  },
+  {
+    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+    "source": "Ars Technica",
+    "date": "2026-10-06T20:50:32Z",
+    "snippet": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-500x500-1789154135.jpg"
+  },
+  {
+    "title": "How AI decision models could change content moderation",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T20:35:20Z",
+    "snippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675"
+  },
+  {
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T20:00:30Z",
+    "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687"
+  },
+  {
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T19:56:50Z",
+    "snippet": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800"
+  },
+  {
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-06T19:21:14Z",
+    "snippet": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-500x500.jpg"
+  },
+  {
+    "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+    "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "source": "Wired AI",
+    "date": "2026-10-06T18:45:39Z",
+    "snippet": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+    "image": "https://media.wired.com/photos/6abeb0c6be4bdb85e3b4d7e4/master/pass/Artificial-NYFF-Screening-Culture.jpg"
+  },
+  {
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-06T18:22:45Z",
+    "snippet": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675"
+  },
+  {
+    "title": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
+    "url": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
+    "source": "ZDNet AI",
+    "date": "2026-10-06T18:00:57Z",
+    "snippet": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/gemini-ai-with-free-access.jpg"
+  },
+  {
     "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
     "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
     "source": "Wired AI",
@@ -100,7 +180,7 @@
     "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
     "source": "Ars Technica Tech",
     "date": "2026-10-06T12:21:53Z",
-    "snippet": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+    "snippet": "The reports of OpenAI agents harming third-party sites keep coming.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-500x500.jpg"
   },
   {
@@ -232,14 +312,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-    "source": "The Verge AI",
-    "date": "2026-10-05T16:44:21Z",
-    "snippet": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI,",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200"
-  },
-  {
     "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
     "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
     "source": "TechCrunch AI",
@@ -264,38 +336,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200"
   },
   {
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T15:00:00Z",
-    "snippet": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800"
-  },
-  {
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T14:35:09Z",
-    "snippet": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800"
-  },
-  {
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T14:30:00Z",
-    "snippet": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/SB200_Philpot-von-Tobel-Chien-Grayson-Reum.png?resize=1200,675"
-  },
-  {
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T14:00:00Z",
-    "snippet": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800"
-  },
-  {
     "title": "Bringing predictive analytics to the agentic AI era",
     "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
     "source": "MIT Technology Review",
@@ -310,14 +350,6 @@
     "date": "2026-10-05T12:03:03Z",
     "snippet": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_0057.png"
-  },
-  {
-    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T12:00:00Z",
-    "snippet": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg?resize=1200,800"
   },
   {
     "title": "People really hate AI, so why can’t they get enough?",
@@ -422,14 +454,6 @@
     "date": "2026-10-02T09:45:00Z",
     "snippet": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
     "image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/master/pass/GettyImages-2278945913.jpg"
-  },
-  {
-    "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-    "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
-    "source": "Wired AI",
-    "date": "2026-10-02T09:30:00Z",
-    "snippet": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
-    "image": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/master/pass/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg"
   },
   {
     "title": "Don’t be fooled—LLMs don’t reason",
@@ -720,14 +744,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Lance-Windows-laptop.jpg"
   },
   {
-    "title": "Nearly 70% of workers use AI regularly now – but many get no time to upskill",
-    "url": "https://www.zdnet.com/innovation/workera-study-ai-skills-upskilling-2026/",
-    "source": "ZDNet AI",
-    "date": "2026-09-23T13:00:00Z",
-    "snippet": "ZDNET Exclusive: A new Workera report shows businesses and employees aren’t on the same page about AI upskilling. Here’s what organizations need to know.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2196418214.jpg"
-  },
-  {
     "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
     "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
     "source": "Ars Technica",
@@ -782,21 +798,5 @@
     "date": "2026-09-16T21:08:14Z",
     "snippet": "Group plans to be largely out of commission for several weeks.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization-500x500.jpg"
-  },
-  {
-    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "source": "Ars Technica",
-    "date": "2026-09-14T21:04:32Z",
-    "snippet": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-500x500.jpg"
-  },
-  {
-    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-    "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-    "source": "Ars Technica",
-    "date": "2026-09-14T19:28:42Z",
-    "snippet": "This is also the last version of macOS to support Rosetta for Intel apps.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-500x500-1789411872.jpg"
   }
 ]
