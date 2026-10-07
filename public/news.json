@@ -1,5 +1,133 @@
 [
   {
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "source": "The Verge AI",
+    "date": "2026-10-07T18:01:20Z",
+    "snippet": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of",
+    "image": null
+  },
+  {
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T18:00:19Z",
+    "snippet": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675"
+  },
+  {
+    "title": "The New ChatGPT Is More Show Than Tell",
+    "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+    "source": "Wired AI",
+    "date": "2026-10-07T18:00:00Z",
+    "snippet": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+    "image": "https://media.wired.com/photos/6ac65e502270cfac88fdd69c/master/pass/Intelligent%20UI.png"
+  },
+  {
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+    "source": "The Verge AI",
+    "date": "2026-10-07T17:46:44Z",
+    "snippet": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&strip=all&crop=0%2C30.391676058944%2C100%2C65.44502617801&w=1200"
+  },
+  {
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T16:53:46Z",
+    "snippet": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802"
+  },
+  {
+    "title": "ChatGPT is getting college planning tools",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+    "source": "The Verge AI",
+    "date": "2026-10-07T16:00:00Z",
+    "snippet": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/College-planner_updated.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "Muse launches on the iPad",
+    "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+    "source": "The Verge AI",
+    "date": "2026-10-07T15:37:23Z",
+    "snippet": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/muse.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+    "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+    "source": "Wired AI",
+    "date": "2026-10-07T15:34:33Z",
+    "snippet": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+    "image": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/master/pass/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg"
+  },
+  {
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T15:07:08Z",
+    "snippet": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675"
+  },
+  {
+    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+    "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T14:41:38Z",
+    "snippet": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+  },
+  {
+    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+    "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+    "source": "The Verge AI",
+    "date": "2026-10-07T14:40:52Z",
+    "snippet": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2243532165.jpg?quality=90&strip=all&crop=0%2C11.164869639727%2C100%2C77.670260720546&w=1200"
+  },
+  {
+    "title": "Google experiments with an AI-powered gaming platform",
+    "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T14:36:23Z",
+    "snippet": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142"
+  },
+  {
+    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T14:30:00Z",
+    "snippet": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800"
+  },
+  {
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T14:15:00Z",
+    "snippet": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800"
+  },
+  {
+    "title": "Google’s new SynthID website can identify AI-generated media",
+    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T14:00:00Z",
+    "snippet": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675"
+  },
+  {
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T14:00:00Z",
+    "snippet": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/49202518493_54cc9e39e1_k.jpg?resize=1200,800"
+  },
+  {
     "title": "AI could upend food delivery",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
     "source": "The Verge AI",
@@ -224,28 +352,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg"
   },
   {
-    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-    "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-    "source": "The Verge AI",
-    "date": "2026-10-06T10:53:11Z",
-    "snippet": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
     "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
     "source": "Wired AI",
     "date": "2026-10-06T10:30:00Z",
     "snippet": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
     "image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/master/pass/100516-Big%20Interview%20K%20Roose%20Solo.jpg"
-  },
-  {
-    "title": "Gemini Call for Me might tell your mom you’re running late",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-    "source": "The Verge AI",
-    "date": "2026-10-05T23:09:55Z",
-    "snippet": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call",
-    "image": null
   },
   {
     "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -256,38 +368,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-500x500.jpg"
   },
   {
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T20:36:48Z",
-    "snippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
-  },
-  {
-    "title": "This startup is issuing AI-generated acne prescriptions",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "source": "The Verge AI",
-    "date": "2026-10-05T20:14:57Z",
-    "snippet": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0%2C5.420521028312%2C100%2C89.158957943376&w=1200"
-  },
-  {
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T19:33:53Z",
-    "snippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669"
-  },
-  {
-    "title": "All the drama around AI’s takeover of mathematics",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-    "source": "The Verge AI",
-    "date": "2026-10-05T19:28:59Z",
-    "snippet": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things,",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
-  },
-  {
     "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
     "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
     "source": "Ars Technica",
@@ -296,60 +376,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-500x500.jpeg"
   },
   {
-    "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-    "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-    "source": "The Verge AI",
-    "date": "2026-10-05T19:05:19Z",
-    "snippet": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
-  },
-  {
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T18:54:30Z",
-    "snippet": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
-  },
-  {
-    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T18:29:00Z",
-    "snippet": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801"
-  },
-  {
-    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T17:29:22Z",
-    "snippet": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/hgh_web-1.png?resize=1200,920"
-  },
-  {
-    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T16:43:35Z",
-    "snippet": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826"
-  },
-  {
     "title": "Connecting AI agents to enterprise knowledge",
     "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
     "source": "MIT Technology Review",
     "date": "2026-10-05T15:47:52Z",
     "snippet": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Social-Card-1.png?resize=1200,600"
-  },
-  {
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T15:14:24Z",
-    "snippet": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200"
   },
   {
     "title": "Bringing predictive analytics to the agentic AI era",
@@ -400,14 +432,6 @@
     "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg"
   },
   {
-    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-    "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-    "source": "Wired AI",
-    "date": "2026-10-03T12:00:00Z",
-    "snippet": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-    "image": "https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/master/pass/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg"
-  },
-  {
     "title": "iPhone 18 Pro Max can’t call or text on AT&T? Apple will replace it for free",
     "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
     "source": "ZDNet AI",
@@ -430,14 +454,6 @@
     "date": "2026-10-02T18:18:57Z",
     "snippet": "This authentic-looking scam starts with a sponsored Google link – and it’s catching people off-guard.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ChatGPT-fake.jpg"
-  },
-  {
-    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-    "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-    "source": "Wired AI",
-    "date": "2026-10-02T16:00:00Z",
-    "snippet": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-    "image": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/master/pass/Trillium-Labs-Risky-AI-Research-Business-edit.jpg"
   },
   {
     "title": "Redefining enterprise intelligence with autonomous AI",
@@ -782,21 +798,5 @@
     "date": "2026-09-18T20:26:33Z",
     "snippet": "But the military's overall use of AI seems to be accelerating.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-500x500.jpg"
-  },
-  {
-    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-    "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-    "source": "Ars Technica",
-    "date": "2026-09-17T18:33:13Z",
-    "snippet": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-500x500.jpg"
-  },
-  {
-    "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-    "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-16T21:08:14Z",
-    "snippet": "Group plans to be largely out of commission for several weeks.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization-500x500.jpg"
   }
 ]
