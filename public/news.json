@@ -1,5 +1,37 @@
 [
   {
+    "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
+    "url": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
+    "source": "ZDNet AI",
+    "date": "2026-10-08T12:00:07Z",
+    "snippet": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2110547962.jpg"
+  },
+  {
+    "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+    "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+    "source": "Wired AI",
+    "date": "2026-10-08T09:30:00Z",
+    "snippet": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+    "image": "https://media.wired.com/photos/6ac02e534880260b81233f30/master/pass/Tristan-Harris-2274181207.jpg"
+  },
+  {
+    "title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-08T09:00:00Z",
+    "snippet": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600"
+  },
+  {
+    "title": "Building a safer path to autonomous industrial AI",
+    "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-08T08:17:32Z",
+    "snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-AVEVA-podcast-social-card-v2-1.png?resize=1200,600"
+  },
+  {
     "title": "Managers are using AI to write performance reviews – and it shows",
     "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
     "source": "ZDNet AI",
@@ -432,14 +464,6 @@
     "image": null
   },
   {
-    "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-    "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-    "source": "Wired AI",
-    "date": "2026-10-04T10:00:00Z",
-    "snippet": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-    "image": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg"
-  },
-  {
     "title": "iPhone 18 Pro Max can’t call or text on AT&T? Apple will replace it for free",
     "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
     "source": "ZDNet AI",
@@ -624,28 +648,12 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?resize=1200,600"
   },
   {
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-28T22:17:07Z",
-    "snippet": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/9.21-Roundtables-Thumbnail-1.png?resize=1200,600"
-  },
-  {
     "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
     "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
     "source": "ZDNet AI",
     "date": "2026-09-28T20:39:56Z",
     "snippet": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ios-2701.jpg"
-  },
-  {
-    "title": "When can we say AI made a scientific discovery?",
-    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-28T17:03:16Z",
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600"
   },
   {
     "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
@@ -742,14 +750,6 @@
     "date": "2026-09-24T16:01:19Z",
     "snippet": "In response to the emerging threat of rogue and shadow AI agents, here’s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/stopswitch-GettyImages-851328230.jpg"
-  },
-  {
-    "title": "Is your Apple Watch 12 or Ultra 4 randomly restarting? Here’s the fix",
-    "url": "https://www.zdnet.com/tech/apple-watch-series-12-ultra-4-random-restarts-fix-update/",
-    "source": "ZDNet AI",
-    "date": "2026-09-24T13:42:11Z",
-    "snippet": "Some owners, including me, have reported sudden shutdowns while adjusting Apple Watch settings.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC03687.jpg"
   },
   {
     "title": "There's a new way to break RSA that's faster than anything we've seen before",
