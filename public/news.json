@@ -1,11 +1,75 @@
 [
   {
+    "title": "Managers are using AI to write performance reviews – and it shows",
+    "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
+    "source": "ZDNet AI",
+    "date": "2026-10-07T21:47:48Z",
+    "snippet": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2151843972.jpg"
+  },
+  {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T20:48:45Z",
+    "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900"
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T20:22:37Z",
+    "snippet": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+  },
+  {
+    "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "source": "The Verge AI",
+    "date": "2026-10-07T19:10:42Z",
+    "snippet": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "source": "Wired AI",
+    "date": "2026-10-07T18:45:00Z",
+    "snippet": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+    "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/master/pass/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg"
+  },
+  {
+    "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+    "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+    "source": "The Verge AI",
+    "date": "2026-10-07T18:42:22Z",
+    "snippet": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&strip=all&crop=0%2C10.745251402131%2C100%2C78.509497195739&w=1200"
+  },
+  {
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T18:30:57Z",
+    "snippet": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+  },
+  {
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-07T18:15:28Z",
+    "snippet": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024"
+  },
+  {
     "title": "Microsoft is giving Copilot more control over Windows and your files",
     "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
     "source": "The Verge AI",
     "date": "2026-10-07T18:01:20Z",
     "snippet": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of",
-    "image": null
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
@@ -28,7 +92,7 @@
     "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
     "source": "The Verge AI",
     "date": "2026-10-07T17:46:44Z",
-    "snippet": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components.",
+    "snippet": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&strip=all&crop=0%2C30.391676058944%2C100%2C65.44502617801&w=1200"
   },
   {
@@ -53,7 +117,7 @@
     "source": "The Verge AI",
     "date": "2026-10-07T15:37:23Z",
     "snippet": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/muse.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/musetop.jpg?quality=90&strip=all&crop=0,10.771144658312,100,78.457710683376"
   },
   {
     "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
@@ -264,60 +328,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675"
   },
   {
-    "title": "We can’t just change the definition of ‘recording’",
-    "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-    "source": "The Verge AI",
-    "date": "2026-10-06T16:29:44Z",
-    "snippet": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
     "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
     "source": "TechCrunch AI",
     "date": "2026-10-06T16:00:00Z",
     "snippet": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024"
-  },
-  {
-    "title": "LibreOffice says ‘no AI’ is now a software feature",
-    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06T15:25:00Z",
-    "snippet": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016"
-  },
-  {
-    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-    "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06T14:33:16Z",
-    "snippet": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
-  },
-  {
-    "title": "Pinterest’s AI now turns beauty Pins into action plans",
-    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06T14:00:49Z",
-    "snippet": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675"
-  },
-  {
-    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-    "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06T14:00:00Z",
-    "snippet": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_ee9b8a.png?w=1200"
-  },
-  {
-    "title": "Google is about to remove free access to Gemini Flash and Pro",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-    "source": "The Verge AI",
-    "date": "2026-10-06T13:19:01Z",
-    "snippet": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
   },
   {
     "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
@@ -422,14 +438,6 @@
     "date": "2026-10-04T10:00:00Z",
     "snippet": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
     "image": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg"
-  },
-  {
-    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-    "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-    "source": "Wired AI",
-    "date": "2026-10-03T18:00:00Z",
-    "snippet": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-    "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg"
   },
   {
     "title": "iPhone 18 Pro Max can’t call or text on AT&T? Apple will replace it for free",
@@ -600,7 +608,7 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ChatGPT-space-2.jpg"
   },
   {
-    "title": "Get Kindle Unlimited free for 3 months with this early Prime Day deal",
+    "title": "Get Kindle Unlimited free for 3 months with this Prime Day deal: Final hours",
     "url": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
     "source": "ZDNet AI",
     "date": "2026-09-29T17:32:40Z",
@@ -750,14 +758,6 @@
     "date": "2026-09-24T11:15:44Z",
     "snippet": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-500x500.jpg"
-  },
-  {
-    "title": "How to fix your Windows File History if the September update broke it",
-    "url": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
-    "source": "ZDNet AI",
-    "date": "2026-09-23T15:01:00Z",
-    "snippet": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Lance-Windows-laptop.jpg"
   },
   {
     "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
