@@ -1,5 +1,29 @@
 [
   {
+    "title": "Even ‘Law & Order’ Is Terrified of AI",
+    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "source": "Wired AI",
+    "date": "2026-10-09T10:00:00Z",
+    "snippet": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+    "image": "https://media.wired.com/photos/6ac6842a2962a868125e6095/master/pass/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg"
+  },
+  {
+    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+    "source": "The Verge AI",
+    "date": "2026-10-09T09:48:26Z",
+    "snippet": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-09T09:00:00Z",
+    "snippet": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600"
+  },
+  {
     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
     "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "source": "MIT Technology Review",
@@ -304,14 +328,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
   },
   {
-    "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-    "source": "The Verge AI",
-    "date": "2026-10-07T19:10:42Z",
-    "snippet": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-  },
-  {
     "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
     "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
     "source": "Wired AI",
@@ -406,14 +422,6 @@
     "date": "2026-10-06T18:00:57Z",
     "snippet": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/gemini-ai-with-free-access.jpg"
-  },
-  {
-    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-    "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-    "source": "Wired AI",
-    "date": "2026-10-06T17:28:33Z",
-    "snippet": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-    "image": "https://media.wired.com/photos/6ac4301373c1ba905b24e9bd/master/pass/science_openai_mathematicians_weird.jpg"
   },
   {
     "title": "Office 2021 support ends this month – you have 5 options",
@@ -638,14 +646,6 @@
     "date": "2026-09-30T11:15:14Z",
     "snippet": "The move will be part of a major overhaul of the ecosystem for website authentication.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-500x500-1772240635.jpg"
-  },
-  {
-    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-30T10:40:30Z",
-    "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600"
   },
   {
     "title": "Protests against OpenAI get increasingly creative",
