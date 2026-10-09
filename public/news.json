@@ -1,5 +1,85 @@
 [
   {
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "source": "The Verge AI",
+    "date": "2026-10-09T18:06:57Z",
+    "snippet": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200"
+  },
+  {
+    "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
+    "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+    "source": "ZDNet AI",
+    "date": "2026-10-09T17:53:18Z",
+    "snippet": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Linus.jpg"
+  },
+  {
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-09T16:56:42Z",
+    "snippet": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800"
+  },
+  {
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-09T16:53:02Z",
+    "snippet": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800"
+  },
+  {
+    "title": "Danu Robotics’ fight to build a better recycling robot",
+    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-09T16:45:00Z",
+    "snippet": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900"
+  },
+  {
+    "title": "We can’t help treating AI like it’s human. But should we?",
+    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-09T16:40:14Z",
+    "snippet": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675"
+  },
+  {
+    "title": "a16z’s Olivia Moore on the state of consumer AI",
+    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-09T15:43:33Z",
+    "snippet": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Olivia-Moore-Headshot-2026.jpg?w=896"
+  },
+  {
+    "title": "Trump’s attempt to rename AI is looking awfully artificial",
+    "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+    "source": "The Verge AI",
+    "date": "2026-10-09T14:25:43Z",
+    "snippet": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0%2C10.728009376723%2C100%2C78.543981246555&w=1200"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+    "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-09T14:00:00Z",
+    "snippet": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_4Days-16X9-Dark.png?resize=1200,675"
+  },
+  {
+    "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+    "source": "The Verge AI",
+    "date": "2026-10-09T14:00:00Z",
+    "snippet": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+  },
+  {
     "title": "Even ‘Law & Order’ Is Terrified of AI",
     "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
     "source": "Wired AI",
@@ -208,14 +288,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2258315764.jpg"
   },
   {
-    "title": "Google is launching a one-stop Gemini agent for your work tasks",
-    "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-    "source": "The Verge AI",
-    "date": "2026-10-08T14:28:03Z",
-    "snippet": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a single interface.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Gemini.max-2000x2000-1.png?quality=90&strip=all&crop=0%2C3.4845840605003%2C100%2C93.030831878999&w=1200"
-  },
-  {
     "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
     "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
     "source": "TechCrunch AI",
@@ -232,36 +304,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Zach-Yaegari.jpg?resize=1200,800"
   },
   {
-    "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-    "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-    "source": "The Verge AI",
-    "date": "2026-10-08T14:00:00Z",
-    "snippet": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_AI_Agents.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Artificial is a wicked satire that also sticks to the facts",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
-    "source": "The Verge AI",
-    "date": "2026-10-08T14:00:00Z",
-    "snippet": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Artificial_NYFF64_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Google releases a new local-first Granola competitor",
     "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
     "source": "TechCrunch AI",
     "date": "2026-10-08T13:28:39Z",
     "snippet": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800"
-  },
-  {
-    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-    "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-08T13:20:32Z",
-    "snippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024"
   },
   {
     "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
@@ -312,52 +360,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2151843972.jpg"
   },
   {
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T20:48:45Z",
-    "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900"
-  },
-  {
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T20:22:37Z",
-    "snippet": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
-  },
-  {
     "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
     "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
     "source": "Wired AI",
     "date": "2026-10-07T18:45:00Z",
     "snippet": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
     "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/master/pass/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg"
-  },
-  {
-    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T18:30:57Z",
-    "snippet": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
-  },
-  {
-    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T18:15:28Z",
-    "snippet": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024"
-  },
-  {
-    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T18:00:19Z",
-    "snippet": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675"
   },
   {
     "title": "The New ChatGPT Is More Show Than Tell",
@@ -734,14 +742,6 @@
     "date": "2026-09-25T16:51:43Z",
     "snippet": "Sometimes less is more, and the most helpful software update is the simplest.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/watch0s2-Screenshot-2026-09-25-122704.jpg"
-  },
-  {
-    "title": "Your LG TV is constantly collecting your data – here’s how to stop it",
-    "url": "https://www.zdnet.com/home-and-office/lg-tv-data-collection-how-to-factory-reset-and-why-you-need-to/",
-    "source": "ZDNet AI",
-    "date": "2026-09-25T12:18:24Z",
-    "snippet": "Factory resetting your LG TV is the only way to remove certain data logs from its hardware.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/702113fd-4f8b-4299-a7c9-9d44935eecc9.jpg"
   },
   {
     "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
