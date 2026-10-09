@@ -1,5 +1,109 @@
 [
   {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-09T00:08:24Z",
+    "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600"
+  },
+  {
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "source": "The Verge AI",
+    "date": "2026-10-08T21:53:51Z",
+    "snippet": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Inside Elon Musk’s Midterm Spending Spree",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "source": "Wired AI",
+    "date": "2026-10-08T21:14:12Z",
+    "snippet": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+    "image": "https://media.wired.com/photos/6ac6cf6962b0c903a0cf2363/master/pass/Uncanny-Valley-Elon-Spending-Business-2297775036.jpg"
+  },
+  {
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08T21:00:00Z",
+    "snippet": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1200,832"
+  },
+  {
+    "title": "California is trying to shut down robot vs. human cage matches",
+    "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "source": "The Verge AI",
+    "date": "2026-10-08T20:06:56Z",
+    "snippet": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&strip=all&crop=0%2C6.5996142187931%2C100%2C86.800771562414&w=1200"
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08T20:04:26Z",
+    "snippet": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+  },
+  {
+    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+    "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+    "source": "Wired AI",
+    "date": "2026-10-08T19:30:00Z",
+    "snippet": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+    "image": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg"
+  },
+  {
+    "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
+    "url": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
+    "source": "ZDNet AI",
+    "date": "2026-10-08T18:56:22Z",
+    "snippet": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2274012942-2.jpg"
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08T18:20:32Z",
+    "snippet": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024"
+  },
+  {
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08T18:19:45Z",
+    "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801"
+  },
+  {
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08T18:19:42Z",
+    "snippet": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+  },
+  {
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08T18:18:00Z",
+    "snippet": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591"
+  },
+  {
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08T18:16:24Z",
+    "snippet": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798"
+  },
+  {
     "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
     "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
     "source": "TechCrunch AI",
@@ -8,12 +112,36 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.39.30-PM.png?w=672"
   },
   {
+    "title": "USA Today becomes the latest publisher to sue OpenAI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+    "source": "The Verge AI",
+    "date": "2026-10-08T17:58:33Z",
+    "snippet": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+    "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+    "source": "The Verge AI",
+    "date": "2026-10-08T17:57:01Z",
+    "snippet": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier Hansson's Linux project.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK262_GROK_A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
     "title": "Regulators are trying to protect you from being fired by AI – here’s how",
     "url": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
     "source": "ZDNet AI",
     "date": "2026-10-08T17:05:53Z",
     "snippet": "Regulating AI at work is happening slowly, but it’s still stuck at the state level.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2160633261.jpg"
+  },
+  {
+    "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "source": "The Verge AI",
+    "date": "2026-10-08T17:00:00Z",
+    "snippet": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Natura’s $99 smart ring puts AI agents on your finger",
@@ -30,6 +158,14 @@
     "date": "2026-10-08T16:00:00Z",
     "snippet": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
+  },
+  {
+    "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+    "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+    "source": "The Verge AI",
+    "date": "2026-10-08T15:27:30Z",
+    "snippet": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
@@ -176,28 +312,12 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
   },
   {
-    "title": "It appears .agent and .agi are about to be the hot new domains",
-    "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
-    "source": "The Verge AI",
-    "date": "2026-10-07T18:46:16Z",
-    "snippet": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24643586/Amp_Search.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
     "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
     "source": "Wired AI",
     "date": "2026-10-07T18:45:00Z",
     "snippet": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
     "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/master/pass/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg"
-  },
-  {
-    "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-    "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-    "source": "The Verge AI",
-    "date": "2026-10-07T18:42:22Z",
-    "snippet": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&strip=all&crop=0%2C10.745251402131%2C100%2C78.509497195739&w=1200"
   },
   {
     "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
@@ -216,14 +336,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024"
   },
   {
-    "title": "Microsoft is giving Copilot more control over Windows and your files",
-    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-    "source": "The Verge AI",
-    "date": "2026-10-07T18:01:20Z",
-    "snippet": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
     "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
     "source": "TechCrunch AI",
@@ -240,92 +352,12 @@
     "image": "https://media.wired.com/photos/6ac65e502270cfac88fdd69c/master/pass/Intelligent%20UI.png"
   },
   {
-    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-    "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-    "source": "The Verge AI",
-    "date": "2026-10-07T17:46:44Z",
-    "snippet": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&strip=all&crop=0%2C30.391676058944%2C100%2C65.44502617801&w=1200"
-  },
-  {
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T16:53:46Z",
-    "snippet": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802"
-  },
-  {
-    "title": "ChatGPT is getting college planning tools",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-    "source": "The Verge AI",
-    "date": "2026-10-07T16:00:00Z",
-    "snippet": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/College-planner_updated.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-  },
-  {
-    "title": "Muse launches on the iPad",
-    "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-    "source": "The Verge AI",
-    "date": "2026-10-07T15:37:23Z",
-    "snippet": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/musetop.jpg?quality=90&strip=all&crop=0,10.771144658312,100,78.457710683376"
-  },
-  {
     "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
     "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
     "source": "Wired AI",
     "date": "2026-10-07T15:34:33Z",
     "snippet": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
     "image": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/master/pass/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg"
-  },
-  {
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T15:07:08Z",
-    "snippet": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675"
-  },
-  {
-    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-    "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T14:41:38Z",
-    "snippet": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
-  },
-  {
-    "title": "Google experiments with an AI-powered gaming platform",
-    "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T14:36:23Z",
-    "snippet": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142"
-  },
-  {
-    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T14:30:00Z",
-    "snippet": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800"
-  },
-  {
-    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T14:15:00Z",
-    "snippet": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800"
-  },
-  {
-    "title": "Google’s new SynthID website can identify AI-generated media",
-    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07T14:00:00Z",
-    "snippet": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675"
   },
   {
     "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
@@ -392,14 +424,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/colorsoffice-GettyImages-2294922131.jpg"
   },
   {
-    "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-    "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
-    "source": "Wired AI",
-    "date": "2026-10-06T13:15:23Z",
-    "snippet": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
-    "image": "https://media.wired.com/photos/6ac4f176165d7d326c8d86b1/master/pass/GettyImages-2277901311.jpg"
-  },
-  {
     "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you control it",
     "url": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
     "source": "ZDNet AI",
@@ -422,14 +446,6 @@
     "date": "2026-10-06T12:00:31Z",
     "snippet": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg"
-  },
-  {
-    "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-    "source": "Wired AI",
-    "date": "2026-10-06T10:30:00Z",
-    "snippet": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-    "image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/master/pass/100516-Big%20Interview%20K%20Roose%20Solo.jpg"
   },
   {
     "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -664,14 +680,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/b966cd19-e865-46c7-b313-15107e0dcf93.jpg"
   },
   {
-    "title": "Making AI an asset, not an expense",
-    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "source": "MIT Technology Review",
-    "date": "2026-09-29T10:43:45Z",
-    "snippet": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?resize=1200,600"
-  },
-  {
     "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
     "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
     "source": "ZDNet AI",
@@ -734,14 +742,6 @@
     "date": "2026-09-25T12:18:24Z",
     "snippet": "Factory resetting your LG TV is the only way to remove certain data logs from its hardware.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/702113fd-4f8b-4299-a7c9-9d44935eecc9.jpg"
-  },
-  {
-    "title": "Microsoft’s new Copilot app puts everything in one place – but the price is ‘evolving’",
-    "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
-    "source": "ZDNet AI",
-    "date": "2026-09-25T12:00:14Z",
-    "snippet": "Microsoft says Copilot has gotten ‘actually really good.’ The new app has AI agents and can write code. So how much is all this going to cost?",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Microsoft-new-Copilot-app.jpg"
   },
   {
     "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
