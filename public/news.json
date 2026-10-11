@@ -1,5 +1,13 @@
 [
   {
+    "title": "I Made Terrible Games With Google’s AI Playground",
+    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "source": "Wired AI",
+    "date": "2026-10-11T11:30:00Z",
+    "snippet": "A long day’s haul in the video game slop mines.",
+    "image": null
+  },
+  {
     "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
     "source": "The Verge AI",
@@ -422,14 +430,6 @@
     "date": "2026-10-07T15:34:33Z",
     "snippet": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
     "image": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/master/pass/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg"
-  },
-  {
-    "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-    "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-    "source": "Wired AI",
-    "date": "2026-10-07T11:00:00Z",
-    "snippet": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-    "image": "https://media.wired.com/photos/6ac4bbcf3487dc6fde4862bd/master/pass/100626-Dots%20Couch.jpg"
   },
   {
     "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
