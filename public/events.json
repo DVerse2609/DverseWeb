@@ -985,7 +985,7 @@
     "daysLeft": -114,
     "formattedDate": "Jun 18 – 19, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Solana%20DeAI%20Accelerate%20London&dates=20260618/20260619&details=Connecting%20early-stage%20decentralized%20AI%20startups%20building%20on%20Solana%20with%20venture%20capital%20firms%2C%20liquidity%20providers%2C%20and%20security%20auditors.%0A%0AOfficial%20Website%3A%20https%3A//superteam.fun%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Level39%20Canary%20Wharf%2C%20London%2C%20UK&sf=true&output=xml",
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop"
+    "image": "https://res.cloudinary.com/dgvnuwspr/image/upload/assets/st/og/og-home.png"
   },
   {
     "id": "solana-hacker-house-bangalore-2026",
@@ -2259,7 +2259,7 @@
     "daysLeft": 22,
     "formattedDate": "Nov 02 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CoRL%202026%20%28Conference%20on%20Robot%20Learning%29&dates=20261102/20261105&details=Focused%20exclusively%20on%20the%20intersection%20of%20robotics%20and%20machine%20learning%2C%20highlighting%20policy%20learning%2C%20world%20models%2C%20and%20foundation%20models%20for%20embodied%20agents.%0A%0AOfficial%20Website%3A%20https%3A//corl.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=COEX%20Convention%20%26%20Exhibition%20Center%2C%20Seoul%2C%20South%20Korea&sf=true&output=xml",
-    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72utE1xivVl5WZ3EhLg30wfp8ZX06l-FT9MhudTubM82y3uAgHD_pwqKy1GtFJrkax6anZ7dMqaJT_m6ak1RJBw_u6p6EtIzI-2PNTAapp6QPE80cTg4_dEQF_ZX3nLR0o8Wwa7j4AfrALNslvPN_K8N0vCAGgjui_mMnWyGO5vjT7y_gCn-gq8pRRDZR3M=w1280"
+    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uJZuJJin7PUZWuTefA4JjO9SR0z2QAEmCmi_nV-UmpyUVt8KnS7nhmM8DYXY6d3eciifGekJmuoENfXu3Z-6CK6ZETV9XfLXpdH9ZGQybVbNxoLrJizoj4__59cqmser-2xJHFZnk8n1dyMbPOTzsvZhq7n9iuZi8y0q4QKRa3wp7XFRvg_AR4qZFVObE=w1280"
   },
   {
     "id": "devcon-2026",
