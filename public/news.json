@@ -1,5 +1,205 @@
 [
   {
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "source": "The Verge AI",
+    "date": "2026-10-13T20:45:25Z",
+    "snippet": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T20:36:44Z",
+    "snippet": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+  },
+  {
+    "title": "Shopify opens its catalog up to more AI agents",
+    "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "source": "The Verge AI",
+    "date": "2026-10-13T19:42:42Z",
+    "snippet": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200"
+  },
+  {
+    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "source": "Wired AI",
+    "date": "2026-10-13T19:35:29Z",
+    "snippet": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+    "image": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/pass/101326-Big%20Four%20UK%20parliment.jpg"
+  },
+  {
+    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+    "source": "The Verge AI",
+    "date": "2026-10-13T19:00:48Z",
+    "snippet": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T18:30:00Z",
+    "snippet": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828"
+  },
+  {
+    "title": "Facebook is giving users more control over their algorithm",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T18:05:24Z",
+    "snippet": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200"
+  },
+  {
+    "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+    "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+    "source": "The Verge AI",
+    "date": "2026-10-13T18:00:00Z",
+    "snippet": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200"
+  },
+  {
+    "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+    "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+    "source": "ZDNet AI",
+    "date": "2026-10-13T17:30:46Z",
+    "snippet": "The move is a turning point in the developer’s relationship with AI and Linux.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-10-13-at-1.27.55-PM.png"
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T17:30:00Z",
+    "snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
+  },
+  {
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T17:18:25Z",
+    "snippet": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815"
+  },
+  {
+    "title": "Facebook will let you customize your feed algorithm using AI",
+    "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+    "source": "The Verge AI",
+    "date": "2026-10-13T17:01:31Z",
+    "snippet": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/meta-your-algorithm-facebook.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T17:00:00Z",
+    "snippet": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675"
+  },
+  {
+    "title": "Google makes it easier to launch your vibe-coded apps",
+    "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+    "source": "The Verge AI",
+    "date": "2026-10-13T17:00:00Z",
+    "snippet": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Google lets you make personal Android apps for free now – with just prompts",
+    "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+    "source": "ZDNet AI",
+    "date": "2026-10-13T17:00:00Z",
+    "snippet": "It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg"
+  },
+  {
+    "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+    "source": "The Verge AI",
+    "date": "2026-10-13T16:42:51Z",
+    "snippet": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&strip=all&crop=0%2C10.653918363709%2C100%2C78.692163272582&w=1200"
+  },
+  {
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T16:30:00Z",
+    "snippet": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800"
+  },
+  {
+    "title": "Google finally releases Gemini 4 Argon",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+    "source": "The Verge AI",
+    "date": "2026-10-13T16:00:00Z",
+    "snippet": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Apple’s smart home event: All 7 devices, prices, and release dates",
+    "url": "https://www.zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv/",
+    "source": "ZDNet AI",
+    "date": "2026-10-13T15:37:27Z",
+    "snippet": "Apple’s “Welcome Home” event featured all the new smart home hardware coming to the Apple lineup.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/HV.jpg"
+  },
+  {
+    "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
+    "url": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
+    "source": "ZDNet AI",
+    "date": "2026-10-13T15:28:12Z",
+    "snippet": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/HomePod-Mini-2-2.jpg"
+  },
+  {
+    "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+    "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+    "source": "The Verge AI",
+    "date": "2026-10-13T15:12:59Z",
+    "snippet": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932925/acastro_STK108__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Apple’s $299 HomeView smart hub is here: 8 highlights, including the wall model",
+    "url": "https://www.zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price/",
+    "source": "ZDNet AI",
+    "date": "2026-10-13T14:31:03Z",
+    "snippet": "As an Apple Home user, here’s what stands out about Apple’s new smart home hub – and what I want to test firsthand.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/111_472967.jpg"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Day 1",
+    "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T14:00:00Z",
+    "snippet": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800"
+  },
+  {
+    "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+    "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+    "source": "The Verge AI",
+    "date": "2026-10-13T13:55:45Z",
+    "snippet": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hogwarts-legacy-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T13:50:19Z",
+    "snippet": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550"
+  },
+  {
     "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
     "source": "TechCrunch AI",
@@ -14,14 +214,6 @@
     "date": "2026-10-13T13:00:00Z",
     "snippet": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
-  },
-  {
-    "title": "Apple launches HomeView, its first smart display for the home",
-    "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-    "source": "The Verge AI",
-    "date": "2026-10-13T13:00:00Z",
-    "snippet": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
   },
   {
     "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
@@ -46,14 +238,6 @@
     "date": "2026-10-13T11:00:00Z",
     "snippet": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
     "image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/master/pass/10122026_BE_Wikepidia_v2.jpg"
-  },
-  {
-    "title": "Character.AI files for bankruptcy",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-    "source": "The Verge AI",
-    "date": "2026-10-13T10:32:23Z",
-    "snippet": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -128,14 +312,6 @@
     "image": "https://media.wired.com/photos/6accff96fccc4c5244b94f14/master/pass/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg"
   },
   {
-    "title": "Meta has some Wonder Full new AI models",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "source": "The Verge AI",
-    "date": "2026-10-12T17:00:00Z",
-    "snippet": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
-  },
-  {
     "title": "Honeyjar offers AI tools to improve PR and comms at every company",
     "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
     "source": "TechCrunch AI",
@@ -168,14 +344,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675"
   },
   {
-    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-    "source": "The Verge AI",
-    "date": "2026-10-12T13:00:00Z",
-    "snippet": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
     "url": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
     "source": "ZDNet AI",
@@ -200,116 +368,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854"
   },
   {
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-11T19:00:00Z",
-    "snippet": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800"
-  },
-  {
-    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "source": "The Verge AI",
-    "date": "2026-10-11T18:33:56Z",
-    "snippet": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
-  },
-  {
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-11T16:52:33Z",
-    "snippet": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200"
-  },
-  {
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-11T14:00:00Z",
-    "snippet": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624"
-  },
-  {
     "title": "I Made Terrible Games With Google’s AI Playground",
     "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
     "source": "Wired AI",
     "date": "2026-10-11T11:30:00Z",
     "snippet": "A long day’s haul in the video game slop mines.",
     "image": "https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/master/pass/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png"
-  },
-  {
-    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-    "source": "The Verge AI",
-    "date": "2026-10-11T11:00:00Z",
-    "snippet": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "source": "The Verge AI",
-    "date": "2026-10-10T22:10:17Z",
-    "snippet": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
-  },
-  {
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-10T21:47:51Z",
-    "snippet": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000"
-  },
-  {
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-10T19:50:00Z",
-    "snippet": "Is Apple hoping to get into the AI-generated podcast business?",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200"
-  },
-  {
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "source": "The Verge AI",
-    "date": "2026-10-10T18:52:07Z",
-    "snippet": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
-  },
-  {
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-10T15:00:00Z",
-    "snippet": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800"
-  },
-  {
-    "title": "Anthropic is cutting off its internal evaluations from the internet",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "source": "The Verge AI",
-    "date": "2026-10-10T14:41:16Z",
-    "snippet": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-10T14:00:00Z",
-    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
-  },
-  {
-    "title": "AI agent makers are promising privacy — will they deliver?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-    "source": "The Verge AI",
-    "date": "2026-10-10T13:00:00Z",
-    "snippet": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
   },
   {
     "title": "AI Is Getting Really Good at Messing With Cybercriminals",
@@ -326,22 +390,6 @@
     "date": "2026-10-10T08:15:00Z",
     "snippet": "The brand just announced a smart lock with a manual ‘power dial’ that charges the device in case it dies.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_e91a38.jpg"
-  },
-  {
-    "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-10T00:18:32Z",
-    "snippet": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false murder tip to the Philadelphia police.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842"
-  },
-  {
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-09T21:41:29Z",
-    "snippet": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200"
   },
   {
     "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
@@ -406,14 +454,6 @@
     "date": "2026-10-08T21:14:12Z",
     "snippet": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
     "image": "https://media.wired.com/photos/6ac6cf6962b0c903a0cf2363/master/pass/Uncanny-Valley-Elon-Spending-Business-2297775036.jpg"
-  },
-  {
-    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-    "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-    "source": "Wired AI",
-    "date": "2026-10-08T19:30:00Z",
-    "snippet": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-    "image": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg"
   },
   {
     "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
@@ -648,14 +688,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-500x500.jpg"
   },
   {
-    "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
-    "url": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
-    "source": "ZDNet AI",
-    "date": "2026-10-01T09:00:00Z",
-    "snippet": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2219096918.jpg"
-  },
-  {
     "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
     "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
     "source": "Ars Technica Tech",
@@ -672,36 +704,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-500x500.jpg"
   },
   {
-    "title": "openSUSE Leap adds a new security layer: Immutable mode",
-    "url": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/",
-    "source": "ZDNet AI",
-    "date": "2026-09-30T17:58:06Z",
-    "snippet": "One of the more secure Linux distributions has added another feature to help further lock it down.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/opensuseleap.jpg"
-  },
-  {
     "title": "Google figures out how to watermark AI-designed proteins",
     "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
     "source": "Ars Technica",
     "date": "2026-09-30T15:54:52Z",
     "snippet": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-500x500.jpg"
-  },
-  {
-    "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
-    "url": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/",
-    "source": "ZDNet AI",
-    "date": "2026-09-30T15:45:00Z",
-    "snippet": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a scam.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Impersonation-Risk-Detection.jpg"
-  },
-  {
-    "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
-    "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
-    "source": "ZDNet AI",
-    "date": "2026-09-30T12:25:48Z",
-    "snippet": "Pearson has agreed to acquire Workera to help businesses assess employees’ AI skills and target training where it’s needed most.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/MacBook_44cad6.jpg"
   },
   {
     "title": "Cloudflare plans to issue quantum-safe TLS certificates",
@@ -718,14 +726,6 @@
     "date": "2026-09-29T21:52:58Z",
     "snippet": "New sculpture depicts AI leaders escaping a sinking ship.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-500x500.jpg"
-  },
-  {
-    "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
-    "url": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
-    "source": "ZDNet AI",
-    "date": "2026-09-29T19:09:53Z",
-    "snippet": "Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1818127161.jpg"
   },
   {
     "title": "Get Kindle Unlimited free for 3 months with this Prime Day deal: Final hours",
