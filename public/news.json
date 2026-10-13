@@ -1,10 +1,18 @@
 [
   {
+    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "source": "Ars Technica",
+    "date": "2026-10-12T20:59:50Z",
+    "snippet": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-500x500.png"
+  },
+  {
     "title": "Meta releases its first frontier model, Muse Wonder",
     "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
     "source": "TechCrunch AI",
     "date": "2026-10-12T17:56:56Z",
-    "snippet": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
+    "snippet": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676"
   },
   {
@@ -28,7 +36,7 @@
     "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
     "source": "TechCrunch AI",
     "date": "2026-10-12T17:19:14Z",
-    "snippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+    "snippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675"
   },
   {
@@ -46,6 +54,14 @@
     "date": "2026-10-12T17:00:00Z",
     "snippet": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12T15:45:00Z",
+    "snippet": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200"
   },
   {
     "title": "Microsoft president says UK is best placed to drive AI regulation",
@@ -318,14 +334,6 @@
     "date": "2026-10-09T16:53:02Z",
     "snippet": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800"
-  },
-  {
-    "title": "Danu Robotics’ fight to build a better recycling robot",
-    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-09T16:45:00Z",
-    "snippet": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900"
   },
   {
     "title": "Even ‘Law & Order’ Is Terrified of AI",
@@ -790,13 +798,5 @@
     "date": "2026-09-21T22:24:38Z",
     "snippet": "A simple ClickFix attack is only one way to completely hijack the new agent.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg"
-  },
-  {
-    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-    "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-20T11:07:00Z",
-    "snippet": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-500x500.jpg"
   }
 ]
