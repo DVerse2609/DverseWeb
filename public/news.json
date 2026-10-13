@@ -1,5 +1,85 @@
 [
   {
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T13:28:06Z",
+    "snippet": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800"
+  },
+  {
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T13:00:00Z",
+    "snippet": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+  },
+  {
+    "title": "Apple launches HomeView, its first smart display for the home",
+    "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+    "source": "The Verge AI",
+    "date": "2026-10-13T13:00:00Z",
+    "snippet": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-13T12:23:42Z",
+    "snippet": "The startup will sell some of its assets to Disney for $20 million.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672"
+  },
+  {
+    "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
+    "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+    "source": "ZDNet AI",
+    "date": "2026-10-13T11:50:35Z",
+    "snippet": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1222986158.jpg"
+  },
+  {
+    "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+    "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "source": "Wired AI",
+    "date": "2026-10-13T11:00:00Z",
+    "snippet": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+    "image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/master/pass/10122026_BE_Wikepidia_v2.jpg"
+  },
+  {
+    "title": "Character.AI files for bankruptcy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+    "source": "The Verge AI",
+    "date": "2026-10-13T10:32:23Z",
+    "snippet": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-13T10:00:00Z",
+    "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600"
+  },
+  {
+    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+    "source": "Wired AI",
+    "date": "2026-10-13T10:00:00Z",
+    "snippet": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+    "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif"
+  },
+  {
+    "title": "AI labs are buying data from dead startups to train their models",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-13T09:00:00Z",
+    "snippet": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600"
+  },
+  {
     "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
     "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
     "source": "Ars Technica",
@@ -264,22 +344,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200"
   },
   {
-    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-    "source": "The Verge AI",
-    "date": "2026-10-09T21:15:38Z",
-    "snippet": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-09T19:36:56Z",
-    "snippet": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797"
-  },
-  {
     "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
     "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
     "source": "Wired AI",
@@ -296,14 +360,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/alexa-tablets-22.jpg"
   },
   {
-    "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-    "source": "The Verge AI",
-    "date": "2026-10-09T19:09:44Z",
-    "snippet": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
     "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
     "source": "Ars Technica Tech",
@@ -318,22 +374,6 @@
     "date": "2026-10-09T17:53:18Z",
     "snippet": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Linus.jpg"
-  },
-  {
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-09T16:56:42Z",
-    "snippet": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800"
-  },
-  {
-    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-09T16:53:02Z",
-    "snippet": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800"
   },
   {
     "title": "Even ‘Law & Order’ Is Terrified of AI",
@@ -408,14 +448,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2110547962.jpg"
   },
   {
-    "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-    "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
-    "source": "Wired AI",
-    "date": "2026-10-08T09:30:00Z",
-    "snippet": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
-    "image": "https://media.wired.com/photos/6ac02e534880260b81233f30/master/pass/Tristan-Harris-2274181207.jpg"
-  },
-  {
     "title": "AI breakthroughs in robotics won’t change your life any time soon",
     "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
     "source": "MIT Technology Review",
@@ -446,14 +478,6 @@
     "date": "2026-10-07T21:47:48Z",
     "snippet": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2151843972.jpg"
-  },
-  {
-    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-    "source": "Wired AI",
-    "date": "2026-10-07T18:45:00Z",
-    "snippet": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-    "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/master/pass/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg"
   },
   {
     "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
@@ -592,28 +616,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ChatGPT-fake.jpg"
   },
   {
-    "title": "Redefining enterprise intelligence with autonomous AI",
-    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-02T15:49:04Z",
-    "snippet": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Social-Card-1.png?resize=1200,600"
-  },
-  {
     "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
     "url": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/",
     "source": "ZDNet AI",
     "date": "2026-10-02T15:16:21Z",
     "snippet": "Some Pixel users are having tap-to-pay problems, and there’s no fix from Google yet. But here a few things that helped others.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/82c83abe-dddf-4f5b-b490-44ef6795201e.jpg"
-  },
-  {
-    "title": "Don’t be fooled—LLMs don’t reason",
-    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-02T08:00:00Z",
-    "snippet": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600"
   },
   {
     "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
@@ -718,14 +726,6 @@
     "date": "2026-09-29T19:09:53Z",
     "snippet": "Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1818127161.jpg"
-  },
-  {
-    "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
-    "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
-    "source": "ZDNet AI",
-    "date": "2026-09-29T17:58:37Z",
-    "snippet": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ChatGPT-space-2.jpg"
   },
   {
     "title": "Get Kindle Unlimited free for 3 months with this Prime Day deal: Final hours",
