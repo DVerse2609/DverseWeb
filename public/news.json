@@ -1,5 +1,29 @@
 [
   {
+    "title": "My Friend Has No Soul",
+    "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "source": "Wired AI",
+    "date": "2026-10-14T11:00:00Z",
+    "snippet": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+    "image": "https://media.wired.com/photos/6acdf17fe71041f109e915b0/master/pass/E4.jpg"
+  },
+  {
+    "title": "Men Can’t Stop Faking How Much They Know About AI",
+    "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+    "source": "Wired AI",
+    "date": "2026-10-14T09:30:00Z",
+    "snippet": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+    "image": "https://media.wired.com/photos/6ace9af8b7c3e684c0712364/master/pass/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg"
+  },
+  {
+    "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+    "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+    "source": "Wired AI",
+    "date": "2026-10-14T09:00:00Z",
+    "snippet": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+    "image": "https://media.wired.com/photos/6aceaa51eba493f958015701/master/pass/politics_ai_guardrails_removed_terrorist.jpg"
+  },
+  {
     "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
     "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
     "source": "Wired AI",
@@ -12,7 +36,7 @@
     "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "source": "TechCrunch AI",
     "date": "2026-10-13T23:13:31Z",
-    "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
   },
   {
@@ -392,28 +416,12 @@
     "image": "https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/master/pass/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png"
   },
   {
-    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "source": "Wired AI",
-    "date": "2026-10-10T12:00:00Z",
-    "snippet": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-    "image": "https://media.wired.com/photos/6ac7e488d45774a31ff822a9/master/pass/Kernel-Panic-AI-Getting-Really-Good-Fucking-With-Cybercriminals-Security.jpg"
-  },
-  {
     "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
     "url": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
     "source": "ZDNet AI",
     "date": "2026-10-10T08:15:00Z",
     "snippet": "The brand just announced a smart lock with a manual ‘power dial’ that charges the device in case it dies.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_e91a38.jpg"
-  },
-  {
-    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "source": "Wired AI",
-    "date": "2026-10-09T19:28:49Z",
-    "snippet": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "image": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/master/pass/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
   },
   {
     "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
@@ -438,14 +446,6 @@
     "date": "2026-10-09T17:53:18Z",
     "snippet": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Linus.jpg"
-  },
-  {
-    "title": "Even ‘Law & Order’ Is Terrified of AI",
-    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-    "source": "Wired AI",
-    "date": "2026-10-09T10:00:00Z",
-    "snippet": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-    "image": "https://media.wired.com/photos/6ac6842a2962a868125e6095/master/pass/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg"
   },
   {
     "title": "We’re putting too much faith in AI’s ability to say no",
