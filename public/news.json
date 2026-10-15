@@ -1,5 +1,85 @@
 [
   {
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T20:04:53Z",
+    "snippet": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
+  },
+  {
+    "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+    "source": "The Verge AI",
+    "date": "2026-10-15T19:57:16Z",
+    "snippet": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&crop=0%2C10.814080979907%2C100%2C78.371838040185&w=1200"
+  },
+  {
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T19:55:25Z",
+    "snippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024"
+  },
+  {
+    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T19:14:26Z",
+    "snippet": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+  },
+  {
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T18:56:46Z",
+    "snippet": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591989690_9a07db512f_k.jpg?resize=1200,800"
+  },
+  {
+    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "source": "The Verge AI",
+    "date": "2026-10-15T18:15:36Z",
+    "snippet": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple,",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+    "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T18:00:00Z",
+    "snippet": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800"
+  },
+  {
+    "title": "Friends don’t let friends feed their data to AI agents",
+    "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+    "source": "The Verge AI",
+    "date": "2026-10-15T16:21:45Z",
+    "snippet": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Renting? These 2 new Apple smart home devices are worth your money (and these 5 are not)",
+    "url": "https://www.zdnet.com/home-and-office/is-the-apple-home-collection-right-for-renters/",
+    "source": "ZDNet AI",
+    "date": "2026-10-15T16:19:16Z",
+    "snippet": "Eyeing Apple’s new Home Collection products? Renters should check their lease agreement before installing.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/3_e017b3.jpg"
+  },
+  {
+    "title": "Apple’s first touchscreen MacBook is days away – with another OLED surprise",
+    "url": "https://www.zdnet.com/tech/apple-touchscreen-macbook-oled-ipad-mini-october-event/",
+    "source": "ZDNet AI",
+    "date": "2026-10-15T16:18:57Z",
+    "snippet": "Apple reportedly set a date to unveil its new touchscreen MacBooks. Here’s what else we expect.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc09884_4ee9b8.jpg"
+  },
+  {
     "title": "AI agents are coming to Rivian’s cars",
     "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
     "source": "TechCrunch AI",
@@ -44,7 +124,7 @@
     "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
     "source": "TechCrunch AI",
     "date": "2026-10-15T14:00:00Z",
-    "snippet": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights.",
+    "snippet": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300214995.jpg?resize=1200,800"
   },
   {
@@ -144,30 +224,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800"
   },
   {
-    "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-    "source": "The Verge AI",
-    "date": "2026-10-14T21:11:28Z",
-    "snippet": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "The AI race is back on",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-    "source": "The Verge AI",
-    "date": "2026-10-14T19:06:03Z",
-    "snippet": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&strip=all&crop=0%2C10.669135487166%2C100%2C78.661729025667&w=1200"
-  },
-  {
-    "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-    "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-    "source": "The Verge AI",
-    "date": "2026-10-14T18:47:54Z",
-    "snippet": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
     "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
     "source": "TechCrunch AI",
@@ -256,14 +312,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-500x500.jpg"
   },
   {
-    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14T11:00:00Z",
-    "snippet": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800"
-  },
-  {
     "title": "My Friend Has No Soul",
     "url": "https://www.wired.com/story/my-friend-has-no-soul/",
     "source": "Wired AI",
@@ -294,38 +342,6 @@
     "date": "2026-10-13T23:17:59Z",
     "snippet": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
     "image": "https://media.wired.com/photos/6acf68394246ebd08155f6c2/master/pass/2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.jpg"
-  },
-  {
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13T23:13:31Z",
-    "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
-  },
-  {
-    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13T23:05:34Z",
-    "snippet": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800"
-  },
-  {
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13T23:00:00Z",
-    "snippet": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788"
-  },
-  {
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13T22:36:59Z",
-    "snippet": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800"
   },
   {
     "title": "Topgolf saved over $11.3 million after leaving VMware",
@@ -608,22 +624,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/gemini-ai-with-free-access.jpg"
   },
   {
-    "title": "Office 2021 support ends this month – you have 5 options",
-    "url": "https://www.zdnet.com/tech/microsoft-office-2021-support-ends-your-options/",
-    "source": "ZDNet AI",
-    "date": "2026-10-06T16:40:40Z",
-    "snippet": "Microsoft is ending support and updates for Office 2021 on October 13. What does that mean, and what are your alternatives?",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/colorsoffice-GettyImages-2294922131.jpg"
-  },
-  {
-    "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you control it",
-    "url": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
-    "source": "ZDNet AI",
-    "date": "2026-10-06T13:00:04Z",
-    "snippet": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676053_f66563.jpg"
-  },
-  {
     "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
     "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
     "source": "Ars Technica Tech",
@@ -669,7 +669,7 @@
     "source": "MIT Technology Review",
     "date": "2026-10-05T13:29:32Z",
     "snippet": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent.",
-    "image": null
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b-e1791293413974.png?resize=1200,600"
   },
   {
     "title": "People really hate AI, so why can’t they get enough?",
