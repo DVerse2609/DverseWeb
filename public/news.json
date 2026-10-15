@@ -1,5 +1,101 @@
 [
   {
+    "title": "AI agents are coming to Rivian’s cars",
+    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T15:02:36Z",
+    "snippet": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800"
+  },
+  {
+    "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+    "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+    "source": "ZDNet AI",
+    "date": "2026-10-15T15:00:00Z",
+    "snippet": "Nvidia’s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Nemotron-3.5-Super-VL-image.png"
+  },
+  {
+    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+    "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+    "source": "The Verge AI",
+    "date": "2026-10-15T14:30:00Z",
+    "snippet": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T14:29:33Z",
+    "snippet": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-UniversalCart.png?w=1200"
+  },
+  {
+    "title": "Nobody is safe from celebrity AI deepfakes",
+    "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+    "source": "The Verge AI",
+    "date": "2026-10-15T14:03:42Z",
+    "snippet": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Last day",
+    "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T14:00:00Z",
+    "snippet": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300214995.jpg?resize=1200,800"
+  },
+  {
+    "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+    "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+    "source": "The Verge AI",
+    "date": "2026-10-15T14:00:00Z",
+    "snippet": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+    "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+    "source": "The Verge AI",
+    "date": "2026-10-15T13:00:00Z",
+    "snippet": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
+    "url": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
+    "source": "ZDNet AI",
+    "date": "2026-10-15T13:00:00Z",
+    "snippet": "Google unveiled two new shopping tools ahead of the holiday buying season. Here’s what to know.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/google-universal-cart.jpg"
+  },
+  {
+    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T12:00:00Z",
+    "snippet": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080"
+  },
+  {
+    "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+    "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+    "source": "The Verge AI",
+    "date": "2026-10-15T12:00:00Z",
+    "snippet": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+    "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+    "source": "The Verge AI",
+    "date": "2026-10-15T11:00:00Z",
+    "snippet": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200"
+  },
+  {
     "title": "Figma announces new features to define how agents work on its platform",
     "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
     "source": "TechCrunch AI",
@@ -20,7 +116,7 @@
     "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
     "source": "TechCrunch AI",
     "date": "2026-10-15T00:00:00Z",
-    "snippet": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy.",
+    "snippet": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843"
   },
   {
@@ -80,14 +176,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
   },
   {
-    "title": "YouTube sticks new labels on AI-generated songs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-    "source": "The Verge AI",
-    "date": "2026-10-14T18:22:56Z",
-    "snippet": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&strip=all&crop=4,48.489005235602,89.6,46.910994764398"
-  },
-  {
     "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
     "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
     "source": "Wired AI",
@@ -110,46 +198,6 @@
     "date": "2026-10-14T17:10:15Z",
     "snippet": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-500x500-1791994331.jpg"
-  },
-  {
-    "title": "My AI doppelganger tells me what to eat",
-    "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-    "source": "The Verge AI",
-    "date": "2026-10-14T17:00:00Z",
-    "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268801_DigitalTwin_made_me_a_doppelganger_to_test_my_health_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-    "source": "The Verge AI",
-    "date": "2026-10-14T16:43:24Z",
-    "snippet": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company's operations in Asia.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-    "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-    "source": "The Verge AI",
-    "date": "2026-10-14T16:05:21Z",
-    "snippet": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Square’s new kiosk lets you talk to AI for help with your order",
-    "url": "https://www.theverge.com/tech/1009086/square-kiosk",
-    "source": "The Verge AI",
-    "date": "2026-10-14T16:00:00Z",
-    "snippet": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-  },
-  {
-    "title": "Android is using AI to suss out scammers in Google Messages",
-    "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-    "source": "The Verge AI",
-    "date": "2026-10-14T16:00:00Z",
-    "snippet": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Deezer will soon let you filter out AI-generated music",
@@ -288,14 +336,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-500x500.jpg"
   },
   {
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13T20:36:44Z",
-    "snippet": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
-  },
-  {
     "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
     "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
     "source": "Wired AI",
@@ -304,36 +344,12 @@
     "image": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/pass/101326-Big%20Four%20UK%20parliment.jpg"
   },
   {
-    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13T18:30:00Z",
-    "snippet": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828"
-  },
-  {
-    "title": "Facebook is giving users more control over their algorithm",
-    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13T18:05:24Z",
-    "snippet": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200"
-  },
-  {
     "title": "Linus Torvalds is using AI to develop Linux kernel code now",
     "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
     "source": "ZDNet AI",
     "date": "2026-10-13T17:30:46Z",
     "snippet": "The move is a turning point in the developer’s relationship with AI and Linux.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-10-13-at-1.27.55-PM.png"
-  },
-  {
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13T17:30:00Z",
-    "snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
   },
   {
     "title": "Google lets you make personal Android apps for free now – with just prompts",
@@ -653,15 +669,7 @@
     "source": "MIT Technology Review",
     "date": "2026-10-05T13:29:32Z",
     "snippet": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b-e1791293413974.png?resize=1200,600"
-  },
-  {
-    "title": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
-    "url": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
-    "source": "ZDNet AI",
-    "date": "2026-10-05T12:03:03Z",
-    "snippet": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_0057.png"
+    "image": null
   },
   {
     "title": "People really hate AI, so why can’t they get enough?",
@@ -678,14 +686,6 @@
     "date": "2026-10-05T04:00:00Z",
     "snippet": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
     "image": null
-  },
-  {
-    "title": "iPhone 18 Pro Max can’t call or text on AT&T? Apple will replace it for free",
-    "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
-    "source": "ZDNet AI",
-    "date": "2026-10-03T01:43:56Z",
-    "snippet": "Some iPhone 18 Pro Max phones on AT&T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00736.jpeg"
   },
   {
     "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
