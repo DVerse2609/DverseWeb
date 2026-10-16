@@ -1,5 +1,85 @@
 [
   {
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16T16:01:37Z",
+    "snippet": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675"
+  },
+  {
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16T15:33:49Z",
+    "snippet": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800"
+  },
+  {
+    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "source": "The Verge AI",
+    "date": "2026-10-16T15:00:00Z",
+    "snippet": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+    "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+    "source": "Wired AI",
+    "date": "2026-10-16T15:00:00Z",
+    "snippet": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+    "image": "https://media.wired.com/photos/6ad14b37762b59cd2aa2c0c9/master/pass/Backchannel-Sherry-Turkle-Business-458911186.jpg"
+  },
+  {
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16T14:26:51Z",
+    "snippet": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800"
+  },
+  {
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "source": "The Verge AI",
+    "date": "2026-10-16T14:02:40Z",
+    "snippet": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\"",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16T14:00:00Z",
+    "snippet": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675"
+  },
+  {
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16T12:55:09Z",
+    "snippet": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024"
+  },
+  {
+    "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
+    "url": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
+    "source": "ZDNet AI",
+    "date": "2026-10-16T11:47:39Z",
+    "snippet": "CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/How-many-jobs-is-your-state-losing-to-AI-This-dashboard-tracks-the-cuts-and-the-cost.jpg"
+  },
+  {
+    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "source": "Wired AI",
+    "date": "2026-10-16T11:00:00Z",
+    "snippet": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "image": "https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif"
+  },
+  {
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
     "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
     "source": "TechCrunch AI",
@@ -176,28 +256,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-UniversalCart.png?w=1200"
   },
   {
-    "title": "Nobody is safe from celebrity AI deepfakes",
-    "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-    "source": "The Verge AI",
-    "date": "2026-10-15T14:03:42Z",
-    "snippet": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "TechCrunch Disrupt 2026: Last day",
     "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
     "source": "TechCrunch AI",
     "date": "2026-10-15T14:00:00Z",
     "snippet": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300214995.jpg?resize=1200,800"
-  },
-  {
-    "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-    "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-    "source": "The Verge AI",
-    "date": "2026-10-15T14:00:00Z",
-    "snippet": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
@@ -272,52 +336,12 @@
     "image": "https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg"
   },
   {
-    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-    "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14T18:00:00Z",
-    "snippet": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797"
-  },
-  {
     "title": "Researchers use AI to design proteins that cut up other proteins",
     "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
     "source": "Ars Technica",
     "date": "2026-10-14T17:10:15Z",
     "snippet": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-500x500-1791994331.jpg"
-  },
-  {
-    "title": "Deezer will soon let you filter out AI-generated music",
-    "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14T15:16:04Z",
-    "snippet": "Deezer said that the new toggle will be rolled out by the end of the year.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067"
-  },
-  {
-    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14T15:13:24Z",
-    "snippet": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800"
-  },
-  {
-    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-    "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14T15:08:00Z",
-    "snippet": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675"
-  },
-  {
-    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14T15:00:00Z",
-    "snippet": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200"
   },
   {
     "title": "Windows update patches a whopping 1,400 security bugs –  including 2 zero days",
@@ -440,28 +464,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1222986158.jpg"
   },
   {
-    "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-    "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-    "source": "Wired AI",
-    "date": "2026-10-13T11:00:00Z",
-    "snippet": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
-    "image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/master/pass/10122026_BE_Wikepidia_v2.jpg"
-  },
-  {
     "title": "Open models have real benefits. Do they outweigh the risks?",
     "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
     "source": "MIT Technology Review",
     "date": "2026-10-13T10:00:00Z",
     "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600"
-  },
-  {
-    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-    "source": "Wired AI",
-    "date": "2026-10-13T10:00:00Z",
-    "snippet": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-    "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif"
   },
   {
     "title": "AI labs are buying data from dead startups to train their models",
@@ -622,14 +630,6 @@
     "date": "2026-10-06T19:21:14Z",
     "snippet": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-500x500.jpg"
-  },
-  {
-    "title": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
-    "url": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
-    "source": "ZDNet AI",
-    "date": "2026-10-06T18:00:57Z",
-    "snippet": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/gemini-ai-with-free-access.jpg"
   },
   {
     "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
