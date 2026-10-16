@@ -1,5 +1,69 @@
 [
   {
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15T23:44:56Z",
+    "snippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900"
+  },
+  {
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "source": "The Verge AI",
+    "date": "2026-10-15T22:43:23Z",
+    "snippet": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "source": "The Verge AI",
+    "date": "2026-10-15T22:35:55Z",
+    "snippet": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "The tech backlash is now in theaters",
+    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+    "source": "The Verge AI",
+    "date": "2026-10-15T21:39:52Z",
+    "snippet": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&strip=all&crop=0%2C15.21666481007%2C100%2C69.56667037986&w=1200"
+  },
+  {
+    "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "source": "Wired AI",
+    "date": "2026-10-15T21:18:15Z",
+    "snippet": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+    "image": "https://media.wired.com/photos/6acff05076c17d102a553f12/master/pass/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg"
+  },
+  {
+    "title": "Trump posts AI-edited photo to brag about White House restoration work",
+    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+    "source": "The Verge AI",
+    "date": "2026-10-15T21:09:33Z",
+    "snippet": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200"
+  },
+  {
+    "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+    "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+    "source": "Wired AI",
+    "date": "2026-10-15T21:00:28Z",
+    "snippet": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+    "image": "https://media.wired.com/photos/6ad00a8917414371d605a797/master/pass/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg"
+  },
+  {
+    "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+    "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-15T20:32:41Z",
+    "snippet": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-500x500.jpg"
+  },
+  {
     "title": "Meta launches an open-weight AI model that runs on Macs",
     "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
     "source": "TechCrunch AI",
@@ -136,14 +200,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-    "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-    "source": "The Verge AI",
-    "date": "2026-10-15T13:00:00Z",
-    "snippet": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
     "url": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
     "source": "ZDNet AI",
@@ -158,22 +214,6 @@
     "date": "2026-10-15T12:00:00Z",
     "snippet": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080"
-  },
-  {
-    "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-    "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-    "source": "The Verge AI",
-    "date": "2026-10-15T12:00:00Z",
-    "snippet": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-  },
-  {
-    "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-    "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-    "source": "The Verge AI",
-    "date": "2026-10-15T11:00:00Z",
-    "snippet": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200"
   },
   {
     "title": "Figma announces new features to define how agents work on its platform",
@@ -198,14 +238,6 @@
     "date": "2026-10-15T00:00:00Z",
     "snippet": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843"
-  },
-  {
-    "title": "McKinsey is making job applicants spar with a fake AI client",
-    "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-    "source": "The Verge AI",
-    "date": "2026-10-14T22:53:31Z",
-    "snippet": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -286,14 +318,6 @@
     "date": "2026-10-14T15:00:00Z",
     "snippet": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Day 2",
-    "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14T14:30:00Z",
-    "snippet": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800"
   },
   {
     "title": "Windows update patches a whopping 1,400 security bugs –  including 2 zero days",
@@ -456,28 +480,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-500x500.png"
   },
   {
-    "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
-    "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
-    "source": "Wired AI",
-    "date": "2026-10-12T17:55:12Z",
-    "snippet": "Musk, we find your lack of security disturbing.",
-    "image": "https://media.wired.com/photos/6acd1d72b814f6f25010ecb2/master/pass/Musk-Brags-About-Lego-Grok-Star-Wars-Haul-Gear.jpg"
-  },
-  {
     "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
     "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
     "source": "ZDNet AI",
     "date": "2026-10-12T17:45:44Z",
     "snippet": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/reddarksmallGettyImages-2293940548.jpg"
-  },
-  {
-    "title": "Muse Wonder Puts Meta Back at the AI Frontier",
-    "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-    "source": "Wired AI",
-    "date": "2026-10-12T17:00:27Z",
-    "snippet": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
-    "image": "https://media.wired.com/photos/6accff96fccc4c5244b94f14/master/pass/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg"
   },
   {
     "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
@@ -790,13 +798,5 @@
     "date": "2026-09-25T17:57:37Z",
     "snippet": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-500x500-1763511853.jpg"
-  },
-  {
-    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-    "source": "Ars Technica",
-    "date": "2026-09-25T11:00:28Z",
-    "snippet": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-500x500.jpg"
   }
 ]
