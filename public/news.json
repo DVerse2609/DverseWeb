@@ -1,10 +1,82 @@
 [
   {
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "source": "Wired AI",
+    "date": "2026-10-16T20:05:08Z",
+    "snippet": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg"
+  },
+  {
+    "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
+    "url": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
+    "source": "ZDNet AI",
+    "date": "2026-10-16T19:36:02Z",
+    "snippet": "And there’s no opt-out available.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2188450078.jpg"
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-16T18:00:00Z",
+    "snippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600"
+  },
+  {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16T17:52:24Z",
+    "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612"
+  },
+  {
+    "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
+    "url": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
+    "source": "ZDNet AI",
+    "date": "2026-10-16T17:11:35Z",
+    "snippet": "Open source in the public sector doesn’t fail because of technical issues. It fails because it’s not aligned with the political agenda",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Laura-Dornheim.jpg"
+  },
+  {
+    "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
+    "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+    "source": "ZDNet AI",
+    "date": "2026-10-16T17:10:27Z",
+    "snippet": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/auditblue-GettyImages-1269457842.jpg"
+  },
+  {
+    "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
+    "url": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
+    "source": "ZDNet AI",
+    "date": "2026-10-16T16:44:50Z",
+    "snippet": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00521.jpeg"
+  },
+  {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16T16:30:00Z",
+    "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800"
+  },
+  {
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16T16:30:00Z",
+    "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=960,1200"
+  },
+  {
     "title": "Elorian’s first AI model wants to reason with images, not just about them",
     "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
     "source": "TechCrunch AI",
     "date": "2026-10-16T16:01:37Z",
-    "snippet": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "snippet": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675"
   },
   {
@@ -296,36 +368,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800"
   },
   {
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T00:00:00Z",
-    "snippet": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843"
-  },
-  {
     "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
     "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
     "source": "Ars Technica Tech",
     "date": "2026-10-14T21:35:09Z",
     "snippet": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-500x500-1792011300.jpg"
-  },
-  {
-    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14T21:30:33Z",
-    "snippet": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800"
-  },
-  {
-    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-    "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14T18:23:46Z",
-    "snippet": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
   },
   {
     "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
@@ -398,14 +446,6 @@
     "date": "2026-10-13T21:33:43Z",
     "snippet": "Topgolf and VMware \"ran deep\" before the migration.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-500x500.jpg"
-  },
-  {
-    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-    "source": "Wired AI",
-    "date": "2026-10-13T19:35:29Z",
-    "snippet": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-    "image": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/pass/101326-Big%20Four%20UK%20parliment.jpg"
   },
   {
     "title": "Linus Torvalds is using AI to develop Linux kernel code now",
@@ -544,14 +584,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600"
   },
   {
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-09T00:08:24Z",
-    "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600"
-  },
-  {
     "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
     "url": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
     "source": "ZDNet AI",
@@ -576,14 +608,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2258315764.jpg"
   },
   {
-    "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
-    "url": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
-    "source": "ZDNet AI",
-    "date": "2026-10-08T12:00:07Z",
-    "snippet": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2110547962.jpg"
-  },
-  {
     "title": "AI breakthroughs in robotics won’t change your life any time soon",
     "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
     "source": "MIT Technology Review",
@@ -598,22 +622,6 @@
     "date": "2026-10-08T08:17:32Z",
     "snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-AVEVA-podcast-social-card-v2-1.png?resize=1200,600"
-  },
-  {
-    "title": "Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)",
-    "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
-    "source": "ZDNet AI",
-    "date": "2026-10-08T04:21:00Z",
-    "snippet": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia’s new RTX Spark chip and up to 128GB of unified memory – and it’s priced for power users.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC05850.jpg"
-  },
-  {
-    "title": "Managers are using AI to write performance reviews – and it shows",
-    "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
-    "source": "ZDNet AI",
-    "date": "2026-10-07T21:47:48Z",
-    "snippet": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2151843972.jpg"
   },
   {
     "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
@@ -766,14 +774,6 @@
     "date": "2026-09-29T21:52:58Z",
     "snippet": "New sculpture depicts AI leaders escaping a sinking ship.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-500x500.jpg"
-  },
-  {
-    "title": "Get Kindle Unlimited free for 3 months with this Prime Day deal: Final hours",
-    "url": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
-    "source": "ZDNet AI",
-    "date": "2026-09-29T17:32:40Z",
-    "snippet": "Amazon’s free Kindle Unlimited deal only comes around a couple times a year – and I highly recommend it.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/b966cd19-e865-46c7-b313-15107e0dcf93.jpg"
   },
   {
     "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
