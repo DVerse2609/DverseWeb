@@ -1,10 +1,26 @@
 [
   {
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16T21:22:28Z",
+    "snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
+  },
+  {
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-16T20:59:01Z",
+    "snippet": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-500x500.jpg"
+  },
+  {
     "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
     "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
     "source": "Wired AI",
     "date": "2026-10-16T20:05:08Z",
-    "snippet": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "snippet": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
     "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg"
   },
   {
@@ -358,14 +374,6 @@
     "date": "2026-10-15T04:30:00Z",
     "snippet": "Figma is also releasing its code layers feature in open beta.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675"
-  },
-  {
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T01:01:32Z",
-    "snippet": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800"
   },
   {
     "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -790,13 +798,5 @@
     "date": "2026-09-25T19:11:05Z",
     "snippet": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-500x500-1790363419.jpg"
-  },
-  {
-    "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-    "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-    "source": "Ars Technica",
-    "date": "2026-09-25T17:57:37Z",
-    "snippet": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-500x500-1763511853.jpg"
   }
 ]
