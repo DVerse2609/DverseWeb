@@ -1,5 +1,21 @@
 [
   {
+    "title": "Websites are closing their doors to AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "source": "The Verge AI",
+    "date": "2026-10-17T13:00:00Z",
+    "snippet": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice?",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
+    "url": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
+    "source": "ZDNet AI",
+    "date": "2026-10-17T13:00:00Z",
+    "snippet": "So-called balcony solar setups are becoming legal across the US. Here’s the latest.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/abc106f7-9ae3-4a45-8de8-2da5b0a9b031.jpg"
+  },
+  {
     "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
     "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
     "source": "Wired AI",
@@ -336,14 +352,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Nemotron-3.5-Super-VL-image.png"
   },
   {
-    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-    "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-    "source": "The Verge AI",
-    "date": "2026-10-15T14:30:00Z",
-    "snippet": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Google’s Universal Cart shopping tool launches in the US",
     "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
     "source": "TechCrunch AI",
@@ -606,14 +614,6 @@
     "date": "2026-10-08T17:05:53Z",
     "snippet": "Regulating AI at work is happening slowly, but it’s still stuck at the state level.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2160633261.jpg"
-  },
-  {
-    "title": "Can AI fix legacy IT? The ‘economics don’t hold up,’ says former IBM strategist",
-    "url": "https://www.zdnet.com/innovation/ai-legacy-it-modernization/",
-    "source": "ZDNet AI",
-    "date": "2026-10-08T14:35:46Z",
-    "snippet": "Vendors are pitching AI as a cure-all for legacy IT systems, but is it?",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2258315764.jpg"
   },
   {
     "title": "AI breakthroughs in robotics won’t change your life any time soon",
