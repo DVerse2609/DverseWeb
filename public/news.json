@@ -1,6 +1,22 @@
 [
   {
-    "title": "Replit is no longer working with Anthropic, CEO says",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-17T21:31:32Z",
+    "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
+  },
+  {
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-17T20:21:19Z",
+    "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+  },
+  {
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
     "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "source": "TechCrunch AI",
     "date": "2026-10-17T18:48:08Z",
@@ -374,22 +390,6 @@
     "date": "2026-10-15T13:00:00Z",
     "snippet": "Google unveiled two new shopping tools ahead of the holiday buying season. Here’s what to know.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/google-universal-cart.jpg"
-  },
-  {
-    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T12:00:00Z",
-    "snippet": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080"
-  },
-  {
-    "title": "Figma announces new features to define how agents work on its platform",
-    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T04:30:00Z",
-    "snippet": "Figma is also releasing its code layers feature in open beta.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675"
   },
   {
     "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
