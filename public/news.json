@@ -1,5 +1,29 @@
 [
   {
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "source": "The Verge AI",
+    "date": "2026-10-19T12:00:00Z",
+    "snippet": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-19T09:08:05Z",
+    "snippet": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600"
+  },
+  {
+    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "source": "Wired AI",
+    "date": "2026-10-19T09:00:00Z",
+    "snippet": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+    "image": "https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg"
+  },
+  {
     "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
     "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
     "source": "TechCrunch AI",
@@ -113,7 +137,7 @@
   },
   {
     "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
-    "url": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
+    "url": "https://www.zdnet.com/business/meta-business-account-data-ai-scraping-terms/",
     "source": "ZDNet AI",
     "date": "2026-10-16T19:36:02Z",
     "snippet": "And there’s no opt-out available.",
@@ -328,14 +352,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
   },
   {
-    "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "source": "The Verge AI",
-    "date": "2026-10-15T19:57:16Z",
-    "snippet": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&crop=0%2C10.814080979907%2C100%2C78.371838040185&w=1200"
-  },
-  {
     "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
     "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
     "source": "TechCrunch AI",
@@ -446,14 +462,6 @@
     "date": "2026-10-14T12:55:06Z",
     "snippet": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-500x500.jpg"
-  },
-  {
-    "title": "My Friend Has No Soul",
-    "url": "https://www.wired.com/story/my-friend-has-no-soul/",
-    "source": "Wired AI",
-    "date": "2026-10-14T11:00:00Z",
-    "snippet": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-    "image": "https://media.wired.com/photos/6acdf17fe71041f109e915b0/master/pass/E4.jpg"
   },
   {
     "title": "Topgolf saved over $11.3 million after leaving VMware",
@@ -702,14 +710,6 @@
     "date": "2026-10-05T08:00:00Z",
     "snippet": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600"
-  },
-  {
-    "title": "EmTech Future 2026: When AI Meets Everything",
-    "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-05T04:00:00Z",
-    "snippet": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
-    "image": null
   },
   {
     "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
