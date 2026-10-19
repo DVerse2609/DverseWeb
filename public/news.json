@@ -1,5 +1,165 @@
 [
   {
+    "title": "The fossil fuel comeback is here",
+    "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "source": "The Verge AI",
+    "date": "2026-10-19T21:48:01Z",
+    "snippet": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "source": "The Verge AI",
+    "date": "2026-10-19T21:28:20Z",
+    "snippet": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-19T20:09:24Z",
+    "snippet": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800"
+  },
+  {
+    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "source": "Wired AI",
+    "date": "2026-10-19T19:49:17Z",
+    "snippet": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+    "image": "https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/master/pass/open-ai-employee-court.jpg"
+  },
+  {
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-19T19:39:19Z",
+    "snippet": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-500x500.webp"
+  },
+  {
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-19T19:28:34Z",
+    "snippet": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612"
+  },
+  {
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-19T19:00:12Z",
+    "snippet": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1200,677"
+  },
+  {
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-19T18:49:04Z",
+    "snippet": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/wabi-ios-home.png?resize=1200,1200"
+  },
+  {
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-19T18:37:27Z",
+    "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970"
+  },
+  {
+    "title": "ReactOS reaches major milestone with NTFS install support",
+    "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-19T18:30:56Z",
+    "snippet": "ReactOS gains NTFS install support with new driver.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties-500x500.jpg"
+  },
+  {
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-19T18:22:47Z",
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_Algo.jpg?resize=1200,600"
+  },
+  {
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-19T17:45:55Z",
+    "snippet": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600"
+  },
+  {
+    "title": "How to find Flock cameras near you with MapQuest’s new ‘surveillance layer’",
+    "url": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer/",
+    "source": "ZDNet AI",
+    "date": "2026-10-19T16:59:56Z",
+    "snippet": "A name from the past is emerging again to help you stay out of sight of surveillance cameras.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_20261019_113609.jpg"
+  },
+  {
+    "title": "AI game clones are making indie developers afraid to show their work",
+    "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "source": "Ars Technica",
+    "date": "2026-10-19T16:59:22Z",
+    "snippet": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-500x500.jpg"
+  },
+  {
+    "title": "People are using AI to make their smart TVs dumb again",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-19T16:13:22Z",
+    "snippet": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200"
+  },
+  {
+    "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+    "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+    "source": "Wired AI",
+    "date": "2026-10-19T16:00:00Z",
+    "snippet": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+    "image": "https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg"
+  },
+  {
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-19T15:37:09Z",
+    "snippet": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800"
+  },
+  {
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "source": "The Verge AI",
+    "date": "2026-10-19T14:30:00Z",
+    "snippet": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "source": "The Verge AI",
+    "date": "2026-10-19T13:58:41Z",
+    "snippet": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-19T12:30:00Z",
+    "snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
+  },
+  {
     "title": "Democrats think cracking down on AI could give them an edge",
     "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
     "source": "The Verge AI",
@@ -28,7 +188,7 @@
     "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
     "source": "TechCrunch AI",
     "date": "2026-10-18T20:37:40Z",
-    "snippet": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "snippet": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024"
   },
   {
@@ -40,7 +200,7 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200"
   },
   {
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "title": "Disney agrees to hire the majority of Character AI’s workforce",
     "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "source": "TechCrunch AI",
     "date": "2026-10-18T16:30:00Z",
@@ -84,7 +244,7 @@
     "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "source": "TechCrunch AI",
     "date": "2026-10-17T18:48:08Z",
-    "snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
   },
   {
@@ -256,14 +416,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675"
   },
   {
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-16T12:55:09Z",
-    "snippet": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024"
-  },
-  {
     "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
     "url": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
     "source": "ZDNet AI",
@@ -280,38 +432,6 @@
     "image": "https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif"
   },
   {
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T23:44:56Z",
-    "snippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900"
-  },
-  {
-    "title": "ChatGPT can peek at your Chrome tabs now",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "source": "The Verge AI",
-    "date": "2026-10-15T22:43:23Z",
-    "snippet": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200"
-  },
-  {
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "source": "The Verge AI",
-    "date": "2026-10-15T22:35:55Z",
-    "snippet": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-  },
-  {
-    "title": "The tech backlash is now in theaters",
-    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "source": "The Verge AI",
-    "date": "2026-10-15T21:39:52Z",
-    "snippet": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&strip=all&crop=0%2C15.21666481007%2C100%2C69.56667037986&w=1200"
-  },
-  {
     "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
     "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
     "source": "Wired AI",
@@ -320,68 +440,12 @@
     "image": "https://media.wired.com/photos/6acff05076c17d102a553f12/master/pass/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg"
   },
   {
-    "title": "Trump posts AI-edited photo to brag about White House restoration work",
-    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-    "source": "The Verge AI",
-    "date": "2026-10-15T21:09:33Z",
-    "snippet": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200"
-  },
-  {
-    "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-    "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-    "source": "Wired AI",
-    "date": "2026-10-15T21:00:28Z",
-    "snippet": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-    "image": "https://media.wired.com/photos/6ad00a8917414371d605a797/master/pass/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg"
-  },
-  {
     "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
     "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
     "source": "Ars Technica Tech",
     "date": "2026-10-15T20:32:41Z",
     "snippet": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-500x500.jpg"
-  },
-  {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T20:04:53Z",
-    "snippet": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
-  },
-  {
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T19:55:25Z",
-    "snippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024"
-  },
-  {
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T19:14:26Z",
-    "snippet": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
-  },
-  {
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T18:56:46Z",
-    "snippet": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591989690_9a07db512f_k.jpg?resize=1200,800"
-  },
-  {
-    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-    "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T18:00:00Z",
-    "snippet": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800"
   },
   {
     "title": "Renting? These 2 new Apple smart home devices are worth your money (and these 5 are not)",
@@ -398,14 +462,6 @@
     "date": "2026-10-15T16:18:57Z",
     "snippet": "Apple reportedly set a date to unveil its new touchscreen MacBooks. Here’s what else we expect.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc09884_4ee9b8.jpg"
-  },
-  {
-    "title": "AI agents are coming to Rivian’s cars",
-    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T15:02:36Z",
-    "snippet": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800"
   },
   {
     "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
@@ -430,14 +486,6 @@
     "date": "2026-10-14T21:35:09Z",
     "snippet": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-500x500-1792011300.jpg"
-  },
-  {
-    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-    "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-    "source": "Wired AI",
-    "date": "2026-10-14T18:15:00Z",
-    "snippet": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-    "image": "https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg"
   },
   {
     "title": "Researchers use AI to design proteins that cut up other proteins",
@@ -616,14 +664,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2274012942-2.jpg"
   },
   {
-    "title": "Regulators are trying to protect you from being fired by AI – here’s how",
-    "url": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
-    "source": "ZDNet AI",
-    "date": "2026-10-08T17:05:53Z",
-    "snippet": "Regulating AI at work is happening slowly, but it’s still stuck at the state level.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2160633261.jpg"
-  },
-  {
     "title": "AI breakthroughs in robotics won’t change your life any time soon",
     "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
     "source": "MIT Technology Review",
@@ -696,22 +736,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Social-Card-1.png?resize=1200,600"
   },
   {
-    "title": "Bringing predictive analytics to the agentic AI era",
-    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-05T13:29:32Z",
-    "snippet": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b-e1791293413974.png?resize=1200,600"
-  },
-  {
-    "title": "People really hate AI, so why can’t they get enough?",
-    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-05T08:00:00Z",
-    "snippet": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600"
-  },
-  {
     "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
     "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
     "source": "Ars Technica Tech",
@@ -774,29 +798,5 @@
     "date": "2026-09-30T11:15:14Z",
     "snippet": "The move will be part of a major overhaul of the ecosystem for website authentication.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-500x500-1772240635.jpg"
-  },
-  {
-    "title": "Protests against OpenAI get increasingly creative",
-    "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-    "source": "Ars Technica",
-    "date": "2026-09-29T21:52:58Z",
-    "snippet": "New sculpture depicts AI leaders escaping a sinking ship.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-500x500.jpg"
-  },
-  {
-    "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-    "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-    "source": "Ars Technica Tech",
-    "date": "2026-09-25T19:38:59Z",
-    "snippet": "Ads appearing all over the Internet are trying to scam people.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-500x500.jpg"
-  },
-  {
-    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-    "source": "Ars Technica",
-    "date": "2026-09-25T19:11:05Z",
-    "snippet": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-500x500-1790363419.jpg"
   }
 ]
