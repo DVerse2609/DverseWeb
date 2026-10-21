@@ -1,11 +1,51 @@
 [
   {
+    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "source": "The Verge AI",
+    "date": "2026-10-20T23:04:19Z",
+    "snippet": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20T23:01:23Z",
+    "snippet": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20T22:24:02Z",
+    "snippet": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789"
+  },
+  {
+    "title": "Google’s more personalized Gemini AI is heading to your car",
+    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "source": "The Verge AI",
+    "date": "2026-10-20T22:11:34Z",
+    "snippet": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=1.0809792843691%2C0%2C97.838041431262%2C100&w=1200"
+  },
+  {
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20T21:25:22Z",
+    "snippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
+  },
+  {
     "title": "SpaceX’s AI business is beating expectations",
     "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "source": "TechCrunch AI",
     "date": "2026-10-20T20:40:41Z",
     "snippet": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801"
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200"
   },
   {
     "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -60,7 +100,7 @@
     "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
     "source": "TechCrunch AI",
     "date": "2026-10-20T17:55:12Z",
-    "snippet": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "snippet": "Eric Schmidt’s fortune is about to get even bigger.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024"
   },
   {
@@ -72,12 +112,20 @@
     "image": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg"
   },
   {
-    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
     "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
     "source": "TechCrunch AI",
     "date": "2026-10-20T17:12:48Z",
-    "snippet": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "snippet": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+  },
+  {
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20T16:20:06Z",
+    "snippet": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675"
   },
   {
     "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
@@ -132,7 +180,7 @@
     "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
     "source": "TechCrunch AI",
     "date": "2026-10-20T13:07:24Z",
-    "snippet": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "snippet": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024"
   },
   {
@@ -148,7 +196,7 @@
     "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
     "source": "TechCrunch AI",
     "date": "2026-10-20T13:00:00Z",
-    "snippet": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "snippet": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974"
   },
   {
@@ -176,11 +224,11 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675"
   },
   {
-    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
     "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
     "source": "TechCrunch AI",
     "date": "2026-10-20T11:00:00Z",
-    "snippet": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+    "snippet": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675"
   },
   {
@@ -248,14 +296,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19T20:09:24Z",
-    "snippet": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800"
-  },
-  {
     "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
     "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
     "source": "Wired AI",
@@ -270,30 +310,6 @@
     "date": "2026-10-19T19:39:19Z",
     "snippet": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-500x500.webp"
-  },
-  {
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19T19:28:34Z",
-    "snippet": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612"
-  },
-  {
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19T19:00:12Z",
-    "snippet": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1200,677"
-  },
-  {
-    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19T18:49:04Z",
-    "snippet": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/wabi-ios-home.png?resize=1200,1200"
   },
   {
     "title": "ReactOS reaches major milestone with NTFS install support",
@@ -384,14 +400,6 @@
     "image": "https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg"
   },
   {
-    "title": "A woman was arrested in Philly for blocking a delivery robot",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-    "source": "The Verge AI",
-    "date": "2026-10-18T18:28:10Z",
-    "snippet": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200"
-  },
-  {
     "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
     "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
     "source": "Wired AI",
@@ -406,14 +414,6 @@
     "date": "2026-10-18T10:30:00Z",
     "snippet": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
     "image": "https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg"
-  },
-  {
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "source": "The Verge AI",
-    "date": "2026-10-17T15:04:36Z",
-    "snippet": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve,",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
