@@ -1,5 +1,125 @@
 [
   {
+    "title": "Meta’s AI could still scrape news sites, legal experts say",
+    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "source": "The Verge AI",
+    "date": "2026-10-22T20:32:05Z",
+    "snippet": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Meta turns Muse sharing back on",
+    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "source": "The Verge AI",
+    "date": "2026-10-22T20:24:04Z",
+    "snippet": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+    "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-22T20:17:52Z",
+    "snippet": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-500x500.jpg"
+  },
+  {
+    "title": "The Social Society Helping Women Join the AI Boom",
+    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "source": "Wired AI",
+    "date": "2026-10-22T19:56:32Z",
+    "snippet": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+    "image": "https://media.wired.com/photos/6ada51afd53570f6403f7150/master/pass/Model-Behavior-Illo-102226.jpg"
+  },
+  {
+    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+    "source": "The Verge AI",
+    "date": "2026-10-22T19:45:00Z",
+    "snippet": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger!",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22T19:07:09Z",
+    "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22T19:00:00Z",
+    "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675"
+  },
+  {
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22T19:00:00Z",
+    "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988"
+  },
+  {
+    "title": "Discord now formats Markdown previews right",
+    "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+    "source": "The Verge AI",
+    "date": "2026-10-22T18:58:19Z",
+    "snippet": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "The Foundations of Scalable AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-22T18:48:04Z",
+    "snippet": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600"
+  },
+  {
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22T18:43:53Z",
+    "snippet": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024"
+  },
+  {
+    "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+    "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+    "source": "The Verge AI",
+    "date": "2026-10-22T18:15:00Z",
+    "snippet": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies?",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+    "source": "The Verge AI",
+    "date": "2026-10-22T18:00:00Z",
+    "snippet": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Someone hacked the Switch 2 by using an old game and AI",
+    "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+    "source": "The Verge AI",
+    "date": "2026-10-22T17:21:31Z",
+    "snippet": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200"
+  },
+  {
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22T16:47:17Z",
+    "snippet": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799"
+  },
+  {
     "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
     "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
     "source": "The Verge AI",
@@ -12,7 +132,7 @@
     "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
     "source": "TechCrunch AI",
     "date": "2026-10-22T16:00:00Z",
-    "snippet": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+    "snippet": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/wayve-uber-uk.jpg?resize=1200,800"
   },
   {
@@ -56,14 +176,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676"
   },
   {
-    "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-    "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-    "source": "The Verge AI",
-    "date": "2026-10-22T14:00:00Z",
-    "snippet": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Claude Duet app is Anthropic’s bet on agents",
     "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
     "source": "TechCrunch AI",
@@ -84,16 +196,8 @@
     "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
     "source": "TechCrunch AI",
     "date": "2026-10-22T13:11:13Z",
-    "snippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+    "snippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800"
-  },
-  {
-    "title": "1Password lets AI agents use your passwords without seeing them",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-    "source": "The Verge AI",
-    "date": "2026-10-22T13:00:00Z",
-    "snippet": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
   },
   {
     "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
@@ -104,36 +208,12 @@
     "image": "https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg"
   },
   {
-    "title": "AI agents are ready to shop. Some retailers are wary",
-    "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-    "source": "The Verge AI",
-    "date": "2026-10-22T12:30:00Z",
-    "snippet": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Claude did not invent scorpion antivenom",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-    "source": "The Verge AI",
-    "date": "2026-10-22T12:21:07Z",
-    "snippet": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GettyImages-2202529068_415155.jpg?quality=90&strip=all&crop=0%2C10.476337131711%2C100%2C79.047325736577&w=1200"
-  },
-  {
     "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
     "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
     "source": "Ars Technica Tech",
     "date": "2026-10-22T11:30:33Z",
     "snippet": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-500x500.jpg"
-  },
-  {
-    "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-    "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-    "source": "The Verge AI",
-    "date": "2026-10-22T11:00:00Z",
-    "snippet": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200"
   },
   {
     "title": "Making the case for context-aware AI",
@@ -149,7 +229,7 @@
     "source": "Wired AI",
     "date": "2026-10-22T10:00:00Z",
     "snippet": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-    "image": "https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif"
+    "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif"
   },
   {
     "title": "AI’s hidden storage bill: What inference leaves behind",
@@ -208,28 +288,12 @@
     "image": "https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg"
   },
   {
-    "title": "Data centers could erase decades of air quality gains",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-    "source": "The Verge AI",
-    "date": "2026-10-21T22:33:44Z",
-    "snippet": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
     "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
     "source": "Ars Technica Tech",
     "date": "2026-10-21T21:48:52Z",
     "snippet": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-500x500.jpg"
-  },
-  {
-    "title": "Meta to create a new class of shares to fund AI push",
-    "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-    "source": "The Verge AI",
-    "date": "2026-10-21T21:30:02Z",
-    "snippet": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "TechCrunch Founder Summit 2026: Everything you need to know",
@@ -376,14 +440,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg"
   },
   {
-    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-    "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-    "source": "Wired AI",
-    "date": "2026-10-21T10:30:00Z",
-    "snippet": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
-    "image": "https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg"
-  },
-  {
     "title": "PHP warns it plans to release 2 emergency patches imminently",
     "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
     "source": "Ars Technica Tech",
@@ -400,38 +456,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
   },
   {
-    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20T22:24:02Z",
-    "snippet": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789"
-  },
-  {
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20T21:25:22Z",
-    "snippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
-  },
-  {
-    "title": "SpaceX’s AI business is beating expectations",
-    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20T20:40:41Z",
-    "snippet": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200"
-  },
-  {
-    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20T20:35:10Z",
-    "snippet": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800"
-  },
-  {
     "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
     "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
     "source": "ZDNet AI",
@@ -446,14 +470,6 @@
     "date": "2026-10-20T19:47:35Z",
     "snippet": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-500x500.jpg"
-  },
-  {
-    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20T18:38:24Z",
-    "snippet": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800"
   },
   {
     "title": "The new economics of enterprise AI",
@@ -696,14 +712,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-500x500.jpg"
   },
   {
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-13T10:00:00Z",
-    "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600"
-  },
-  {
     "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
     "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
     "source": "Ars Technica",
@@ -790,13 +798,5 @@
     "date": "2026-10-02T23:03:16Z",
     "snippet": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg"
-  },
-  {
-    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-    "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-    "source": "Ars Technica Tech",
-    "date": "2026-10-01T20:28:45Z",
-    "snippet": "It has been a bad month for federal government cybersecurity.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-500x500.jpeg"
   }
 ]
