@@ -1,10 +1,34 @@
 [
   {
+    "title": "Making the case for context-aware AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-22T10:00:00Z",
+    "snippet": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600"
+  },
+  {
+    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+    "source": "Wired AI",
+    "date": "2026-10-22T10:00:00Z",
+    "snippet": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+    "image": "https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif"
+  },
+  {
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-22T08:41:18Z",
+    "snippet": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png?resize=1200,600"
+  },
+  {
     "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
     "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
     "source": "Wired AI",
     "date": "2026-10-22T02:24:17Z",
-    "snippet": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being “broadly exploited” across the internet.",
+    "snippet": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
     "image": "https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif"
   },
   {
@@ -76,7 +100,7 @@
     "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
     "source": "TechCrunch AI",
     "date": "2026-10-21T21:14:19Z",
-    "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+    "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
   },
   {
@@ -366,14 +390,6 @@
     "date": "2026-10-20T17:55:12Z",
     "snippet": "Eric Schmidt’s fortune is about to get even bigger.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024"
-  },
-  {
-    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-    "source": "Wired AI",
-    "date": "2026-10-20T17:41:58Z",
-    "snippet": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-    "image": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg"
   },
   {
     "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
@@ -680,14 +696,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600"
   },
   {
-    "title": "AI labs are buying data from dead startups to train their models",
-    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-13T09:00:00Z",
-    "snippet": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600"
-  },
-  {
     "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
     "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
     "source": "Ars Technica",
@@ -718,14 +726,6 @@
     "date": "2026-10-09T18:54:52Z",
     "snippet": "\"The current decline may be just the beginning of a new downward cycle.\"",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-500x500.jpg"
-  },
-  {
-    "title": "We’re putting too much faith in AI’s ability to say no",
-    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-09T09:00:00Z",
-    "snippet": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600"
   },
   {
     "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
