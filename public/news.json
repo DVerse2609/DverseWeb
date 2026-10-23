@@ -1,5 +1,37 @@
 [
   {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-23T00:45:37Z",
+    "snippet": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590"
+  },
+  {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22T22:08:24Z",
+    "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680"
+  },
+  {
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "source": "The Verge AI",
+    "date": "2026-10-22T21:51:25Z",
+    "snippet": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "Designing an AI serving harness built to last",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-22T21:17:29Z",
+    "snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?resize=1200,600"
+  },
+  {
     "title": "Meta’s AI could still scrape news sites, legal experts say",
     "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
     "source": "The Verge AI",
@@ -29,7 +61,7 @@
     "source": "Wired AI",
     "date": "2026-10-22T19:56:32Z",
     "snippet": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "image": "https://media.wired.com/photos/6ada51afd53570f6403f7150/master/pass/Model-Behavior-Illo-102226.jpg"
+    "image": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/master/pass/Model-Behavior-Illo-102226-2.jpg"
   },
   {
     "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
@@ -158,14 +190,6 @@
     "date": "2026-10-22T15:17:56Z",
     "snippet": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/PowerToys-Mouse-Button-Lock-in-action.jpg"
-  },
-  {
-    "title": "PHP: The three little letters wreaking havoc across the web",
-    "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-    "source": "The Verge AI",
-    "date": "2026-10-22T15:12:27Z",
-    "snippet": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Spotify’s current AI bet is about being the music service that agents choose",
@@ -408,14 +432,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Blink-Frontier-XR_BLK_1600x900-copy.jpg"
   },
   {
-    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-21T14:00:00Z",
-    "snippet": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900"
-  },
-  {
     "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
     "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
     "source": "Wired AI",
@@ -446,14 +462,6 @@
     "date": "2026-10-21T02:12:18Z",
     "snippet": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg"
-  },
-  {
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20T23:01:23Z",
-    "snippet": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
   },
   {
     "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
@@ -598,14 +606,6 @@
     "date": "2026-10-16T19:36:02Z",
     "snippet": "And there’s no opt-out available.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2188450078.jpg"
-  },
-  {
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-16T18:00:00Z",
-    "snippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600"
   },
   {
     "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
