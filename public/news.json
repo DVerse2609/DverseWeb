@@ -1,5 +1,29 @@
 [
   {
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-25T14:10:00Z",
+    "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849"
+  },
+  {
+    "title": "r/opensource just banned AI, non-English speakers, and more",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "source": "The Verge AI",
+    "date": "2026-10-25T13:25:32Z",
+    "snippet": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Google’s AI search changes upended online publishing",
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "source": "The Verge AI",
+    "date": "2026-10-25T12:00:00Z",
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
     "title": "What the US Movement Against Data Centers Can Learn From Abroad",
     "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
     "source": "Wired AI",
@@ -176,28 +200,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680"
   },
   {
-    "title": "Canva’s first AI image model plans designs before generating them",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-    "source": "The Verge AI",
-    "date": "2026-10-22T21:51:25Z",
-    "snippet": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-  },
-  {
     "title": "Designing an AI serving harness built to last",
     "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "source": "MIT Technology Review",
     "date": "2026-10-22T21:17:29Z",
     "snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?resize=1200,600"
-  },
-  {
-    "title": "Meta’s AI could still scrape news sites, legal experts say",
-    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-    "source": "The Verge AI",
-    "date": "2026-10-22T20:32:05Z",
-    "snippet": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
@@ -310,14 +318,6 @@
     "date": "2026-10-22T13:26:52Z",
     "snippet": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675"
-  },
-  {
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22T13:11:13Z",
-    "snippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800"
   },
   {
     "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
@@ -720,14 +720,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-500x500.png"
   },
   {
-    "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
-    "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
-    "source": "ZDNet AI",
-    "date": "2026-10-12T17:45:44Z",
-    "snippet": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/reddarksmallGettyImages-2293940548.jpg"
-  },
-  {
     "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
     "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
     "source": "Ars Technica Tech",
@@ -798,5 +790,13 @@
     "date": "2026-10-01T20:28:45Z",
     "snippet": "It has been a bad month for federal government cybersecurity.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-500x500.jpeg"
+  },
+  {
+    "title": "With most information hidden, the game Stratego had stumped AI—until now",
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "source": "Ars Technica",
+    "date": "2026-10-01T16:28:04Z",
+    "snippet": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-500x500.jpg"
   }
 ]
