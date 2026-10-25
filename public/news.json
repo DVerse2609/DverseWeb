@@ -1,5 +1,13 @@
 [
   {
+    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "source": "Wired AI",
+    "date": "2026-10-25T10:00:00Z",
+    "snippet": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "image": "https://media.wired.com/photos/6adbe4fc594ddd5d406f1b4a/master/pass/102326-Power%20Play-What%20the%20US%20Anti-Data%20Center%20Movement%20Can%20Learn%20From%20Everywhere%20Else-v2.jpg"
+  },
+  {
     "title": "Blue Planet III is keeping the rough edges in the age of AI",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
     "source": "The Verge AI",
@@ -216,20 +224,20 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
   },
   {
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22T19:00:00Z",
-    "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988"
-  },
-  {
     "title": "Canva releases its first image generation model",
     "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
     "source": "TechCrunch AI",
     "date": "2026-10-22T19:00:00Z",
     "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675"
+  },
+  {
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22T19:00:00Z",
+    "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988"
   },
   {
     "title": "The Foundations of Scalable AI",
@@ -454,14 +462,6 @@
     "date": "2026-10-21T14:01:31Z",
     "snippet": "Five new Blink cameras are coming to the market, and the extended-range model has all my attention.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Blink-Frontier-XR_BLK_1600x900-copy.jpg"
-  },
-  {
-    "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-    "source": "Wired AI",
-    "date": "2026-10-21T14:00:00Z",
-    "snippet": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-    "image": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg"
   },
   {
     "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
