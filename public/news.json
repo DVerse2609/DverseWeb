@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+    "source": "Wired AI",
+    "date": "2026-10-26T09:30:00Z",
+    "snippet": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch?",
+    "image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/master/pass/AI%20journalists%202.jpg"
+  },
+  {
+    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+    "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "source": "Wired AI",
+    "date": "2026-10-26T09:00:00Z",
+    "snippet": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+    "image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/master/pass/GGC%20-%205-watermarked.jpg"
+  },
+  {
     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
     "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
     "source": "TechCrunch AI",
@@ -438,22 +454,6 @@
     "date": "2026-10-21T16:00:00Z",
     "snippet": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
     "image": "https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/master/pass/business_ai_lab_recursive_improvement.jpg"
-  },
-  {
-    "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-    "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-    "source": "Wired AI",
-    "date": "2026-10-21T15:02:15Z",
-    "snippet": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-    "image": "https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg"
-  },
-  {
-    "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-    "source": "Wired AI",
-    "date": "2026-10-21T14:26:19Z",
-    "snippet": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-    "image": "https://media.wired.com/photos/6ad8c3e67fa1a6118ccee121/master/pass/102126-PHP.jpg"
   },
   {
     "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
