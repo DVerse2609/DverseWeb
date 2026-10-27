@@ -1,5 +1,125 @@
 [
   {
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T17:08:08Z",
+    "snippet": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783"
+  },
+  {
+    "title": "Windows finally gets a built-in internet speed test tool – how to try it",
+    "url": "https://www.zdnet.com/tech/microsoft-is-finally-adding-an-integrated-network-speed-test-tool-to-windows-how-to-try-it/",
+    "source": "ZDNet AI",
+    "date": "2026-10-27T16:59:12Z",
+    "snippet": "Available to Windows Insiders, the built-in tool measures your upload and download speeds over Ethernet or Wi-Fi.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Insider-build-internet-speed-test.jpg"
+  },
+  {
+    "title": "This tool can recover deleted AI chats from your phone – how it works",
+    "url": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
+    "source": "ZDNet AI",
+    "date": "2026-10-27T16:55:54Z",
+    "snippet": "This new tool proves it’s still best to limit the info you share with chatbots.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/bluecubes3GettyImages-2279412518.jpg"
+  },
+  {
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T16:30:57Z",
+    "snippet": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675"
+  },
+  {
+    "title": "The new iPad Mini’s best upgrade has nothing to do with its flashy OLED screen",
+    "url": "https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids/",
+    "source": "ZDNet AI",
+    "date": "2026-10-27T16:09:01Z",
+    "snippet": "Apple’s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg"
+  },
+  {
+    "title": "Apple’s M6 iMac has arrived – here’s what’s changed since the M4",
+    "url": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/",
+    "source": "ZDNet AI",
+    "date": "2026-10-27T15:42:32Z",
+    "snippet": "Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/5e73698c-368c-4c5b-96ac-005b32edc3ef.jpg"
+  },
+  {
+    "title": "A fake TikTok shop is Surfshark’s most-blocked phishing scam – how to steer clear",
+    "url": "https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/",
+    "source": "ZDNet AI",
+    "date": "2026-10-27T15:30:38Z",
+    "snippet": "Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/TikTok-Use.jpg"
+  },
+  {
+    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+    "source": "Wired AI",
+    "date": "2026-10-27T15:10:26Z",
+    "snippet": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "image": "https://media.wired.com/photos/6ada70c6eb086323489423af/master/pass/GettyImages-2275955534.jpg"
+  },
+  {
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T14:59:09Z",
+    "snippet": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800"
+  },
+  {
+    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+    "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+    "source": "The Verge AI",
+    "date": "2026-10-27T13:50:51Z",
+    "snippet": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.727975106345%2C100%2C78.54404978731&w=1200"
+  },
+  {
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T13:32:57Z",
+    "snippet": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675"
+  },
+  {
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T13:00:00Z",
+    "snippet": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675"
+  },
+  {
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T13:00:00Z",
+    "snippet": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200"
+  },
+  {
+    "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
+    "url": "https://www.zdnet.com/tech/windows-11-customizable-right-click-menu/",
+    "source": "ZDNet AI",
+    "date": "2026-10-27T12:17:55Z",
+    "snippet": "The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-right-click-menu.jpg"
+  },
+  {
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-27T11:19:18Z",
+    "snippet": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-1367303200.jpg?resize=1200,600"
+  },
+  {
     "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
     "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
     "source": "TechCrunch AI",
@@ -13,7 +133,7 @@
     "source": "Wired AI",
     "date": "2026-10-27T11:00:00Z",
     "snippet": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-    "image": null
+    "image": "https://media.wired.com/photos/6adfd6269b54dbfcc0225ffd/master/pass/business_ai_agents_media_audience.jpg"
   },
   {
     "title": "Data center backlash is uniting America",
@@ -248,14 +368,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849"
   },
   {
-    "title": "r/opensource just banned AI, non-English speakers, and more",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "source": "The Verge AI",
-    "date": "2026-10-25T13:25:32Z",
-    "snippet": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "What the US Movement Against Data Centers Can Learn From Abroad",
     "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
     "source": "Wired AI",
@@ -312,30 +424,6 @@
     "image": "https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/master/pass/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg"
   },
   {
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23T23:05:49Z",
-    "snippet": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
-  },
-  {
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23T21:59:19Z",
-    "snippet": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
-  },
-  {
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23T19:06:23Z",
-    "snippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800"
-  },
-  {
     "title": "Android lets you ‘bubble’ apps for easy access now – how it works",
     "url": "https://www.zdnet.com/tech/android-17-app-bubbles-how-to/",
     "source": "ZDNet AI",
@@ -352,30 +440,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/digitallockGettyImages-2300746116.jpg"
   },
   {
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23T04:00:00Z",
-    "snippet": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800"
-  },
-  {
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23T00:45:37Z",
-    "snippet": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590"
-  },
-  {
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22T22:08:24Z",
-    "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680"
-  },
-  {
     "title": "Designing an AI serving harness built to last",
     "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "source": "MIT Technology Review",
@@ -390,14 +454,6 @@
     "date": "2026-10-22T20:17:52Z",
     "snippet": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-500x500.jpg"
-  },
-  {
-    "title": "The Social Society Helping Women Join the AI Boom",
-    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
-    "source": "Wired AI",
-    "date": "2026-10-22T19:56:32Z",
-    "snippet": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "image": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/master/pass/Model-Behavior-Illo-102226-2.jpg"
   },
   {
     "title": "The Foundations of Scalable AI",
@@ -576,14 +632,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/TripleTen-MIT-cover.png?resize=1200,600"
   },
   {
-    "title": "TechPulse puts ZDNET and 4 other tech sites in one feed – for free",
-    "url": "https://www.zdnet.com/tech/techpulse-free-tech-news-app-zdnet/",
-    "source": "ZDNet AI",
-    "date": "2026-10-20T11:00:00Z",
-    "snippet": "Choose which CNET Group publications appear in your feed, then catch up on news, reviews, and videos – without an algorithm deciding what you see.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/TechPulse-app.jpg"
-  },
-  {
     "title": "A visit to Samsung’s massive new semiconductor hub",
     "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
     "source": "MIT Technology Review",
@@ -608,22 +656,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties-500x500.jpg"
   },
   {
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-19T18:22:47Z",
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_Algo.jpg?resize=1200,600"
-  },
-  {
-    "title": "How to find Flock cameras near you with MapQuest’s new ‘surveillance layer’",
-    "url": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer/",
-    "source": "ZDNet AI",
-    "date": "2026-10-19T16:59:56Z",
-    "snippet": "A name from the past is emerging again to help you stay out of sight of surveillance cameras.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_20261019_113609.jpg"
-  },
-  {
     "title": "AI game clones are making indie developers afraid to show their work",
     "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
     "source": "Ars Technica",
@@ -632,44 +664,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-500x500.jpg"
   },
   {
-    "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
-    "url": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
-    "source": "ZDNet AI",
-    "date": "2026-10-17T13:00:00Z",
-    "snippet": "So-called balcony solar setups are becoming legal across the US. Here’s the latest.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/abc106f7-9ae3-4a45-8de8-2da5b0a9b031.jpg"
-  },
-  {
     "title": "OpenAI models hacked a crypto wallet and breached more websites",
     "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
     "source": "Ars Technica Tech",
     "date": "2026-10-16T20:59:01Z",
     "snippet": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-500x500.jpg"
-  },
-  {
-    "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
-    "url": "https://www.zdnet.com/business/meta-business-account-data-ai-scraping-terms/",
-    "source": "ZDNet AI",
-    "date": "2026-10-16T19:36:02Z",
-    "snippet": "And there’s no opt-out available.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2188450078.jpg"
-  },
-  {
-    "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
-    "url": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
-    "source": "ZDNet AI",
-    "date": "2026-10-16T17:11:35Z",
-    "snippet": "Open source in the public sector doesn’t fail because of technical issues. It fails because it’s not aligned with the political agenda",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Laura-Dornheim.jpg"
-  },
-  {
-    "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
-    "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
-    "source": "ZDNet AI",
-    "date": "2026-10-16T17:10:27Z",
-    "snippet": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/auditblue-GettyImages-1269457842.jpg"
   },
   {
     "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
