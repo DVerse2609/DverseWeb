@@ -1,5 +1,37 @@
 [
   {
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T11:00:00Z",
+    "snippet": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800"
+  },
+  {
+    "title": "AI Agents Are Media’s New Favorite Audience",
+    "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+    "source": "Wired AI",
+    "date": "2026-10-27T11:00:00Z",
+    "snippet": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+    "image": null
+  },
+  {
+    "title": "Data center backlash is uniting America",
+    "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+    "source": "The Verge AI",
+    "date": "2026-10-27T10:00:00Z",
+    "snippet": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+    "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+    "source": "Wired AI",
+    "date": "2026-10-27T09:30:00Z",
+    "snippet": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+    "image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/master/pass/gear-ai-agent-best.jpg"
+  },
+  {
     "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
     "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "source": "TechCrunch AI",
@@ -224,14 +256,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "Google’s AI search changes upended online publishing",
-    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "source": "The Verge AI",
-    "date": "2026-10-25T12:00:00Z",
-    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "What the US Movement Against Data Centers Can Learn From Abroad",
     "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
     "source": "Wired AI",
@@ -376,14 +400,6 @@
     "image": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/master/pass/Model-Behavior-Illo-102226-2.jpg"
   },
   {
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22T19:07:09Z",
-    "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
-  },
-  {
     "title": "The Foundations of Scalable AI",
     "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
     "source": "MIT Technology Review",
@@ -408,14 +424,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/PowerToys-Mouse-Button-Lock-in-action.jpg"
   },
   {
-    "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-    "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-    "source": "Wired AI",
-    "date": "2026-10-22T13:00:00Z",
-    "snippet": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
-    "image": "https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg"
-  },
-  {
     "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
     "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
     "source": "Ars Technica Tech",
@@ -430,14 +438,6 @@
     "date": "2026-10-22T10:00:00Z",
     "snippet": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600"
-  },
-  {
-    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-    "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-    "source": "Wired AI",
-    "date": "2026-10-22T10:00:00Z",
-    "snippet": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-    "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif"
   },
   {
     "title": "AI’s hidden storage bill: What inference leaves behind",
