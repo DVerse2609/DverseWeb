@@ -1,10 +1,90 @@
 [
   {
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T21:44:34Z",
+    "snippet": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
+  },
+  {
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T21:38:28Z",
+    "snippet": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799"
+  },
+  {
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "source": "The Verge AI",
+    "date": "2026-10-27T20:48:58Z",
+    "snippet": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "iPhone Duo screen cracks: Serious issue or overblown? What we know",
+    "url": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
+    "source": "ZDNet AI",
+    "date": "2026-10-27T20:33:59Z",
+    "snippet": "Some displays are failing within hours of unboxing. Apple is offering replacements, but is the issue really that widespread?",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00524.jpeg"
+  },
+  {
+    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "source": "Wired AI",
+    "date": "2026-10-27T19:39:04Z",
+    "snippet": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "image": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg"
+  },
+  {
+    "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
+    "url": "https://www.zdnet.com/tech/fitbit-glucose-patterns-blood-pressure-health-features/",
+    "source": "ZDNet AI",
+    "date": "2026-10-27T19:03:07Z",
+    "snippet": "Insulin resistance and blood pressure trends are now available on two new Fitbit devices.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/D1DDF75F-DBBB-4A30-A948-033726F898DF_1_201_a.jpeg"
+  },
+  {
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T18:55:35Z",
+    "snippet": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800"
+  },
+  {
+    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+    "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "source": "Ars Technica",
+    "date": "2026-10-27T18:49:08Z",
+    "snippet": "You can apparently now tell AI tools what sort of protein you want them to make.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-500x500.jpg"
+  },
+  {
+    "title": "Netflix now, Hulu later? T-Mobile’s T-Mix plans let you switch perks – what you need to know",
+    "url": "https://www.zdnet.com/home-and-office/t-mobile-t-mix-plans-switch-perks/",
+    "source": "ZDNet AI",
+    "date": "2026-10-27T18:18:01Z",
+    "snippet": "T-Mobile’s new T-Mix plans deliver tons of extras ranging from streaming to mobile discounts, but there are some caveats to know.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/80e6726a-a939-4cf6-9e60-d9d4cb34f74b.jpg"
+  },
+  {
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "source": "The Verge AI",
+    "date": "2026-10-27T17:30:00Z",
+    "snippet": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0%2C10.721948032455%2C100%2C78.556103935089&w=1200"
+  },
+  {
     "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
     "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
     "source": "TechCrunch AI",
     "date": "2026-10-27T17:08:08Z",
-    "snippet": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+    "snippet": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783"
   },
   {
@@ -24,12 +104,28 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/bluecubes3GettyImages-2279412518.jpg"
   },
   {
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "source": "The Verge AI",
+    "date": "2026-10-27T16:51:22Z",
+    "snippet": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
+  },
+  {
     "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
     "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
     "source": "TechCrunch AI",
     "date": "2026-10-27T16:30:57Z",
-    "snippet": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+    "snippet": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675"
+  },
+  {
+    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "source": "The Verge AI",
+    "date": "2026-10-27T16:14:18Z",
+    "snippet": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&strip=all&crop=0%2C3.2247049925468%2C100%2C93.550590014906&w=1200"
   },
   {
     "title": "The new iPad Mini’s best upgrade has nothing to do with its flashy OLED screen",
@@ -38,6 +134,14 @@
     "date": "2026-10-27T16:09:01Z",
     "snippet": "Apple’s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg"
+  },
+  {
+    "title": "Google’s next Genie AI model generates more realistic experiences",
+    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+    "source": "The Verge AI",
+    "date": "2026-10-27T16:00:00Z",
+    "snippet": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0%2C3.0468973306098%2C100%2C93.90620533878&w=1200"
   },
   {
     "title": "Apple’s M6 iMac has arrived – here’s what’s changed since the M4",
@@ -124,7 +228,7 @@
     "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
     "source": "TechCrunch AI",
     "date": "2026-10-27T11:00:00Z",
-    "snippet": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "snippet": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800"
   },
   {
@@ -165,7 +269,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-27T01:12:21Z",
     "snippet": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800"
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024"
   },
   {
     "title": "OpenAI announces three big science discoveries and a new way to work with academics",
@@ -216,14 +320,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "Five weird details from Anthropic’s IPO filing",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-    "source": "The Verge AI",
-    "date": "2026-10-26T17:10:23Z",
-    "snippet": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Github competitor Entire is live now – how the agent-first platform works",
     "url": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
     "source": "ZDNet AI",
@@ -264,22 +360,6 @@
     "image": "https://media.wired.com/photos/6adf6d7844b1eb496ab79957/master/pass/Business_The%20Anthropic%20IPO%20Is%20Also%20a%20Doomsday%20Primer_v1.jpg"
   },
   {
-    "title": "Microsoft offers buyouts to 60,000 employees",
-    "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-    "source": "The Verge AI",
-    "date": "2026-10-26T15:58:27Z",
-    "snippet": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "iPhone Duo screens are already cracking: What buyers need to know",
-    "url": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
-    "source": "ZDNet AI",
-    "date": "2026-10-26T15:56:38Z",
-    "snippet": "A handful of first-hand reports show similar damage, suggesting a bad batch of hinges. Here’s what to do if your Duo screen fails.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00562.jpeg"
-  },
-  {
     "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
     "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
     "source": "Wired AI",
@@ -294,30 +374,6 @@
     "date": "2026-10-26T14:35:22Z",
     "snippet": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
-  },
-  {
-    "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-    "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-    "source": "The Verge AI",
-    "date": "2026-10-26T14:00:00Z",
-    "snippet": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_Kevin_Roose.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-    "source": "The Verge AI",
-    "date": "2026-10-26T13:32:49Z",
-    "snippet": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Can AI help solve the COBOL code crisis?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-    "source": "The Verge AI",
-    "date": "2026-10-26T13:15:00Z",
-    "snippet": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
   },
   {
     "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
@@ -390,38 +446,6 @@
     "date": "2026-10-24T19:00:00Z",
     "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
-  },
-  {
-    "title": "Block’s new voice model sounds eerily human",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24T16:00:00Z",
-    "snippet": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822"
-  },
-  {
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24T15:00:00Z",
-    "snippet": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900"
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24T14:00:00Z",
-    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
-  },
-  {
-    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-    "source": "Wired AI",
-    "date": "2026-10-24T12:00:00Z",
-    "snippet": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-    "image": "https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/master/pass/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg"
   },
   {
     "title": "Android lets you ‘bubble’ apps for easy access now – how it works",
@@ -584,14 +608,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg"
   },
   {
-    "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
-    "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
-    "source": "ZDNet AI",
-    "date": "2026-10-20T20:00:00Z",
-    "snippet": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4285.jpeg"
-  },
-  {
     "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
     "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
     "source": "Ars Technica Tech",
@@ -606,14 +622,6 @@
     "date": "2026-10-20T15:20:25Z",
     "snippet": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/HPE-iStock-1168748420.jpg?resize=1200,600"
-  },
-  {
-    "title": "Latest Windows update disables key security setting – but there’s a workaround",
-    "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
-    "source": "ZDNet AI",
-    "date": "2026-10-20T14:26:05Z",
-    "snippet": "A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/mshq2GettyImages-1408775753.jpg"
   },
   {
     "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
@@ -790,13 +798,5 @@
     "date": "2026-10-01T20:28:45Z",
     "snippet": "It has been a bad month for federal government cybersecurity.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-500x500.jpeg"
-  },
-  {
-    "title": "With most information hidden, the game Stratego had stumped AI—until now",
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "source": "Ars Technica",
-    "date": "2026-10-01T16:28:04Z",
-    "snippet": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-500x500.jpg"
   }
 ]
