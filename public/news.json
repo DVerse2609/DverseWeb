@@ -1,5 +1,29 @@
 [
   {
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-28T01:15:28Z",
+    "snippet": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T23:34:27Z",
+    "snippet": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024"
+  },
+  {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27T22:55:41Z",
+    "snippet": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800"
+  },
+  {
     "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
     "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
     "source": "TechCrunch AI",
@@ -30,6 +54,14 @@
     "date": "2026-10-27T20:33:59Z",
     "snippet": "Some displays are failing within hours of unboxing. Apple is offering replacements, but is the issue really that widespread?",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00524.jpeg"
+  },
+  {
+    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "source": "Ars Technica Tech",
+    "date": "2026-10-27T20:25:55Z",
+    "snippet": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware-500x500.jpg"
   },
   {
     "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
@@ -416,36 +448,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800"
   },
   {
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-25T14:10:00Z",
-    "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849"
-  },
-  {
     "title": "What the US Movement Against Data Centers Can Learn From Abroad",
     "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
     "source": "Wired AI",
     "date": "2026-10-25T10:00:00Z",
     "snippet": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
     "image": "https://media.wired.com/photos/6adbe4fc594ddd5d406f1b4a/master/pass/102326-Power%20Play-What%20the%20US%20Anti-Data%20Center%20Movement%20Can%20Learn%20From%20Everywhere%20Else-v2.jpg"
-  },
-  {
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24T20:15:33Z",
-    "snippet": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24T19:00:00Z",
-    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
   },
   {
     "title": "Android lets you ‘bubble’ apps for easy access now – how it works",
@@ -790,13 +798,5 @@
     "date": "2026-10-02T23:03:16Z",
     "snippet": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg"
-  },
-  {
-    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-    "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-    "source": "Ars Technica Tech",
-    "date": "2026-10-01T20:28:45Z",
-    "snippet": "It has been a bad month for federal government cybersecurity.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-500x500.jpeg"
   }
 ]
