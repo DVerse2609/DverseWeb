@@ -1,5 +1,29 @@
 [
   {
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "source": "MIT Technology Review",
+    "date": "2026-10-29T10:11:12Z",
+    "snippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600"
+  },
+  {
+    "title": "AI has come for Arizona’s water",
+    "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "source": "The Verge AI",
+    "date": "2026-10-29T10:00:04Z",
+    "snippet": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "I Gave My Blood to the AI Death Clock",
+    "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+    "source": "Wired AI",
+    "date": "2026-10-29T10:00:00Z",
+    "snippet": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+    "image": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg"
+  },
+  {
     "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
     "source": "The Verge AI",
@@ -352,14 +376,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799"
   },
   {
-    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-    "source": "The Verge AI",
-    "date": "2026-10-27T20:48:58Z",
-    "snippet": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "iPhone Duo screen cracks: Serious issue or overblown? What we know",
     "url": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
     "source": "ZDNet AI",
@@ -544,14 +560,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Apple-iPad-mini-8.jpg"
   },
   {
-    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-    "source": "Wired AI",
-    "date": "2026-10-26T16:01:55Z",
-    "snippet": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-    "image": "https://media.wired.com/photos/6adf6d7844b1eb496ab79957/master/pass/Business_The%20Anthropic%20IPO%20Is%20Also%20a%20Doomsday%20Primer_v1.jpg"
-  },
-  {
     "title": "The focus on AI safety disasters ignores everyday harms",
     "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
     "source": "MIT Technology Review",
@@ -646,14 +654,6 @@
     "date": "2026-10-20T19:47:35Z",
     "snippet": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-500x500.jpg"
-  },
-  {
-    "title": "The new economics of enterprise AI",
-    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-20T15:20:25Z",
-    "snippet": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/HPE-iStock-1168748420.jpg?resize=1200,600"
   },
   {
     "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
