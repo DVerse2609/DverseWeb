@@ -1,5 +1,213 @@
 [
   {
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T21:54:34Z",
+    "snippet": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800"
+  },
+  {
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T21:52:03Z",
+    "snippet": "The new report says the AI lab will likely qualify for a high junk rating.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
+  },
+  {
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T21:26:59Z",
+    "snippet": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800"
+  },
+  {
+    "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "source": "Wired AI",
+    "date": "2026-10-30T21:19:26Z",
+    "snippet": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
+    "image": "https://media.wired.com/photos/6ae29474af20331957eab922/master/pass/business-Uncanny-Valley-anthropic-ipo.jpg"
+  },
+  {
+    "title": "Cracks are emerging in the AI spending boom",
+    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T21:17:40Z",
+    "snippet": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800"
+  },
+  {
+    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "source": "The Verge AI",
+    "date": "2026-10-30T20:48:43Z",
+    "snippet": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200"
+  },
+  {
+    "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+    "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+    "source": "Ars Technica",
+    "date": "2026-10-30T20:40:13Z",
+    "snippet": "People who love AI don't always love telling others they used it.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-500x500.jpg"
+  },
+  {
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "source": "The Verge AI",
+    "date": "2026-10-30T20:26:10Z",
+    "snippet": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "source": "Ars Technica",
+    "date": "2026-10-30T19:30:52Z",
+    "snippet": "But it's still early days for the relatively new e-commerce use case.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-500x500.jpg"
+  },
+  {
+    "title": "Google’s satellite AI server transmits its first response to Earth",
+    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "source": "The Verge AI",
+    "date": "2026-10-30T18:21:38Z",
+    "snippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0%2C1.4420367390612%2C100%2C97.115926521878&w=1200"
+  },
+  {
+    "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
+    "url": "https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026/",
+    "source": "ZDNet AI",
+    "date": "2026-10-30T18:18:24Z",
+    "snippet": "Only a quarter of Android phones have even made it to Android 16.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg"
+  },
+  {
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T17:47:12Z",
+    "snippet": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764"
+  },
+  {
+    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+    "source": "The Verge AI",
+    "date": "2026-10-30T17:38:04Z",
+    "snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200"
+  },
+  {
+    "title": "Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect",
+    "url": "https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches/",
+    "source": "ZDNet AI",
+    "date": "2026-10-30T17:29:50Z",
+    "snippet": "The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg"
+  },
+  {
+    "title": "I’m finally ready for a smart calendar – why the Echo Show 16 stands out",
+    "url": "https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out/",
+    "source": "ZDNet AI",
+    "date": "2026-10-30T17:23:50Z",
+    "snippet": "I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png"
+  },
+  {
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T17:00:00Z",
+    "snippet": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800"
+  },
+  {
+    "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
+    "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
+    "source": "ZDNet AI",
+    "date": "2026-10-30T16:58:22Z",
+    "snippet": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/wirelessred-GettyImages-865321186.jpg"
+  },
+  {
+    "title": "Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
+    "url": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
+    "source": "ZDNet AI",
+    "date": "2026-10-30T16:14:11Z",
+    "snippet": "Google details 42 fixes to its Home app and the devices compatible with it.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg"
+  },
+  {
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T16:03:45Z",
+    "snippet": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800"
+  },
+  {
+    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+    "source": "The Verge AI",
+    "date": "2026-10-30T14:58:06Z",
+    "snippet": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T14:00:00Z",
+    "snippet": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking-1.jpg?resize=1200,800"
+  },
+  {
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T13:54:25Z",
+    "snippet": "DoorDash said that it is open to working with third-party agent makers.",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800"
+  },
+  {
+    "title": "Silicon Valley wants you to invest in miracles",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+    "source": "The Verge AI",
+    "date": "2026-10-30T13:11:05Z",
+    "snippet": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"?",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+    "source": "The Verge AI",
+    "date": "2026-10-30T13:01:14Z",
+    "snippet": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200"
+  },
+  {
+    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+    "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T13:00:00Z",
+    "snippet": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800"
+  },
+  {
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30T13:00:00Z",
+    "snippet": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200"
+  },
+  {
     "title": "Maine’s data center revolt will decide who controls the Senate",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
     "source": "The Verge AI",
@@ -120,22 +328,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Firefox-159-with-passwords-sidebar-and-website-change-monitoring.jpg"
   },
   {
-    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-29T16:21:00Z",
-    "snippet": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675"
-  },
-  {
-    "title": "Microsoft’s AI future has fewer jobs",
-    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-    "source": "The Verge AI",
-    "date": "2026-10-29T16:00:00Z",
-    "snippet": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
     "url": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
     "source": "ZDNet AI",
@@ -152,36 +344,12 @@
     "image": "https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif"
   },
   {
-    "title": "The NYT Cooking app is testing AI recipe modifications",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-    "source": "The Verge AI",
-    "date": "2026-10-29T14:39:37Z",
-    "snippet": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-29T14:35:26Z",
-    "snippet": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620"
-  },
-  {
     "title": "Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
     "url": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/",
     "source": "ZDNet AI",
     "date": "2026-10-29T14:00:31Z",
     "snippet": "Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676090.jpg"
-  },
-  {
-    "title": "Anthropic is asking Wall Street to believe in AGI",
-    "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-    "source": "The Verge AI",
-    "date": "2026-10-29T14:00:00Z",
-    "snippet": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
@@ -192,30 +360,6 @@
     "image": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg"
   },
   {
-    "title": "Anthropic’s business plan: Build God or die trying",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-    "source": "The Verge AI",
-    "date": "2026-10-29T13:30:00Z",
-    "snippet": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_dario-amodei_money.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-29T13:00:00Z",
-    "snippet": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Scott-Kwin-1.jpg?resize=1200,800"
-  },
-  {
-    "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-    "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-29T13:00:00Z",
-    "snippet": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800"
-  },
-  {
     "title": "We urgently need to monitor AI agents’ actions in real time",
     "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
     "source": "MIT Technology Review",
@@ -224,68 +368,12 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600"
   },
   {
-    "title": "AI has come for Arizona’s water",
-    "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-    "source": "The Verge AI",
-    "date": "2026-10-29T10:00:04Z",
-    "snippet": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "I Gave My Blood to the AI Death Clock",
     "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
     "source": "Wired AI",
     "date": "2026-10-29T10:00:00Z",
     "snippet": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
     "image": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg"
-  },
-  {
-    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-    "source": "The Verge AI",
-    "date": "2026-10-28T23:05:39Z",
-    "snippet": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200"
-  },
-  {
-    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28T21:58:32Z",
-    "snippet": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024"
-  },
-  {
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28T21:48:37Z",
-    "snippet": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800"
-  },
-  {
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28T21:34:30Z",
-    "snippet": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800"
-  },
-  {
-    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-    "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-    "source": "The Verge AI",
-    "date": "2026-10-28T21:34:04Z",
-    "snippet": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713"
-  },
-  {
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28T21:25:30Z",
-    "snippet": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800"
   },
   {
     "title": "The 4 biggest Amazon smart home announcements from today",
@@ -304,22 +392,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CovSocial1200_1028-e1793220807248.png?resize=1200,600"
   },
   {
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28T19:19:58Z",
-    "snippet": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080"
-  },
-  {
-    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28T19:05:46Z",
-    "snippet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tomer-wiz.jpeg?resize=1200,800"
-  },
-  {
     "title": "Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage",
     "url": "https://www.zdnet.com/tech/apples-new-touchscreen-macbook-pros-may-be-late-but-they-have-one-big-advantage/",
     "source": "ZDNet AI",
@@ -334,14 +406,6 @@
     "date": "2026-10-28T18:56:53Z",
     "snippet": "Discord announced a new feature that can make your server messages discoverable on Google. Here’s how to opt out.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1244516861.jpg"
-  },
-  {
-    "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-    "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28T18:50:39Z",
-    "snippet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2162704124.jpg?resize=1200,800"
   },
   {
     "title": "Amazon’s new Alexa Photo Frame could have what I’ve been missing – here’s why",
@@ -520,38 +584,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg"
   },
   {
-    "title": "Apple’s M6 iMac has arrived – here’s what’s changed since the M4",
-    "url": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/",
-    "source": "ZDNet AI",
-    "date": "2026-10-27T15:42:32Z",
-    "snippet": "Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/5e73698c-368c-4c5b-96ac-005b32edc3ef.jpg"
-  },
-  {
-    "title": "A fake TikTok shop is Surfshark’s most-blocked phishing scam – how to steer clear",
-    "url": "https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/",
-    "source": "ZDNet AI",
-    "date": "2026-10-27T15:30:38Z",
-    "snippet": "Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/TikTok-Use.jpg"
-  },
-  {
-    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-    "source": "Wired AI",
-    "date": "2026-10-27T15:10:26Z",
-    "snippet": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "image": "https://media.wired.com/photos/6ada70c6eb086323489423af/master/pass/GettyImages-2275955534.jpg"
-  },
-  {
-    "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
-    "url": "https://www.zdnet.com/tech/windows-11-customizable-right-click-menu/",
-    "source": "ZDNet AI",
-    "date": "2026-10-27T12:17:55Z",
-    "snippet": "The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-right-click-menu.jpg"
-  },
-  {
     "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
     "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
     "source": "MIT Technology Review",
@@ -560,28 +592,12 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-1367303200.jpg?resize=1200,600"
   },
   {
-    "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
-    "url": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
-    "source": "ZDNet AI",
-    "date": "2026-10-26T20:52:35Z",
-    "snippet": "iOS 27.2 is the first major update for the current OS. Here’s what’s inside and what happened to iOS 27.1.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00852.jpeg"
-  },
-  {
     "title": "Will the real Anthropic please stand up",
     "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "source": "MIT Technology Review",
     "date": "2026-10-26T17:45:43Z",
     "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-darioB_1.jpg?resize=1200,600"
-  },
-  {
-    "title": "Github competitor Entire is live now – how the agent-first platform works",
-    "url": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
-    "source": "ZDNet AI",
-    "date": "2026-10-26T17:00:04Z",
-    "snippet": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png"
   },
   {
     "title": "The focus on AI safety disasters ignores everyday harms",
@@ -782,21 +798,5 @@
     "date": "2026-10-06T19:21:14Z",
     "snippet": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-500x500.jpg"
-  },
-  {
-    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-    "source": "Ars Technica Tech",
-    "date": "2026-10-06T12:21:53Z",
-    "snippet": "The reports of OpenAI agents harming third-party sites keep coming.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-500x500.jpg"
-  },
-  {
-    "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-    "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-    "source": "Ars Technica Tech",
-    "date": "2026-10-06T12:00:31Z",
-    "snippet": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg"
   }
 ]
