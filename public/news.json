@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "source": "Wired AI",
+    "date": "2026-10-31T10:30:00Z",
+    "snippet": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+    "image": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg"
+  },
+  {
+    "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+    "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "source": "Wired AI",
+    "date": "2026-10-31T10:00:00Z",
+    "snippet": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+    "image": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg"
+  },
+  {
     "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "source": "TechCrunch AI",
@@ -512,14 +528,6 @@
     "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg"
   },
   {
-    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-    "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-    "source": "Wired AI",
-    "date": "2026-10-28T06:00:00Z",
-    "snippet": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-    "image": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif"
-  },
-  {
     "title": "iPhone Duo screen cracks: Serious issue or overblown? What we know",
     "url": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
     "source": "ZDNet AI",
@@ -534,14 +542,6 @@
     "date": "2026-10-27T20:25:55Z",
     "snippet": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware-500x500.jpg"
-  },
-  {
-    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-    "source": "Wired AI",
-    "date": "2026-10-27T19:39:04Z",
-    "snippet": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-    "image": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg"
   },
   {
     "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
