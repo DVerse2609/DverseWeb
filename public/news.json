@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-31T16:12:55Z",
+    "snippet": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+  },
+  {
+    "title": "I built an AI Tamagotchi before Meta could",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "source": "The Verge AI",
+    "date": "2026-10-31T16:05:00Z",
+    "snippet": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200"
+  },
+  {
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "source": "Wired AI",
+    "date": "2026-10-31T12:00:00Z",
+    "snippet": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "image": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg"
+  },
+  {
     "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
     "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
     "source": "Wired AI",
@@ -264,14 +288,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-    "source": "The Verge AI",
-    "date": "2026-10-30T09:00:00Z",
-    "snippet": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
-  },
-  {
     "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
     "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
     "source": "TechCrunch AI",
@@ -326,14 +342,6 @@
     "date": "2026-10-29T18:39:43Z",
     "snippet": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
     "image": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/pass/102726-department-of-defense-ai-agent.gif"
-  },
-  {
-    "title": "Granola crunches up a dictation feature to compete with Wispr",
-    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-29T17:54:38Z",
-    "snippet": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Granola.jpg?resize=1200,675"
   },
   {
     "title": "Your headphones have hidden LE Audio features you’ll want to know about",
@@ -518,14 +526,6 @@
     "date": "2026-10-28T10:15:00Z",
     "snippet": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
     "image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg"
-  },
-  {
-    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-    "source": "Wired AI",
-    "date": "2026-10-28T08:30:00Z",
-    "snippet": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg"
   },
   {
     "title": "iPhone Duo screen cracks: Serious issue or overblown? What we know",
