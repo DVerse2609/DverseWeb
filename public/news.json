@@ -1,5 +1,149 @@
 [
   {
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02T23:13:53Z",
+    "snippet": "The one-year-old startup is now valued at $300 million.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900"
+  },
+  {
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02T22:14:50Z",
+    "snippet": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600"
+  },
+  {
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02T19:25:59Z",
+    "snippet": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675"
+  },
+  {
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02T19:19:17Z",
+    "snippet": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800"
+  },
+  {
+    "title": "Anthropic clamps down on Claude’s AI video game clones",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "source": "The Verge AI",
+    "date": "2026-11-02T18:56:02Z",
+    "snippet": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
+    "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+    "source": "ZDNet AI",
+    "date": "2026-11-02T18:01:55Z",
+    "snippet": "On the heels of Anthropic’s similar move, the change will be tested among select users before being rolled out.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/gpt-4-1-makes-chatgpt-smarter-faster-and-more-useful-for-paying-users-especially-coders_50f228.jpg"
+  },
+  {
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "source": "The Verge AI",
+    "date": "2026-11-02T18:01:30Z",
+    "snippet": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200"
+  },
+  {
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "source": "The Verge AI",
+    "date": "2026-11-02T17:51:19Z",
+    "snippet": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200"
+  },
+  {
+    "title": "Athenahealth patients can ask Claude about their medical records now",
+    "url": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+    "source": "ZDNet AI",
+    "date": "2026-11-02T17:30:47Z",
+    "snippet": "The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg"
+  },
+  {
+    "title": "Don’t want a touchscreen? All premium MacBook Pros could have one soon, reports say",
+    "url": "https://www.zdnet.com/tech/all-premium-macbook-pros-touchscreens-2027/",
+    "source": "ZDNet AI",
+    "date": "2026-11-02T17:23:24Z",
+    "snippet": "New reports indicate the touchscreens are to become the standard on premium MacBook Pros.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028_big.jpg.large_2x-1.jpg"
+  },
+  {
+    "title": "Firefox’s new Mini Window is every multitasker’s dream – Chrome can’t do this",
+    "url": "https://www.zdnet.com/home-and-office/firefox-mini-window-browser-feature/",
+    "source": "ZDNet AI",
+    "date": "2026-11-02T17:15:17Z",
+    "snippet": "The open-source browser’s newest feature lets you pop out a page – or part of a page – into its own mini window. See why this is incredibly cool.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/miniwinhero.jpg"
+  },
+  {
+    "title": "Raising the quality of insights in agentic analytics",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "source": "MIT Technology Review",
+    "date": "2026-11-02T17:00:00Z",
+    "snippet": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-Social-Card-2026.png?resize=1200,600"
+  },
+  {
+    "title": "Samsung’s Privacy Display may be coming to more Galaxy phones – what we know",
+    "url": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
+    "source": "ZDNet AI",
+    "date": "2026-11-02T16:52:54Z",
+    "snippet": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/3941ba91-eae9-4bcd-845b-782384759cd2.jpg"
+  },
+  {
+    "title": "Apple’s HomeView may double as security camera – watch out Ring, Nest, and Wyze",
+    "url": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/",
+    "source": "ZDNet AI",
+    "date": "2026-11-02T16:35:32Z",
+    "snippet": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/FF53FBAF-41CE-4124-AAC5-A2D3B7740A9E_1_105_c.jpeg"
+  },
+  {
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02T16:30:00Z",
+    "snippet": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895"
+  },
+  {
+    "title": "50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well",
+    "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
+    "source": "ZDNet AI",
+    "date": "2026-11-02T16:30:00Z",
+    "snippet": "It turns out even bots can’t escape bureaucracy.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Minecraft-AI-agents-test.jpg"
+  },
+  {
+    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02T16:23:21Z",
+    "snippet": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800"
+  },
+  {
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02T15:00:00Z",
+    "snippet": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800"
+  },
+  {
     "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
     "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
     "source": "TechCrunch AI",
@@ -8,7 +152,7 @@
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
   },
   {
-    "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
     "source": "TechCrunch AI",
     "date": "2026-11-02T13:57:53Z",
@@ -70,6 +214,14 @@
     "date": "2026-11-01T10:30:00Z",
     "snippet": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
     "image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg"
+  },
+  {
+    "title": "Data centers are now a midterm issue, even in Brooklyn",
+    "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-01T02:22:10Z",
+    "snippet": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800"
   },
   {
     "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -176,28 +328,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
   },
   {
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T21:26:59Z",
-    "snippet": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800"
-  },
-  {
     "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
     "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
     "source": "Wired AI",
     "date": "2026-10-30T21:19:26Z",
     "snippet": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
     "image": "https://media.wired.com/photos/6ae29474af20331957eab922/master/pass/business-Uncanny-Valley-anthropic-ipo.jpg"
-  },
-  {
-    "title": "Cracks are emerging in the AI spending boom",
-    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T21:17:40Z",
-    "snippet": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800"
   },
   {
     "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -256,14 +392,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg"
   },
   {
-    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T17:47:12Z",
-    "snippet": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764"
-  },
-  {
     "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
     "source": "The Verge AI",
@@ -288,14 +416,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png"
   },
   {
-    "title": "Google’s first data center satellite is online and writing poetry",
-    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T17:00:00Z",
-    "snippet": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800"
-  },
-  {
     "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
     "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
     "source": "ZDNet AI",
@@ -312,68 +432,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg"
   },
   {
-    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T16:03:45Z",
-    "snippet": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800"
-  },
-  {
     "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
     "source": "The Verge AI",
     "date": "2026-10-30T14:58:06Z",
     "snippet": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T14:00:00Z",
-    "snippet": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking-1.jpg?resize=1200,800"
-  },
-  {
-    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T13:54:25Z",
-    "snippet": "DoorDash said that it is open to working with third-party agent makers.",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800"
-  },
-  {
-    "title": "Silicon Valley wants you to invest in miracles",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-    "source": "The Verge AI",
-    "date": "2026-10-30T13:11:05Z",
-    "snippet": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"?",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-    "source": "The Verge AI",
-    "date": "2026-10-30T13:01:14Z",
-    "snippet": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200"
-  },
-  {
-    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-    "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T13:00:00Z",
-    "snippet": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800"
-  },
-  {
-    "title": "Maine’s data center revolt will decide who controls the Senate",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-    "source": "The Verge AI",
-    "date": "2026-10-30T11:00:00Z",
-    "snippet": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
@@ -528,28 +592,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/budson.jpg"
   },
   {
-    "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
-    "url": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
-    "source": "ZDNet AI",
-    "date": "2026-10-28T14:41:32Z",
-    "snippet": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Dot-Lifestyle-2000x1126-1.png"
-  },
-  {
     "title": "Pairing industrial AI autonomy and human control",
     "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
     "source": "MIT Technology Review",
     "date": "2026-10-28T12:00:00Z",
     "snippet": "Pairing industrial AI autonomy and human control. Latest updates and insights in artificial intelligence from MIT Technology Review.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2264572193.jpg?resize=1200,600"
-  },
-  {
-    "title": "iPhone Duo screen cracks: Serious issue or overblown? What we know",
-    "url": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
-    "source": "ZDNet AI",
-    "date": "2026-10-27T20:33:59Z",
-    "snippet": "Some displays are failing within hours of unboxing. Apple is offering replacements, but is the issue really that widespread?",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00524.jpeg"
   },
   {
     "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
@@ -560,52 +608,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware-500x500.jpg"
   },
   {
-    "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
-    "url": "https://www.zdnet.com/tech/fitbit-glucose-patterns-blood-pressure-health-features/",
-    "source": "ZDNet AI",
-    "date": "2026-10-27T19:03:07Z",
-    "snippet": "Insulin resistance and blood pressure trends are now available on two new Fitbit devices.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/D1DDF75F-DBBB-4A30-A948-033726F898DF_1_201_a.jpeg"
-  },
-  {
     "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
     "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
     "source": "Ars Technica",
     "date": "2026-10-27T18:49:08Z",
     "snippet": "You can apparently now tell AI tools what sort of protein you want them to make.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-500x500.jpg"
-  },
-  {
-    "title": "Netflix now, Hulu later? T-Mobile’s T-Mix plans let you switch perks – what you need to know",
-    "url": "https://www.zdnet.com/home-and-office/t-mobile-t-mix-plans-switch-perks/",
-    "source": "ZDNet AI",
-    "date": "2026-10-27T18:18:01Z",
-    "snippet": "T-Mobile’s new T-Mix plans deliver tons of extras ranging from streaming to mobile discounts, but there are some caveats to know.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/80e6726a-a939-4cf6-9e60-d9d4cb34f74b.jpg"
-  },
-  {
-    "title": "Windows finally gets a built-in internet speed test tool – how to try it",
-    "url": "https://www.zdnet.com/tech/microsoft-is-finally-adding-an-integrated-network-speed-test-tool-to-windows-how-to-try-it/",
-    "source": "ZDNet AI",
-    "date": "2026-10-27T16:59:12Z",
-    "snippet": "Available to Windows Insiders, the built-in tool measures your upload and download speeds over Ethernet or Wi-Fi.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-speed-test.jpg"
-  },
-  {
-    "title": "This tool can recover deleted AI chats from your phone – how it works",
-    "url": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
-    "source": "ZDNet AI",
-    "date": "2026-10-27T16:55:54Z",
-    "snippet": "This new tool proves it’s still best to limit the info you share with chatbots.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/bluecubes3GettyImages-2279412518.jpg"
-  },
-  {
-    "title": "The new iPad Mini’s best upgrade has nothing to do with its flashy OLED screen",
-    "url": "https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids/",
-    "source": "ZDNet AI",
-    "date": "2026-10-27T16:09:01Z",
-    "snippet": "Apple’s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg"
   },
   {
     "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
@@ -646,14 +654,6 @@
     "date": "2026-10-22T20:17:52Z",
     "snippet": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-500x500.jpg"
-  },
-  {
-    "title": "The Foundations of Scalable AI",
-    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-22T18:48:04Z",
-    "snippet": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600"
   },
   {
     "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
