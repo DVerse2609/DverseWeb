@@ -1,5 +1,77 @@
 [
   {
+    "title": "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen",
+    "url": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
+    "source": "ZDNet AI",
+    "date": "2026-11-03T12:00:00Z",
+    "snippet": "If it’s possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/rm12hero.jpg"
+  },
+  {
+    "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+    "source": "Wired AI",
+    "date": "2026-11-03T11:00:00Z",
+    "snippet": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+    "image": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/master/pass/WEB_WIRED_Mamdani_HR-00808.jpg"
+  },
+  {
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "source": "MIT Technology Review",
+    "date": "2026-11-03T10:43:41Z",
+    "snippet": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600"
+  },
+  {
+    "title": "Is Claude Code truly faster with message threads? I did the math on my logs",
+    "url": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
+    "source": "ZDNet AI",
+    "date": "2026-11-03T07:28:00Z",
+    "snippet": "Claude Code’s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much?",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/anthropic_004de4.jpg"
+  },
+  {
+    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03T07:20:00Z",
+    "snippet": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
+  },
+  {
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "source": "MIT Technology Review",
+    "date": "2026-11-03T04:18:47Z",
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/superai-trump.jpg?resize=1200,600"
+  },
+  {
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03T03:30:00Z",
+    "snippet": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800"
+  },
+  {
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03T01:49:52Z",
+    "snippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024"
+  },
+  {
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03T00:35:52Z",
+    "snippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801"
+  },
+  {
     "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
     "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
     "source": "TechCrunch AI",
@@ -288,44 +360,12 @@
     "image": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg"
   },
   {
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-31T01:20:05Z",
-    "snippet": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
-  },
-  {
-    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T22:56:13Z",
-    "snippet": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847"
-  },
-  {
     "title": "Apple Intelligence is finally coming to China with iOS 27.3",
     "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
     "source": "The Verge AI",
     "date": "2026-10-30T22:32:53Z",
     "snippet": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
-  },
-  {
-    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T21:54:34Z",
-    "snippet": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800"
-  },
-  {
-    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30T21:52:03Z",
-    "snippet": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
   },
   {
     "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
@@ -488,14 +528,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676090.jpg"
   },
   {
-    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-    "source": "Wired AI",
-    "date": "2026-10-29T14:00:00Z",
-    "snippet": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-    "image": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg"
-  },
-  {
     "title": "We urgently need to monitor AI agents’ actions in real time",
     "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
     "source": "MIT Technology Review",
@@ -576,22 +608,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg"
   },
   {
-    "title": "Amazon’s new Echo Studio gives Alexa+ an AI camera to see inside your home",
-    "url": "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
-    "source": "ZDNet AI",
-    "date": "2026-10-28T15:26:34Z",
-    "snippet": "The Echo Studio with Home Camera essentially equips Alexa+ with eyes to enable ‘visual intelligence’ features – but there’s a kill switch.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/EchoStudio.png"
-  },
-  {
-    "title": "Samsung’s new clip-style Galaxy Buds On have a major advantage over Sony and Bose",
-    "url": "https://www.zdnet.com/tech/samsung-galaxy-buds-on-availability-price/",
-    "source": "ZDNet AI",
-    "date": "2026-10-28T15:09:12Z",
-    "snippet": "Advanced audio features are great, but ecosystem integration is better. Here’s how Samsung’s newest clip-on Buds compare to its rivals.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/budson.jpg"
-  },
-  {
     "title": "Pairing industrial AI autonomy and human control",
     "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
     "source": "MIT Technology Review",
@@ -630,22 +646,6 @@
     "date": "2026-10-26T17:45:43Z",
     "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-darioB_1.jpg?resize=1200,600"
-  },
-  {
-    "title": "The focus on AI safety disasters ignores everyday harms",
-    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-26T09:01:00Z",
-    "snippet": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600"
-  },
-  {
-    "title": "Designing an AI serving harness built to last",
-    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-22T21:17:29Z",
-    "snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?resize=1200,600"
   },
   {
     "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
