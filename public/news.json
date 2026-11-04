@@ -1,5 +1,21 @@
 [
   {
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+    "source": "The Verge AI",
+    "date": "2026-11-04T00:42:10Z",
+    "snippet": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Please stop asking me when the AI bubble will pop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "source": "The Verge AI",
+    "date": "2026-11-03T23:37:45Z",
+    "snippet": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money,",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200"
+  },
+  {
     "title": "Anthropic is working on a system to prove AI models’ identity",
     "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "source": "TechCrunch AI",
@@ -12,7 +28,7 @@
     "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
     "source": "TechCrunch AI",
     "date": "2026-11-03T22:19:53Z",
-    "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719"
   },
   {
@@ -20,7 +36,7 @@
     "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
     "source": "TechCrunch AI",
     "date": "2026-11-03T21:43:08Z",
-    "snippet": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+    "snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801"
   },
   {
@@ -57,7 +73,7 @@
   },
   {
     "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
-    "url": "https://www.zdnet.com/uncategorized/santas-sleigh-may-be-missing-iphone-duos-in-time-for-christmas-what-apple-revealed-in-its-earnings-call/",
+    "url": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
     "source": "ZDNet AI",
     "date": "2026-11-03T19:28:32Z",
     "snippet": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
@@ -216,22 +232,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672"
   },
   {
-    "title": "Apple is all in on AI — its own and everyone else’s",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-    "source": "The Verge AI",
-    "date": "2026-11-03T15:24:51Z",
-    "snippet": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&strip=all&crop=0%2C14.171056661111%2C100%2C78.524215886627&w=1200"
-  },
-  {
-    "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-    "source": "The Verge AI",
-    "date": "2026-11-03T15:00:44Z",
-    "snippet": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2236733575.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
-  },
-  {
     "title": "Here’s Why You Shouldn’t Use AI to Vote",
     "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
     "source": "Wired AI",
@@ -240,11 +240,11 @@
     "image": "https://media.wired.com/photos/6ae90c8c0f4d264d864a7d42/master/pass/Politics_Here's%20Why%20You%20Shouldn't%20Use%20AI%20to%20Vote_v1.jpg"
   },
   {
-    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
     "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
     "source": "TechCrunch AI",
     "date": "2026-11-03T14:30:00Z",
-    "snippet": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections.",
+    "snippet": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking_2.jpg?resize=1200,800"
   },
   {
