@@ -1,5 +1,21 @@
 [
   {
+    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04T13:00:00Z",
+    "snippet": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800"
+  },
+  {
+    "title": "Securing the agentic enterprise with data lineage",
+    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "source": "MIT Technology Review",
+    "date": "2026-11-04T13:00:00Z",
+    "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CyberhavenV1COV1200SocialCards.png?resize=1200,600"
+  },
+  {
     "title": "The biggest modding site in PC gaming is taking a stance on AI",
     "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
     "source": "The Verge AI",
@@ -424,14 +440,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/FF53FBAF-41CE-4124-AAC5-A2D3B7740A9E_1_105_c.jpeg"
   },
   {
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02T16:30:00Z",
-    "snippet": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895"
-  },
-  {
     "title": "50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well",
     "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
     "source": "ZDNet AI",
@@ -654,14 +662,6 @@
     "date": "2026-10-27T11:19:18Z",
     "snippet": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-1367303200.jpg?resize=1200,600"
-  },
-  {
-    "title": "Will the real Anthropic please stand up",
-    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-26T17:45:43Z",
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-darioB_1.jpg?resize=1200,600"
   },
   {
     "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
