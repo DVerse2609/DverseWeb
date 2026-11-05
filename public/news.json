@@ -1,10 +1,218 @@
 [
   {
-    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T22:40:55Z",
+    "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675"
+  },
+  {
+    "title": "Perplexity launches its own take on AI agents for work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "source": "The Verge AI",
+    "date": "2026-11-05T22:26:50Z",
+    "snippet": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "source": "Wired AI",
+    "date": "2026-11-05T21:37:18Z",
+    "snippet": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+    "image": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg"
+  },
+  {
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T19:48:28Z",
+    "snippet": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+  },
+  {
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T19:12:39Z",
+    "snippet": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899"
+  },
+  {
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T19:06:12Z",
+    "snippet": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798"
+  },
+  {
+    "title": "Muse has a voice mode now",
+    "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "source": "The Verge AI",
+    "date": "2026-11-05T19:03:04Z",
+    "snippet": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "HR thinks you can learn AI skills – so why is your company hiring elsewhere?",
+    "url": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
+    "source": "ZDNet AI",
+    "date": "2026-11-05T18:44:47Z",
+    "snippet": "Over 90% of HR professionals say they believe employees can learn AI roles – but half of companies still hire outside for those positions, according to a new report.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/purplepeople-GettyImages-2227030316-1.jpg"
+  },
+  {
+    "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
+    "url": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
+    "source": "ZDNet AI",
+    "date": "2026-11-05T18:18:16Z",
+    "snippet": "If you’re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/PXL_20261105_154231218.PORTRAIT.ORIGINAL.jpg"
+  },
+  {
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T18:02:27Z",
+    "snippet": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800"
+  },
+  {
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T18:00:00Z",
+    "snippet": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675"
+  },
+  {
+    "title": "Claude AI can plug directly into your bank account",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "source": "The Verge AI",
+    "date": "2026-11-05T18:00:00Z",
+    "snippet": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
+    "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
+    "source": "ZDNet AI",
+    "date": "2026-11-05T18:00:00Z",
+    "snippet": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1451754709.jpg"
+  },
+  {
+    "title": "‘Total repudiation’: The blue wave is about to hit AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "source": "The Verge AI",
+    "date": "2026-11-05T17:51:52Z",
+    "snippet": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
+    "url": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
+    "source": "ZDNet AI",
+    "date": "2026-11-05T17:46:35Z",
+    "snippet": "Bluetooth 7 could make your smart home devices easier to set up, for one. Here’s what we know about the new core specification.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/blu.jpg"
+  },
+  {
+    "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+    "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+    "source": "The Verge AI",
+    "date": "2026-11-05T17:00:00Z",
+    "snippet": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&strip=all&crop=0%2C12.21468233833%2C100%2C41.841457730372&w=1200"
+  },
+  {
+    "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+    "source": "The Verge AI",
+    "date": "2026-11-05T17:00:00Z",
+    "snippet": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+    "source": "Wired AI",
+    "date": "2026-11-05T16:26:57Z",
+    "snippet": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+    "image": "https://media.wired.com/photos/6aeb6340d999be8b2afde39b/master/pass/WWF-Placeholder-Alexis-Ohanian.jpg"
+  },
+  {
+    "title": "Axiom Math wants to keep AI slop out of mathematics",
+    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T16:16:45Z",
+    "snippet": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800"
+  },
+  {
+    "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
+    "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
+    "source": "ZDNet AI",
+    "date": "2026-11-05T16:08:49Z",
+    "snippet": "The wait is over for trying Siri AI on iOS 27. Here’s what you need to know to get started.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg"
+  },
+  {
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T15:19:05Z",
+    "snippet": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024"
+  },
+  {
+    "title": "The hidden supply chain costs of the AI boom",
+    "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+    "source": "The Verge AI",
+    "date": "2026-11-05T15:00:00Z",
+    "snippet": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
+  },
+  {
+    "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+    "source": "The Verge AI",
+    "date": "2026-11-05T15:00:00Z",
+    "snippet": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1083228772.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T14:42:00Z",
+    "snippet": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805"
+  },
+  {
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T14:00:00Z",
+    "snippet": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=1024"
+  },
+  {
+    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "url": "https://www.wired.com/story/aina-smart-ring/",
+    "source": "Wired AI",
+    "date": "2026-11-05T14:00:00Z",
+    "snippet": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+    "image": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg"
+  },
+  {
+    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
     "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
     "source": "TechCrunch AI",
     "date": "2026-11-05T13:00:00Z",
-    "snippet": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "snippet": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800"
   },
   {
@@ -20,8 +228,8 @@
     "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
     "source": "TechCrunch AI",
     "date": "2026-11-05T12:00:00Z",
-    "snippet": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+    "snippet": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Agility_Digit5_01.png?resize=900,1200"
   },
   {
     "title": "AI’s Next Trick? Speaking Dolphin",
@@ -60,7 +268,7 @@
     "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
     "source": "TechCrunch AI",
     "date": "2026-11-05T01:26:22Z",
-    "snippet": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "snippet": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
   },
   {
@@ -128,14 +336,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
   },
   {
-    "title": "17 better ways Elon Musk could have wasted $446 million",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-    "source": "The Verge AI",
-    "date": "2026-11-04T21:45:00Z",
-    "snippet": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
     "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
     "source": "Ars Technica Tech",
@@ -168,14 +368,6 @@
     "image": "https://media.wired.com/photos/6aea6fff1f18bdac7b5ae9c8/master/pass/politics_ai_pac_election.jpg"
   },
   {
-    "title": "Gemini for Home now plugs into AT&T’s smart security system",
-    "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-    "source": "The Verge AI",
-    "date": "2026-11-04T20:23:24Z",
-    "snippet": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&strip=all&crop=0,12.378907107251,100,75.242185785497"
-  },
-  {
     "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
     "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
     "source": "Wired AI",
@@ -200,14 +392,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024"
   },
   {
-    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T19:29:52Z",
-    "snippet": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784"
-  },
-  {
     "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
     "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
     "source": "Wired AI",
@@ -222,22 +406,6 @@
     "date": "2026-11-04T18:50:55Z",
     "snippet": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600"
-  },
-  {
-    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-    "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T18:44:57Z",
-    "snippet": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value?",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/55593309776_55e4a08b03_o.jpg?resize=1200,800"
-  },
-  {
-    "title": "Nothing teases a screen-free AI device ahead of launch next month",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-    "source": "The Verge AI",
-    "date": "2026-11-04T18:26:07Z",
-    "snippet": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
   },
   {
     "title": "Researchers asked people to use AI chatbots for election info – results were mixed",
@@ -256,22 +424,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1148964378.jpg"
   },
   {
-    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-    "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-    "source": "The Verge AI",
-    "date": "2026-11-04T18:00:00Z",
-    "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "ChatGPT will now make you animated GIFs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-    "source": "The Verge AI",
-    "date": "2026-11-04T18:00:00Z",
-    "snippet": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Safari finally gets 3 popular browser features – and I can’t wait to try them",
     "url": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
     "source": "ZDNet AI",
@@ -288,30 +440,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_ef67d6.jpg"
   },
   {
-    "title": "The Results Are In: Voters Hate Data Centers",
-    "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
-    "source": "Wired AI",
-    "date": "2026-11-04T16:56:17Z",
-    "snippet": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
-    "image": "https://media.wired.com/photos/6aea38de5f9acfda4c7c80b9/master/pass/110326-midterms-data-centres-ballot.jpg"
-  },
-  {
-    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-    "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T16:51:35Z",
-    "snippet": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
-  },
-  {
-    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T16:17:22Z",
-    "snippet": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1200"
-  },
-  {
     "title": "Binance says hackers who stole billions in crypto spent months planning heist",
     "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
     "source": "Ars Technica Tech",
@@ -320,92 +448,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-500x500.jpg"
   },
   {
-    "title": "Data centers lost the midterms",
-    "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-    "source": "The Verge AI",
-    "date": "2026-11-04T16:05:39Z",
-    "snippet": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-    "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-    "source": "The Verge AI",
-    "date": "2026-11-04T15:58:45Z",
-    "snippet": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-    "source": "The Verge AI",
-    "date": "2026-11-04T14:46:01Z",
-    "snippet": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
-  },
-  {
-    "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-    "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-    "source": "Wired AI",
-    "date": "2026-11-04T13:49:51Z",
-    "snippet": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-    "image": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/pass/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T13:00:00Z",
-    "snippet": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800"
-  },
-  {
     "title": "Securing the agentic enterprise with data lineage",
     "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
     "source": "MIT Technology Review",
     "date": "2026-11-04T13:00:00Z",
     "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CyberhavenV1COV1200SocialCards.png?resize=1200,600"
-  },
-  {
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T22:41:03Z",
-    "snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798"
-  },
-  {
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T22:19:53Z",
-    "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719"
-  },
-  {
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T21:43:08Z",
-    "snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801"
-  },
-  {
-    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-    "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T21:05:55Z",
-    "snippet": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Palantir-Alex-Karp.png?resize=1200,688"
-  },
-  {
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T19:34:43Z",
-    "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420"
   },
   {
     "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
@@ -488,14 +536,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg"
   },
   {
-    "title": "Here’s Why You Shouldn’t Use AI to Vote",
-    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-    "source": "Wired AI",
-    "date": "2026-11-03T14:45:08Z",
-    "snippet": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-    "image": "https://media.wired.com/photos/6ae90c8c0f4d264d864a7d42/master/pass/Politics_Here's%20Why%20You%20Shouldn't%20Use%20AI%20to%20Vote_v1.jpg"
-  },
-  {
     "title": "This clever banking scam keeps phishing by faking its own demise – how it works",
     "url": "https://www.zdnet.com/tech/bank-phishing-scam-kela/",
     "source": "ZDNet AI",
@@ -552,44 +592,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg"
   },
   {
-    "title": "Don’t want a touchscreen? All premium MacBook Pros could have one soon, reports say",
-    "url": "https://www.zdnet.com/tech/all-premium-macbook-pros-touchscreens-2027/",
-    "source": "ZDNet AI",
-    "date": "2026-11-02T17:23:24Z",
-    "snippet": "New reports indicate the touchscreens are to become the standard on premium MacBook Pros.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028_big.jpg.large_2x-1.jpg"
-  },
-  {
-    "title": "Firefox’s new Mini Window is every multitasker’s dream – Chrome can’t do this",
-    "url": "https://www.zdnet.com/home-and-office/firefox-mini-window-browser-feature/",
-    "source": "ZDNet AI",
-    "date": "2026-11-02T17:15:17Z",
-    "snippet": "The open-source browser’s newest feature lets you pop out a page – or part of a page – into its own mini window. See why this is incredibly cool.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/miniwinhero.jpg"
-  },
-  {
     "title": "Raising the quality of insights in agentic analytics",
     "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
     "source": "MIT Technology Review",
     "date": "2026-11-02T17:00:00Z",
     "snippet": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-Social-Card-2026.png?resize=1200,600"
-  },
-  {
-    "title": "Samsung’s Privacy Display may be coming to more Galaxy phones – what we know",
-    "url": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
-    "source": "ZDNet AI",
-    "date": "2026-11-02T16:52:54Z",
-    "snippet": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/3941ba91-eae9-4bcd-845b-782384759cd2.jpg"
-  },
-  {
-    "title": "Apple’s HomeView may double as security camera – watch out Ring, Nest, and Wyze",
-    "url": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/",
-    "source": "ZDNet AI",
-    "date": "2026-11-02T16:35:32Z",
-    "snippet": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/FF53FBAF-41CE-4124-AAC5-A2D3B7740A9E_1_105_c.jpeg"
   },
   {
     "title": "50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well",
@@ -638,14 +646,6 @@
     "date": "2026-10-30T19:30:52Z",
     "snippet": "But it's still early days for the relatively new e-commerce use case.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-500x500.jpg"
-  },
-  {
-    "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
-    "url": "https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026/",
-    "source": "ZDNet AI",
-    "date": "2026-10-30T18:18:24Z",
-    "snippet": "Only a quarter of Android phones have even made it to Android 16.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg"
   },
   {
     "title": "We urgently need to monitor AI agents’ actions in real time",
