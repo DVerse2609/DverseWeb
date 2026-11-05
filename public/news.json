@@ -1,5 +1,53 @@
 [
   {
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T13:00:00Z",
+    "snippet": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800"
+  },
+  {
+    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "source": "Wired AI",
+    "date": "2026-11-05T13:00:00Z",
+    "snippet": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+    "image": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg"
+  },
+  {
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T12:00:00Z",
+    "snippet": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+  },
+  {
+    "title": "AI’s Next Trick? Speaking Dolphin",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "source": "Wired AI",
+    "date": "2026-11-05T12:00:00Z",
+    "snippet": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+    "image": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg"
+  },
+  {
+    "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+    "source": "Wired AI",
+    "date": "2026-11-05T11:45:00Z",
+    "snippet": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+    "image": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg"
+  },
+  {
+    "title": "Big Tech’s big AI buildout will not end until someone stops it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+    "source": "The Verge AI",
+    "date": "2026-11-05T10:45:00Z",
+    "snippet": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
     "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
     "url": "https://www.zdnet.com/tech/linux-mint-27-release-date/",
     "source": "ZDNet AI",
@@ -320,14 +368,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CyberhavenV1COV1200SocialCards.png?resize=1200,600"
   },
   {
-    "title": "Google hasn’t figured out how to make AI pay like its search engine",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-    "source": "The Verge AI",
-    "date": "2026-11-04T12:00:00Z",
-    "snippet": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&strip=all&crop=0%2C9.3445766662078%2C100%2C81.310846667584&w=1200"
-  },
-  {
     "title": "Anthropic is working on a system to prove AI models’ identity",
     "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "source": "TechCrunch AI",
@@ -384,14 +424,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC03720.jpg"
   },
   {
-    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T18:42:16Z",
-    "snippet": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800"
-  },
-  {
     "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
     "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
     "source": "Ars Technica",
@@ -430,14 +462,6 @@
     "date": "2026-11-03T17:26:01Z",
     "snippet": "New Sonos software and firmware updates are rolling out. Here’s what you can expect.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/play-1.jpg"
-  },
-  {
-    "title": "Anthropic is still grappling with the economics of compute",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T17:07:01Z",
-    "snippet": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800"
   },
   {
     "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says – here’s why",
@@ -486,14 +510,6 @@
     "date": "2026-11-03T12:00:00Z",
     "snippet": "If it’s possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/rm12hero.jpg"
-  },
-  {
-    "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-    "source": "Wired AI",
-    "date": "2026-11-03T11:00:00Z",
-    "snippet": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-    "image": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/master/pass/WEB_WIRED_Mamdani_HR-00808.jpg"
   },
   {
     "title": "How “reverse game theory” could keep AI agents in check",
@@ -590,22 +606,6 @@
     "date": "2026-11-02T13:10:32Z",
     "snippet": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?resize=1200,600"
-  },
-  {
-    "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-    "source": "Wired AI",
-    "date": "2026-11-02T12:00:00Z",
-    "snippet": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-    "image": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg"
-  },
-  {
-    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-    "source": "Wired AI",
-    "date": "2026-11-02T10:00:00Z",
-    "snippet": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-    "image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/pass/Security_ChinaAppsBehindDeepFakes_v1.jpg"
   },
   {
     "title": "The agentic web is here",
