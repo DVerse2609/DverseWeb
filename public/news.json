@@ -1,5 +1,37 @@
 [
   {
+    "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
+    "url": "https://www.zdnet.com/tech/linux-mint-27-release-date/",
+    "source": "ZDNet AI",
+    "date": "2026-11-05T02:35:58Z",
+    "snippet": "It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg"
+  },
+  {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T01:26:22Z",
+    "snippet": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
+  },
+  {
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T01:02:14Z",
+    "snippet": "Data center opposition crossed party lines in Tuesday’s midterms.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677"
+  },
+  {
+    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+    "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+    "source": "Wired AI",
+    "date": "2026-11-04T23:13:14Z",
+    "snippet": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+    "image": "https://media.wired.com/photos/6aeb63c850bcf3a7a3f979b5/master/pass/Business_TechBrosCrying.gif"
+  },
+  {
     "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
     "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
     "source": "Ars Technica",
@@ -424,28 +456,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/bc022556-f79e-46f6-baa2-3cc01a5135dc.jpg"
   },
   {
-    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T16:30:34Z",
-    "snippet": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800"
-  },
-  {
     "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
     "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
     "source": "Ars Technica Tech",
     "date": "2026-11-03T16:03:13Z",
     "snippet": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg"
-  },
-  {
-    "title": "Apple restricts dating apps and AI companions to users 18 and up",
-    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T15:38:27Z",
-    "snippet": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672"
   },
   {
     "title": "Here’s Why You Shouldn’t Use AI to Vote",
@@ -600,14 +616,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600"
   },
   {
-    "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-    "source": "Wired AI",
-    "date": "2026-11-01T10:30:00Z",
-    "snippet": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-    "image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg"
-  },
-  {
     "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
     "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
     "source": "Ars Technica Tech",
@@ -638,14 +646,6 @@
     "date": "2026-10-30T18:18:24Z",
     "snippet": "Only a quarter of Android phones have even made it to Android 16.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg"
-  },
-  {
-    "title": "Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect",
-    "url": "https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches/",
-    "source": "ZDNet AI",
-    "date": "2026-10-30T17:29:50Z",
-    "snippet": "The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg"
   },
   {
     "title": "We urgently need to monitor AI agents’ actions in real time",
