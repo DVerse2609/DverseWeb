@@ -1,5 +1,157 @@
 [
   {
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "source": "Ars Technica Tech",
+    "date": "2026-11-06T20:56:41Z",
+    "snippet": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-500x500.png"
+  },
+  {
+    "title": "All the latest updates on AI data centers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "source": "The Verge AI",
+    "date": "2026-11-06T20:02:22Z",
+    "snippet": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T18:44:38Z",
+    "snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800"
+  },
+  {
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T18:44:20Z",
+    "snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+  },
+  {
+    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "source": "Wired AI",
+    "date": "2026-11-06T18:43:43Z",
+    "snippet": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+    "image": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif"
+  },
+  {
+    "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+    "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+    "source": "The Verge AI",
+    "date": "2026-11-06T18:10:10Z",
+    "snippet": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200"
+  },
+  {
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T18:00:00Z",
+    "snippet": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1368458052.jpg?resize=1200,750"
+  },
+  {
+    "title": "Android is getting my favorite iOS tracking feature – what to expect",
+    "url": "https://www.zdnet.com/tech/android-find-hub-left-behind-upgrade/",
+    "source": "ZDNet AI",
+    "date": "2026-11-06T17:48:15Z",
+    "snippet": "‘Notify when left behind’ is making its way to Android – but to limited devices for now.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/9f63197d-cd41-4007-a0bb-ab0ce06e6a6a.jpg"
+  },
+  {
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T17:23:52Z",
+    "snippet": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800"
+  },
+  {
+    "title": "Thinking Machines’ new model takes the lead in western open-weight AI",
+    "url": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight/",
+    "source": "ZDNet AI",
+    "date": "2026-11-06T17:08:33Z",
+    "snippet": "Another competitive model developed outside of China could change the open-weight landscape.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/redonblueGettyImages-2270299267.jpg"
+  },
+  {
+    "title": "AI is the new dating dealbreaker",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+    "source": "The Verge AI",
+    "date": "2026-11-06T17:00:00Z",
+    "snippet": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Big Tech lost big in the 2026 election",
+    "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+    "source": "The Verge AI",
+    "date": "2026-11-06T16:38:02Z",
+    "snippet": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "How Akai and Moog are embracing vibe-coded mods",
+    "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+    "source": "The Verge AI",
+    "date": "2026-11-06T16:34:39Z",
+    "snippet": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
+    "url": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/",
+    "source": "ZDNet AI",
+    "date": "2026-11-06T16:21:55Z",
+    "snippet": "Under Apple’s new policy, the company will scan publicly shared iCloud links for harmful content – and possibly ban violators.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/74839d13-54c0-4925-a6e5-e35574caccbc.jpg"
+  },
+  {
+    "title": "Could potential AI clones of GTA VI force a quicker official port?",
+    "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "source": "Ars Technica",
+    "date": "2026-11-06T16:19:12Z",
+    "snippet": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-500x500-1793980851.jpg"
+  },
+  {
+    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "source": "Wired AI",
+    "date": "2026-11-06T16:00:00Z",
+    "snippet": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+    "image": "https://media.wired.com/photos/6aece5b7cb93131011507281/master/pass/Backchannel-11062026_Option2.jpg"
+  },
+  {
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T15:54:47Z",
+    "snippet": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779"
+  },
+  {
+    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T14:10:00Z",
+    "snippet": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725"
+  },
+  {
+    "title": "Amazon will let you text Alexa your shopping list",
+    "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+    "source": "The Verge AI",
+    "date": "2026-11-06T14:00:00Z",
+    "snippet": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
     "title": "Underdog shows off a 32MB speech model in new demo",
     "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
     "source": "TechCrunch AI",
@@ -112,20 +264,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798"
   },
   {
-    "title": "Muse has a voice mode now",
-    "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-    "source": "The Verge AI",
-    "date": "2026-11-05T19:03:04Z",
-    "snippet": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
-  },
-  {
-    "title": "HR thinks you can learn AI skills – so why is your company hiring elsewhere?",
+    "title": "92% of HR say staff can train for AI jobs – but half of companies still hire outside",
     "url": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
     "source": "ZDNet AI",
     "date": "2026-11-05T18:44:47Z",
-    "snippet": "Over 90% of HR professionals say they believe employees can learn AI roles – but half of companies still hire outside for those positions, according to a new report.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/purplepeople-GettyImages-2227030316-1.jpg"
+    "snippet": "Most HR professionals say they believe employees can be reskilled for AI jobs, yet companies still often seek outside hires. Here’s why.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1443552841_1ccb6d.jpg"
   },
   {
     "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
@@ -152,14 +296,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675"
   },
   {
-    "title": "Claude AI can plug directly into your bank account",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-    "source": "The Verge AI",
-    "date": "2026-11-05T18:00:00Z",
-    "snippet": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
     "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
     "source": "ZDNet AI",
@@ -168,36 +304,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1451754709.jpg"
   },
   {
-    "title": "‘Total repudiation’: The blue wave is about to hit AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-    "source": "The Verge AI",
-    "date": "2026-11-05T17:51:52Z",
-    "snippet": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
     "url": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
     "source": "ZDNet AI",
     "date": "2026-11-05T17:46:35Z",
-    "snippet": "Bluetooth 7 could make your smart home devices easier to set up, for one. Here’s what we know about the new core specification.",
+    "snippet": "Bluetooth Core 7.0 could make your smart home devices easier to set up, for one. Here’s what we know about the new core specification.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/blu.jpg"
-  },
-  {
-    "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-    "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-    "source": "The Verge AI",
-    "date": "2026-11-05T17:00:00Z",
-    "snippet": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&strip=all&crop=0%2C12.21468233833%2C100%2C41.841457730372&w=1200"
-  },
-  {
-    "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-    "source": "The Verge AI",
-    "date": "2026-11-05T17:00:00Z",
-    "snippet": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
@@ -230,14 +342,6 @@
     "date": "2026-11-05T15:19:05Z",
     "snippet": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
     "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024"
-  },
-  {
-    "title": "The hidden supply chain costs of the AI boom",
-    "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-    "source": "The Verge AI",
-    "date": "2026-11-05T15:00:00Z",
-    "snippet": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
   },
   {
     "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
@@ -280,14 +384,6 @@
     "image": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg"
   },
   {
-    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T12:00:00Z",
-    "snippet": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Agility_Digit5_01.png?resize=900,1200"
-  },
-  {
     "title": "AI’s Next Trick? Speaking Dolphin",
     "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
     "source": "Wired AI",
@@ -312,22 +408,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg"
   },
   {
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T01:26:22Z",
-    "snippet": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
-  },
-  {
-    "title": "After the midterms, a bigger clash over data centers could be coming",
-    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T01:02:14Z",
-    "snippet": "Data center opposition crossed party lines in Tuesday’s midterms.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677"
-  },
-  {
     "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
     "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
     "source": "Wired AI",
@@ -344,36 +424,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-500x500.jpg"
   },
   {
-    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T22:45:09Z",
-    "snippet": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800"
-  },
-  {
     "title": "Hackers exploited iOS and Android flaws to infect phones",
     "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
     "source": "Ars Technica Tech",
     "date": "2026-11-04T22:26:49Z",
     "snippet": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-500x500.jpg"
-  },
-  {
-    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T22:13:16Z",
-    "snippet": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956"
-  },
-  {
-    "title": "Almost no one uses AI agents to book their Uber, company says",
-    "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T21:56:01Z",
-    "snippet": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
   },
   {
     "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
@@ -392,28 +448,12 @@
     "image": "https://media.wired.com/photos/6aea6fff1f18bdac7b5ae9c8/master/pass/politics_ai_pac_election.jpg"
   },
   {
-    "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-    "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-    "source": "Wired AI",
-    "date": "2026-11-04T20:06:21Z",
-    "snippet": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-    "image": "https://media.wired.com/photos/6aeb7c5b7b2c9d5f35a29177/master/pass/110426-google-search-schools.jpg"
-  },
-  {
     "title": "Is Chrome’s settings menu getting a search bar? What we know",
     "url": "https://www.zdnet.com/business/google-tests-new-chrome-search-menu-feature/",
     "source": "ZDNet AI",
     "date": "2026-11-04T19:53:06Z",
     "snippet": "Chrome might receive a much-needed addition.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2252078247.jpg"
-  },
-  {
-    "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-    "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-    "source": "Wired AI",
-    "date": "2026-11-04T19:16:25Z",
-    "snippet": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-    "image": "https://media.wired.com/photos/6aeb930828f7263543de4332/master/pass/WWF-Clement-Delangue-2.jpg"
   },
   {
     "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
@@ -592,36 +632,12 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/superai-trump.jpg?resize=1200,600"
   },
   {
-    "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
-    "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
-    "source": "ZDNet AI",
-    "date": "2026-11-02T18:01:55Z",
-    "snippet": "On the heels of Anthropic’s similar move, the change will be tested among select users before being rolled out.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/gpt-4-1-makes-chatgpt-smarter-faster-and-more-useful-for-paying-users-especially-coders_50f228.jpg"
-  },
-  {
-    "title": "Athenahealth patients can ask Claude about their medical records now",
-    "url": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
-    "source": "ZDNet AI",
-    "date": "2026-11-02T17:30:47Z",
-    "snippet": "The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg"
-  },
-  {
     "title": "Raising the quality of insights in agentic analytics",
     "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
     "source": "MIT Technology Review",
     "date": "2026-11-02T17:00:00Z",
     "snippet": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-Social-Card-2026.png?resize=1200,600"
-  },
-  {
-    "title": "50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well",
-    "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
-    "source": "ZDNet AI",
-    "date": "2026-11-02T16:30:00Z",
-    "snippet": "It turns out even bots can’t escape bureaucracy.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Minecraft-AI-agents-test.jpg"
   },
   {
     "title": "Stop counting tokens, start counting what ships",
@@ -782,21 +798,5 @@
     "date": "2026-10-19T16:59:22Z",
     "snippet": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-500x500.jpg"
-  },
-  {
-    "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "source": "Ars Technica Tech",
-    "date": "2026-10-16T20:59:01Z",
-    "snippet": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-500x500.jpg"
-  },
-  {
-    "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-    "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-    "source": "Ars Technica Tech",
-    "date": "2026-10-15T20:32:41Z",
-    "snippet": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-500x500.jpg"
   }
 ]
