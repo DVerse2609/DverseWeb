@@ -1,11 +1,51 @@
 [
   {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-07T01:40:28Z",
+    "snippet": "The deal highlights the challenges of developing massive AI data centers.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
+  },
+  {
+    "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
+    "url": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
+    "source": "ZDNet AI",
+    "date": "2026-11-07T00:00:45Z",
+    "snippet": "This dangerous Linux security hole must be patched as soon as possible.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-879472452.jpg"
+  },
+  {
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "source": "The Verge AI",
+    "date": "2026-11-06T23:46:18Z",
+    "snippet": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "source": "The Verge AI",
+    "date": "2026-11-06T23:00:44Z",
+    "snippet": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T22:53:46Z",
+    "snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+  },
+  {
     "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
     "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
     "source": "Ars Technica Tech",
     "date": "2026-11-06T20:56:41Z",
     "snippet": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-500x500.png"
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-500x500.jpg"
   },
   {
     "title": "All the latest updates on AI data centers",
@@ -200,14 +240,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "Airbnb is working on an AI travel agent",
-    "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-    "source": "The Verge AI",
-    "date": "2026-11-06T00:06:12Z",
-    "snippet": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200"
-  },
-  {
     "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
     "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
     "source": "Ars Technica Tech",
@@ -222,14 +254,6 @@
     "date": "2026-11-05T22:40:55Z",
     "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675"
-  },
-  {
-    "title": "Perplexity launches its own take on AI agents for work",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-    "source": "The Verge AI",
-    "date": "2026-11-05T22:26:50Z",
-    "snippet": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
@@ -352,28 +376,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805"
   },
   {
-    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T14:00:00Z",
-    "snippet": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1178603809.jpg?w=1024"
-  },
-  {
     "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
     "url": "https://www.wired.com/story/aina-smart-ring/",
     "source": "Wired AI",
     "date": "2026-11-05T14:00:00Z",
     "snippet": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
     "image": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg"
-  },
-  {
-    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T13:00:00Z",
-    "snippet": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800"
   },
   {
     "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
@@ -598,14 +606,6 @@
     "date": "2026-11-03T14:15:36Z",
     "snippet": "You won’t see the ‘suspended’ sign because it’s not meant for you.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2210544722.jpg"
-  },
-  {
-    "title": "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen",
-    "url": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
-    "source": "ZDNet AI",
-    "date": "2026-11-03T12:00:00Z",
-    "snippet": "If it’s possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/rm12hero.jpg"
   },
   {
     "title": "How “reverse game theory” could keep AI agents in check",
