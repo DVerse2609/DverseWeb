@@ -1,5 +1,45 @@
 [
   {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-07T21:17:08Z",
+    "snippet": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+  },
+  {
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "source": "The Verge AI",
+    "date": "2026-11-07T15:50:00Z",
+    "snippet": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "source": "The Verge AI",
+    "date": "2026-11-07T15:43:45Z",
+    "snippet": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "AI broke the cybersecurity world. What’s next?",
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "source": "The Verge AI",
+    "date": "2026-11-07T15:00:00Z",
+    "snippet": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "source": "The Verge AI",
+    "date": "2026-11-07T12:30:00Z",
+    "snippet": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
+  },
+  {
     "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
     "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
     "source": "Wired AI",
@@ -144,14 +184,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "How Akai and Moog are embracing vibe-coded mods",
-    "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-    "source": "The Verge AI",
-    "date": "2026-11-06T16:34:39Z",
-    "snippet": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-  },
-  {
     "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
     "url": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/",
     "source": "ZDNet AI",
@@ -192,14 +224,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725"
   },
   {
-    "title": "Amazon will let you text Alexa your shopping list",
-    "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-    "source": "The Verge AI",
-    "date": "2026-11-06T14:00:00Z",
-    "snippet": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Underdog shows off a 32MB speech model in new demo",
     "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
     "source": "TechCrunch AI",
@@ -216,14 +240,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675"
   },
   {
-    "title": "Protesters break into Microsoft data center site in Amsterdam",
-    "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-    "source": "The Verge AI",
-    "date": "2026-11-06T11:55:19Z",
-    "snippet": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303323844.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
     "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
     "source": "MIT Technology Review",
@@ -238,14 +254,6 @@
     "date": "2026-11-06T06:28:32Z",
     "snippet": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
-  },
-  {
-    "title": "OpenAI is stepping back from NDAs for data center projects",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-    "source": "The Verge AI",
-    "date": "2026-11-06T00:37:56Z",
-    "snippet": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -374,14 +382,6 @@
     "date": "2026-11-05T15:19:05Z",
     "snippet": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
     "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024"
-  },
-  {
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T14:42:00Z",
-    "snippet": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805"
   },
   {
     "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
