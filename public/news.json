@@ -1,5 +1,37 @@
 [
   {
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-08T21:00:11Z",
+    "snippet": "In a memo to the company, Huang admitted that he had an affair.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+  },
+  {
+    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "source": "The Verge AI",
+    "date": "2026-11-08T20:22:39Z",
+    "snippet": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Apple is racing to make Siri more agentic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "source": "The Verge AI",
+    "date": "2026-11-08T19:18:19Z",
+    "snippet": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200"
+  },
+  {
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "source": "The Verge AI",
+    "date": "2026-11-08T17:23:19Z",
+    "snippet": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0%2C3.4730210448443%2C100%2C41.13900448979&w=1200"
+  },
+  {
     "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
     "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
     "source": "Wired AI",
@@ -152,14 +184,6 @@
     "image": "https://media.wired.com/photos/6aebae965d3f8b6dd99468be/master/pass/Security_Open-WeightAIModels.gif"
   },
   {
-    "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-    "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "source": "The Verge AI",
-    "date": "2026-11-06T18:10:10Z",
-    "snippet": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200"
-  },
-  {
     "title": "How a Blue Wave midterm might reshape the AI industry",
     "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
     "source": "TechCrunch AI",
@@ -190,22 +214,6 @@
     "date": "2026-11-06T17:08:33Z",
     "snippet": "Another competitive model developed outside of China could change the open-weight landscape.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/redonblueGettyImages-2270299267.jpg"
-  },
-  {
-    "title": "AI is the new dating dealbreaker",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-    "source": "The Verge AI",
-    "date": "2026-11-06T17:00:00Z",
-    "snippet": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Big Tech lost big in the 2026 election",
-    "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-    "source": "The Verge AI",
-    "date": "2026-11-06T16:38:02Z",
-    "snippet": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
@@ -382,14 +390,6 @@
     "date": "2026-11-05T16:26:57Z",
     "snippet": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
     "image": "https://media.wired.com/photos/6aed1ceece26120992b0cc1a/master/pass/WWF-Alexis-Ohanian-10457.jpg"
-  },
-  {
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T16:16:45Z",
-    "snippet": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800"
   },
   {
     "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
