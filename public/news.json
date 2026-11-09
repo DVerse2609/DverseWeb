@@ -1,5 +1,61 @@
 [
   {
+    "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+    "source": "Wired AI",
+    "date": "2026-11-09T14:30:56Z",
+    "snippet": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+    "image": "https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/master/pass/Jensen%20Huang.jpg"
+  },
+  {
+    "title": "Jonathan Kanter is using AI to take on Big Tech",
+    "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+    "source": "The Verge AI",
+    "date": "2026-11-09T14:30:00Z",
+    "snippet": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T14:00:00Z",
+    "snippet": "Automattic aims to compete with likes of Lovable with Spacefast",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Spacefast-feat.jpg?resize=1200,675"
+  },
+  {
+    "title": "Innovating with AI in the special chemicals industry",
+    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "source": "MIT Technology Review",
+    "date": "2026-11-09T13:00:00Z",
+    "snippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTRInfoysLubrizol-open-card-v3.png?resize=1200,600"
+  },
+  {
+    "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+    "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+    "source": "Wired AI",
+    "date": "2026-11-09T11:00:00Z",
+    "snippet": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+    "image": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg"
+  },
+  {
+    "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+    "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+    "source": "Wired AI",
+    "date": "2026-11-09T08:00:00Z",
+    "snippet": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+    "image": "https://media.wired.com/photos/6aecab4af3a6c68d60864f57/master/pass/Bugs%20and%20bikes%20revise.jpg"
+  },
+  {
+    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T05:26:29Z",
+    "snippet": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+  },
+  {
     "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
     "source": "The Verge AI",
@@ -16,7 +72,7 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
   },
   {
-    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
     "source": "The Verge AI",
     "date": "2026-11-08T20:22:39Z",
@@ -134,14 +190,6 @@
     "date": "2026-11-06T23:46:18Z",
     "snippet": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-    "source": "The Verge AI",
-    "date": "2026-11-06T23:00:44Z",
-    "snippet": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -352,22 +400,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/PXL_20261105_154231218.PORTRAIT.ORIGINAL.jpg"
   },
   {
-    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T18:02:27Z",
-    "snippet": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800"
-  },
-  {
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T18:00:00Z",
-    "snippet": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675"
-  },
-  {
     "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
     "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
     "source": "ZDNet AI",
@@ -398,30 +430,6 @@
     "date": "2026-11-05T16:08:49Z",
     "snippet": "The wait is over for trying Siri AI on iOS 27. Here’s what you need to know to get started.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg"
-  },
-  {
-    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-    "url": "https://www.wired.com/story/aina-smart-ring/",
-    "source": "Wired AI",
-    "date": "2026-11-05T14:00:00Z",
-    "snippet": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-    "image": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg"
-  },
-  {
-    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-    "source": "Wired AI",
-    "date": "2026-11-05T13:00:00Z",
-    "snippet": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-    "image": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg"
-  },
-  {
-    "title": "AI’s Next Trick? Speaking Dolphin",
-    "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-    "source": "Wired AI",
-    "date": "2026-11-05T12:00:00Z",
-    "snippet": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-    "image": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg"
   },
   {
     "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
@@ -686,14 +694,6 @@
     "date": "2026-10-29T10:11:12Z",
     "snippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600"
-  },
-  {
-    "title": "Creating AI value with enterprise context",
-    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "source": "MIT Technology Review",
-    "date": "2026-10-28T20:32:02Z",
-    "snippet": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CovSocial1200_1028-e1793220807248.png?resize=1200,600"
   },
   {
     "title": "Google AI gets cagey when asked who won the 2020 elections",
