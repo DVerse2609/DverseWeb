@@ -1,5 +1,13 @@
 [
   {
+    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "source": "The Verge AI",
+    "date": "2026-11-08T22:54:50Z",
+    "snippet": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
     "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
     "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
     "source": "TechCrunch AI",
@@ -150,14 +158,6 @@
     "date": "2026-11-06T20:56:41Z",
     "snippet": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-500x500.jpg"
-  },
-  {
-    "title": "All the latest updates on AI data centers",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "source": "The Verge AI",
-    "date": "2026-11-06T20:02:22Z",
-    "snippet": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
