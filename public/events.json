@@ -1505,7 +1505,7 @@
     "daysLeft": -84,
     "formattedDate": "Aug 18 – 20, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Web3%20Summit%20Berlin%202026&dates=20260818/20260820&details=Organized%20by%20the%20Web3%20Foundation.%20A%20technical%2C%20non-commercial%20gathering%20of%20cypherpunks%2C%20protocol%20architects%2C%20and%20privacy%20researchers%20advocating%20for%20user%20sovereignty.%0A%0AOfficial%20Website%3A%20https%3A//web3summit.com%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Funkhaus%20Berlin%2C%20Berlin%2C%20Germany&sf=true&output=xml",
-    "image": "https://web3summit.com/meta/web3_summit_2026.jpg"
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop"
   },
   {
     "id": "virtuals-protocol-summit-2026",
@@ -1557,7 +1557,7 @@
     "daysLeft": -70,
     "formattedDate": "Sep 02 – 03, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Decentralized%20Intelligence%20Forum%20Zurich&dates=20260902/20260903&details=Academic%20cryptography%20and%20AI%20researchers%20convene%20in%20Switzerland%27s%20Crypto%20Valley%20to%20discuss%20homomorphic%20encryption%2C%20privacy-preserving%20training%2C%20and%20decentralized%20governance.%0A%0AOfficial%20Website%3A%20https%3A//cryptovalley.swiss%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Kongresshaus%20Zurich%2C%20Zurich%2C%20Switzerland&sf=true&output=xml",
-    "image": "https://cryptovalley.swiss/wp-content/uploads/logo.svg"
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop"
   },
   {
     "id": "solana-hacker-house-tokyo-2026",
@@ -2259,7 +2259,7 @@
     "daysLeft": -7,
     "formattedDate": "Nov 02 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CoRL%202026%20%28Conference%20on%20Robot%20Learning%29&dates=20261102/20261105&details=Focused%20exclusively%20on%20the%20intersection%20of%20robotics%20and%20machine%20learning%2C%20highlighting%20policy%20learning%2C%20world%20models%2C%20and%20foundation%20models%20for%20embodied%20agents.%0A%0AOfficial%20Website%3A%20https%3A//corl.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=COEX%20Convention%20%26%20Exhibition%20Center%2C%20Seoul%2C%20South%20Korea&sf=true&output=xml",
-    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcJVOST7LgoKEiANMiXMOVz_yuUduCxUOHBAylcpNFTF6bphLtMBeVqrUSl-OU1WteQ95GONMpfvrVS5_p2xkDsM2sDg-xIT1JRYtKY_z0cuPjNn9Z31fBM7UmxgJrvyu4qv-76XKoDXbqKchZuj64tp--S97Yztx-v6oF-GJyIV_wAlT8gIvQJB3yTK80=w1280"
+    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQddRdAXj5VCkuaSbQdq9hmkPXy66fZ3ht_9WkfaZ9i7NQu6YKFpuhw1z6XZ-MfT2c2leceDPUvP52a0TBrayCXEGevXbGEbei54INGFn1Wd4TnnItYO6ZEglbOvuCs1bKgXHOtPW76PcN8foH5rNcS857VZ4C00jk-YBR-jiytwc7MCq6OOW5d-orbPNSE=w1280"
   },
   {
     "id": "devcon-2026",
