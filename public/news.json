@@ -1,5 +1,45 @@
 [
   {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-14T21:41:22Z",
+    "snippet": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024"
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-14T17:30:00Z",
+    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+  },
+  {
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-14T16:34:15Z",
+    "snippet": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
+  },
+  {
+    "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "source": "The Verge AI",
+    "date": "2026-11-14T15:00:00Z",
+    "snippet": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200"
+  },
+  {
+    "title": "Beware the New AI-Fueled Ransomware Boom",
+    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "source": "Wired AI",
+    "date": "2026-11-14T13:00:00Z",
+    "snippet": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+    "image": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png"
+  },
+  {
     "title": "Jensen Huang and the decline of the visionary showman founder CEO",
     "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
     "source": "The Verge AI",
@@ -288,14 +328,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
   },
   {
-    "title": "Attention, Android power users: This app unlocks 30+ features you won’t find in Settings",
-    "url": "https://www.zdnet.com/tech/essentials-android-app-power-user-settings/",
-    "source": "ZDNet AI",
-    "date": "2026-11-12T18:15:00Z",
-    "snippet": "Is Android Settings not delivering enough power? The Essentials app features 30+ mods and tweaks – but you won’t find it in the Play Store",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/essentialshero.jpg"
-  },
-  {
     "title": "Oh, Palantir is ‘progressive’ now, is it?",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
     "source": "The Verge AI",
@@ -312,15 +344,7 @@
     "image": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/master/pass/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg"
   },
   {
-    "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-    "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
-    "source": "Wired AI",
-    "date": "2026-11-12T17:59:15Z",
-    "snippet": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
-    "image": "https://media.wired.com/photos/6af5f0e82e74be76ab295bc3/master/pass/111226-nvidia-jensen-huang-dollar-destroyed.jpg"
-  },
-  {
-    "title": "You can force Gemini to forget about you now – how to edit its Memory",
+    "title": "I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours",
     "url": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
     "source": "ZDNet AI",
     "date": "2026-11-12T17:58:52Z",
@@ -334,14 +358,6 @@
     "date": "2026-11-12T17:50:24Z",
     "snippet": "Google is moving digital keys out of individual smart lock apps and into the Google Wallet.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ba7f9237-41e5-4240-a693-edb9be296376.jpg"
-  },
-  {
-    "title": "The Jensen Huang scandal is hardly over",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-    "source": "The Verge AI",
-    "date": "2026-11-12T17:44:33Z",
-    "snippet": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be?",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200"
   },
   {
     "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
@@ -368,36 +384,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/fe1b30ad-195d-42f2-8903-ef1bbf5ec547-1-201-a_33806e.jpg"
   },
   {
-    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T17:00:52Z",
-    "snippet": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799"
-  },
-  {
-    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-    "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T17:00:00Z",
-    "snippet": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867"
-  },
-  {
     "title": "Fitbit users can’t see Google Health metrics after update – how to fix it",
     "url": "https://www.zdnet.com/tech/fitbit-health-metrics-missing-software-update-how-to-fix/",
     "source": "ZDNet AI",
     "date": "2026-11-12T16:41:38Z",
     "snippet": "Google says it’s working on a fix – meantime, users have found workarounds.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/fc1fdc1f-530e-47f1-8c1e-d0bc66191958-1-201-a.jpg"
-  },
-  {
-    "title": "Jensen Huang agrees to testify before Congress",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T16:36:37Z",
-    "snippet": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
   },
   {
     "title": "If the November Windows update fails to install on your PC, here’s what to do",
@@ -542,6 +534,14 @@
     "date": "2026-11-10T13:30:00Z",
     "snippet": "Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/CNET-Group-Amazon-Ring-Event-13.jpg"
+  },
+  {
+    "title": "How AI security failures are endangering your supply chain – and what you can do",
+    "url": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
+    "source": "ZDNet AI",
+    "date": "2026-11-10T13:03:52Z",
+    "snippet": "New research provides a stark look at the AI supply chain and the risks it brings to businesses.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/bluethreats-GettyImages-2285924402.jpg"
   },
   {
     "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
