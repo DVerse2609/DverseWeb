@@ -1,5 +1,21 @@
 [
   {
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "source": "The Verge AI",
+    "date": "2026-11-14T12:00:00Z",
+    "snippet": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0%2C13.348952787954%2C100%2C73.302094424093&w=1200"
+  },
+  {
+    "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "source": "Wired AI",
+    "date": "2026-11-14T11:00:00Z",
+    "snippet": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+    "image": "https://media.wired.com/photos/6af209f8ab17b1a731ed42b4/master/pass/ai_aviation.gif"
+  },
+  {
     "title": "‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story",
     "url": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
     "source": "ZDNet AI",
@@ -368,14 +384,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867"
   },
   {
-    "title": "AI chatbots are recommending fake retail websites, study finds",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-    "source": "The Verge AI",
-    "date": "2026-11-12T17:00:00Z",
-    "snippet": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Fitbit users can’t see Google Health metrics after update – how to fix it",
     "url": "https://www.zdnet.com/tech/fitbit-health-metrics-missing-software-update-how-to-fix/",
     "source": "ZDNet AI",
@@ -398,14 +406,6 @@
     "date": "2026-11-12T15:11:08Z",
     "snippet": "This month’s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-update-failure.jpg"
-  },
-  {
-    "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-    "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
-    "source": "Wired AI",
-    "date": "2026-11-12T14:14:33Z",
-    "snippet": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
-    "image": "https://media.wired.com/photos/6af5c3ffec0d511a4648accf/master/pass/111226-Colette%20Nvidia.jpg"
   },
   {
     "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
