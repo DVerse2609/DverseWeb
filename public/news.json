@@ -1,5 +1,37 @@
 [
   {
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15T21:56:35Z",
+    "snippet": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+  },
+  {
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "source": "The Verge AI",
+    "date": "2026-11-15T20:43:49Z",
+    "snippet": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200"
+  },
+  {
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15T20:20:57Z",
+    "snippet": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525"
+  },
+  {
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "source": "The Verge AI",
+    "date": "2026-11-15T19:15:43Z",
+    "snippet": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
     "title": "An overview of Jensen Huang’s messy days",
     "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
     "source": "The Verge AI",
@@ -272,14 +304,6 @@
     "image": "https://media.wired.com/photos/6af5ee2157e0a3ee177875cd/master/pass/Uncanny-Valley-Jensen-Emergency-Pod.jpg"
   },
   {
-    "title": "Google’s new Gemini model is better at understanding complicated questions",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-    "source": "The Verge AI",
-    "date": "2026-11-12T21:55:32Z",
-    "snippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
-  },
-  {
     "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
     "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
     "source": "TechCrunch AI",
@@ -312,14 +336,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600"
   },
   {
-    "title": "No, AI agents did not discover a previously unknown Maya site",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-    "source": "The Verge AI",
-    "date": "2026-11-12T19:42:40Z",
-    "snippet": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=2.4327168367347%2C0%2C95.134566326531%2C100&w=1200"
-  },
-  {
     "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
     "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
     "source": "TechCrunch AI",
@@ -344,14 +360,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg"
   },
   {
-    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T18:39:23Z",
-    "snippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
-  },
-  {
     "title": "I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours",
     "url": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
     "source": "ZDNet AI",
@@ -366,14 +374,6 @@
     "date": "2026-11-12T17:50:24Z",
     "snippet": "Google is moving digital keys out of individual smart lock apps and into the Google Wallet.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ba7f9237-41e5-4240-a693-edb9be296376.jpg"
-  },
-  {
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T17:36:40Z",
-    "snippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675"
   },
   {
     "title": "Google’s Pixel Tag tracker won’t work as well on older Android phones – check our list",
