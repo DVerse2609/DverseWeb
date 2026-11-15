@@ -1,5 +1,29 @@
 [
   {
+    "title": "An overview of Jensen Huang’s messy days",
+    "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+    "source": "The Verge AI",
+    "date": "2026-11-15T13:00:00Z",
+    "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&strip=all&crop=0%2C14.751764993408%2C100%2C70.496470013184&w=1200"
+  },
+  {
+    "title": "AI DJs Completely Kill My Groove",
+    "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+    "source": "Wired AI",
+    "date": "2026-11-15T12:00:00Z",
+    "snippet": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+    "image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg"
+  },
+  {
+    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "source": "Wired AI",
+    "date": "2026-11-15T11:00:00Z",
+    "snippet": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+    "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png"
+  },
+  {
     "title": "Where was Nvidia’s security team?",
     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "source": "TechCrunch AI",
@@ -312,14 +336,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Nectar_OliverL_3199.jpg?resize=1200,800"
   },
   {
-    "title": "Jensen Huang’s $470 Billion Affair",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-    "source": "Wired AI",
-    "date": "2026-11-12T18:59:58Z",
-    "snippet": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-    "image": "https://media.wired.com/photos/6af4e95d91c3d23473376fc7/master/pass/Uncanny-Valley-Jensen-Spy-Business.jpg"
-  },
-  {
     "title": "Roku drops smart home products to focus on streaming – what that means for your devices",
     "url": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
     "source": "ZDNet AI",
@@ -334,22 +350,6 @@
     "date": "2026-11-12T18:39:23Z",
     "snippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
-  },
-  {
-    "title": "Oh, Palantir is ‘progressive’ now, is it?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-    "source": "The Verge AI",
-    "date": "2026-11-12T18:06:54Z",
-    "snippet": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\"",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-    "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-    "source": "Wired AI",
-    "date": "2026-11-12T18:05:41Z",
-    "snippet": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-    "image": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/master/pass/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg"
   },
   {
     "title": "I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours",
