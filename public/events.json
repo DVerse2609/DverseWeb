@@ -2259,7 +2259,7 @@
     "daysLeft": -11,
     "formattedDate": "Nov 02 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CoRL%202026%20%28Conference%20on%20Robot%20Learning%29&dates=20261102/20261105&details=Focused%20exclusively%20on%20the%20intersection%20of%20robotics%20and%20machine%20learning%2C%20highlighting%20policy%20learning%2C%20world%20models%2C%20and%20foundation%20models%20for%20embodied%20agents.%0A%0AOfficial%20Website%3A%20https%3A//corl.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=COEX%20Convention%20%26%20Exhibition%20Center%2C%20Seoul%2C%20South%20Korea&sf=true&output=xml",
-    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdVjnjwGyinmhad0bv89IODg_EFh9zdip839WcgiT--1-F3Afh4tHLnQmoK6eC8P83BhUGhR1bt5ahIVlkYIRse2PJDHVfR-9JNIqsZVJMHz9gsY6Rsx76Wpfm_x7oLSLM5M8zeeu0PbM-a97QgML3op0hAUfSAn00fIMbTw0ImHZMtbJ8KuNH-PSSWkPQ=w1280"
+    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdUr4J0N-3_6hOtxbXcbwZOf-3w0ORAHmxDXUH2McLxZABIBH-SWoRUj6OD48IzkzOF6q-V5L09iOQ94VwMXrCOvNMlZ-8duCFqRQs4CFDCBs87pS1pgTWV2CiAM2FEunsk1ubW4NyrnzWMuq8O1V8oFi3zzLPVf-xlBhlGW-fTWBS8k0pOPAAD6P-1VMo=w1280"
   },
   {
     "id": "devcon-2026",
@@ -2415,7 +2415,7 @@
     "daysLeft": 0,
     "formattedDate": "Nov 15 – 20, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SC26%20%28Supercomputing%20Conference%29&dates=20261115/20261120&details=The%20international%20conference%20for%20high%20performance%20computing%2C%20networking%2C%20storage%2C%20and%20analysis.%20Showcasing%20exascale%20computing%20and%20massive%20AI%20training%20superclusters.%0A%0AOfficial%20Website%3A%20https%3A//sc26.supercomputing.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Georgia%20World%20Congress%20Center%2C%20Atlanta%2C%20GA%2C%20USA&sf=true&output=xml",
-    "image": "https://sc26.supercomputing.org/wp-content/uploads/2025/11/sc26_1200x750.png"
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop"
   },
   {
     "id": "ai-agent-swarms-miami-2026",
