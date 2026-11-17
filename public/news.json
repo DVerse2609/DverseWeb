@@ -1,5 +1,77 @@
 [
   {
+    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T14:50:58Z",
+    "snippet": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800"
+  },
+  {
+    "title": "Research Reports",
+    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "source": "MIT Technology Review",
+    "date": "2026-11-17T14:39:46Z",
+    "snippet": "To access a report, click on the corresponding image below.",
+    "image": null
+  },
+  {
+    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T14:26:46Z",
+    "snippet": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
+  },
+  {
+    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T14:05:30Z",
+    "snippet": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2087335475.jpg?resize=1200,799"
+  },
+  {
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "source": "Ars Technica Tech",
+    "date": "2026-11-17T14:00:29Z",
+    "snippet": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-500x500.jpg"
+  },
+  {
+    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+    "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T14:00:00Z",
+    "snippet": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
+  },
+  {
+    "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+    "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+    "source": "Wired AI",
+    "date": "2026-11-17T11:00:00Z",
+    "snippet": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+    "image": "https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg"
+  },
+  {
+    "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "source": "Wired AI",
+    "date": "2026-11-17T11:00:00Z",
+    "snippet": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+    "image": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg"
+  },
+  {
+    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "source": "Wired AI",
+    "date": "2026-11-17T10:47:45Z",
+    "snippet": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+    "image": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/master/pass/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png"
+  },
+  {
     "title": "6 Chrome settings tweaks every power user needs to know",
     "url": "https://www.zdnet.com/home-and-office/chrome-default-settings-to-change/",
     "source": "ZDNet AI",
@@ -128,7 +200,7 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "iPhone Duo 2 prototypes suggest FaceID, Action Button, other potential 2027 features",
+    "title": "iPhone Duo 2 prototypes suggest Face ID, Action Button, other potential 2027 features",
     "url": "https://www.zdnet.com/tech/apple-iphone-duo-2-face-id-upgrades-2027/",
     "source": "ZDNet AI",
     "date": "2026-11-16T18:43:17Z",
@@ -328,14 +400,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
   },
   {
-    "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
-    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-15T20:20:57Z",
-    "snippet": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525"
-  },
-  {
     "title": "AI DJs Completely Kill My Groove",
     "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
     "source": "Wired AI",
@@ -350,30 +414,6 @@
     "date": "2026-11-15T11:00:00Z",
     "snippet": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
     "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png"
-  },
-  {
-    "title": "Where was Nvidia’s security team?",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-15T00:08:07Z",
-    "snippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024"
-  },
-  {
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-14T21:41:22Z",
-    "snippet": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-14T17:30:00Z",
-    "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
   },
   {
     "title": "Beware the New AI-Fueled Ransomware Boom",
@@ -422,30 +462,6 @@
     "date": "2026-11-13T16:26:32Z",
     "snippet": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-500x500-1783631088.jpg"
-  },
-  {
-    "title": "Jensen Huang and the End of the Founder Fairy Tale",
-    "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-    "source": "Wired AI",
-    "date": "2026-11-13T16:00:00Z",
-    "snippet": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-    "image": "https://media.wired.com/photos/6af64d55d057d0b5e841f091/master/pass/Backchannel-Jensen-Business.jpg"
-  },
-  {
-    "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-    "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-    "source": "Wired AI",
-    "date": "2026-11-13T11:45:00Z",
-    "snippet": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-    "image": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/master/pass/Startup-Betting-on-AI-Microdramas-Culture.jpg"
-  },
-  {
-    "title": "Silicon Valley Is Still Defending Jensen Huang",
-    "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
-    "source": "Wired AI",
-    "date": "2026-11-12T22:29:43Z",
-    "snippet": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
-    "image": "https://media.wired.com/photos/6af5104da36e580e1eb299b6/master/pass/Model-Behavior-Silicon-Valley-Waiting-for-Jensen-Scandal-to-Blow-Over-Business.jpg"
   },
   {
     "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -688,14 +704,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-500x500.jpg"
   },
   {
-    "title": "Securing the agentic enterprise with data lineage",
-    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-    "source": "MIT Technology Review",
-    "date": "2026-11-04T13:00:00Z",
-    "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CyberhavenV1COV1200SocialCards-e1794565598675.png?resize=1200,600"
-  },
-  {
     "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
     "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
     "source": "Ars Technica",
@@ -790,13 +798,5 @@
     "date": "2026-10-21T19:44:40Z",
     "snippet": "Opinion: In a world of AI slop, showing the human hands making things helps.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-500x500.jpg"
-  },
-  {
-    "title": "PHP warns it plans to release 2 emergency patches imminently",
-    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-    "source": "Ars Technica Tech",
-    "date": "2026-10-21T02:12:18Z",
-    "snippet": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg"
   }
 ]
