@@ -1,10 +1,290 @@
 [
   {
+    "title": "Nvidia promises that revenue will keep soaring — for now",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T00:16:50Z",
+    "snippet": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776"
+  },
+  {
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "source": "The Verge AI",
+    "date": "2026-11-17T23:41:18Z",
+    "snippet": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0%2C5.5575251492495%2C100%2C88.884949701501&w=1200"
+  },
+  {
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T23:37:48Z",
+    "snippet": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
+  },
+  {
+    "title": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
+    "url": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T23:14:05Z",
+    "snippet": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png"
+  },
+  {
+    "title": "Microsoft wants to put a dollar value on AI’s work – but can you trust the math?",
+    "url": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T23:05:48Z",
+    "snippet": "With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there’s a critical difference between estimated value and money saved.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Satya.png"
+  },
+  {
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T23:04:35Z",
+    "snippet": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024"
+  },
+  {
+    "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
+    "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T22:42:44Z",
+    "snippet": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg"
+  },
+  {
+    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T22:42:27Z",
+    "snippet": "The former CEO offered to return to his top role at the company after his resignation last week.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+  },
+  {
+    "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+    "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+    "source": "Ars Technica Tech",
+    "date": "2026-11-17T22:32:16Z",
+    "snippet": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-500x500.jpg"
+  },
+  {
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T22:29:05Z",
+    "snippet": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721"
+  },
+  {
+    "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+    "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+    "source": "Wired AI",
+    "date": "2026-11-17T22:19:19Z",
+    "snippet": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+    "image": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg"
+  },
+  {
+    "title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T21:48:07Z",
+    "snippet": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800"
+  },
+  {
+    "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+    "source": "The Verge AI",
+    "date": "2026-11-17T21:40:59Z",
+    "snippet": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Google joins the tech outage trend by announcing it’s not having one",
+    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T21:34:50Z",
+    "snippet": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675"
+  },
+  {
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "source": "The Verge AI",
+    "date": "2026-11-17T21:00:55Z",
+    "snippet": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&strip=all&crop=0%2C10.755339554057%2C100%2C78.489320891885&w=1200"
+  },
+  {
+    "title": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
+    "url": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T19:54:04Z",
+    "snippet": "Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2295330247.jpg"
+  },
+  {
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T19:32:11Z",
+    "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633"
+  },
+  {
+    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+    "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T19:02:20Z",
+    "snippet": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+  },
+  {
+    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+    "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+    "source": "The Verge AI",
+    "date": "2026-11-17T18:58:01Z",
+    "snippet": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+    "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T18:48:23Z",
+    "snippet": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800"
+  },
+  {
+    "title": "Your Googlebook just got a Chrome update – 5 new features",
+    "url": "https://www.zdnet.com/tech/googlebook-os-chrome-update-new-features/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T18:21:55Z",
+    "snippet": "The Chrome update includes more useful vertical tabs, easier screen sharing, and some handy keyboard shortcuts.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC01222.jpeg"
+  },
+  {
+    "title": "As decision model use skyrockets, is customization the next frontier?",
+    "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T18:10:00Z",
+    "snippet": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/attachment-1.jpeg?resize=1200,730"
+  },
+  {
+    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+    "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T18:04:16Z",
+    "snippet": "The company uses agentic AI to make supply chains faster and more reliable.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pedestal-Cofounders-Photo-November-2026.jpg?resize=1200,800"
+  },
+  {
+    "title": "Google is making it easier to opt out of Gemini AI model training – here’s how",
+    "url": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T18:01:38Z",
+    "snippet": "You’ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google’s AI.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-Keep-Activity-setting.jpg"
+  },
+  {
+    "title": "I asked Gemini Notebook to ‘make me a site’ from my notes – it was satisfying",
+    "url": "https://www.zdnet.com/innovation/google-gemini-notebook-interactive-sites-notes/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T17:52:39Z",
+    "snippet": "A new Gemini Notebook feature lets you create interactive sites from intricate data.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1111_97018e.jpg"
+  },
+  {
+    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+    "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T17:32:25Z",
+    "snippet": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600"
+  },
+  {
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T17:20:41Z",
+    "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1670871943.jpg?resize=1200,675"
+  },
+  {
+    "title": "Apple reveals daily limits on your Siri AI use – here’s how much you’ll have to pay",
+    "url": "https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T17:16:38Z",
+    "snippet": "The more you pay for an iCloud+ plan, the more you’ll be able to use Siri AI and Apple Intelligence for advanced server-side tasks.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/siri-ai-setting-on-iphone_399659.jpg"
+  },
+  {
+    "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+    "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T16:44:15Z",
+    "snippet": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
+  },
+  {
+    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+    "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T16:32:55Z",
+    "snippet": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
+  },
+  {
+    "title": "Own 2 Android phones? Google may let you switch service fast – like iPhone Handoff",
+    "url": "https://www.zdnet.com/tech/android-fast-switch-like-iphone-handoff/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T16:19:15Z",
+    "snippet": "If Android Fast Switch works like iPhone Handoff, one eSIM can be quickly switched between two phones.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/eac2e9bd-2af1-4f41-97bf-98e726de5a35-1-201-a.jpg"
+  },
+  {
+    "title": "The DOJ says it’s investigating Megaspeed",
+    "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+    "source": "The Verge AI",
+    "date": "2026-11-17T16:19:03Z",
+    "snippet": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+    "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+    "source": "The Verge AI",
+    "date": "2026-11-17T16:09:57Z",
+    "snippet": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0%2C11.076427579259%2C100%2C77.847144841482&w=1200"
+  },
+  {
+    "title": "Oura’s new feature could help you kick jet lag – how to enable it",
+    "url": "https://www.zdnet.com/tech/oura-jet-lag-plan/",
+    "source": "ZDNet AI",
+    "date": "2026-11-17T16:05:30Z",
+    "snippet": "Oura just launched a Jet Lag Plan to help you stay alert when you switch time zones, whether you’re traveling for business or pleasure.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png"
+  },
+  {
+    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T15:00:00Z",
+    "snippet": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-12.32.41-PM.jpg?w=942"
+  },
+  {
     "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
     "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
     "source": "TechCrunch AI",
     "date": "2026-11-17T14:50:58Z",
-    "snippet": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+    "snippet": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800"
   },
   {
@@ -20,7 +300,7 @@
     "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
     "source": "TechCrunch AI",
     "date": "2026-11-17T14:26:46Z",
-    "snippet": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+    "snippet": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
   },
   {
@@ -40,12 +320,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-500x500.jpg"
   },
   {
-    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-    "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-17T14:00:00Z",
-    "snippet": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675"
+    "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "source": "Wired AI",
+    "date": "2026-11-17T11:00:00Z",
+    "snippet": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+    "image": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg"
   },
   {
     "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
@@ -56,14 +336,6 @@
     "image": "https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg"
   },
   {
-    "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-    "source": "Wired AI",
-    "date": "2026-11-17T11:00:00Z",
-    "snippet": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-    "image": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg"
-  },
-  {
     "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
     "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
     "source": "Wired AI",
@@ -72,36 +344,12 @@
     "image": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/master/pass/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png"
   },
   {
-    "title": "6 Chrome settings tweaks every power user needs to know",
-    "url": "https://www.zdnet.com/home-and-office/chrome-default-settings-to-change/",
-    "source": "ZDNet AI",
-    "date": "2026-11-17T01:05:00Z",
-    "snippet": "For improved privacy and security, fewer interruptions, and enhanced productivity, I highly recommend changing these default browser settings.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/chromefeatures.jpg"
-  },
-  {
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T23:32:32Z",
-    "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
-  },
-  {
     "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
     "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
     "source": "The Verge AI",
     "date": "2026-11-16T23:17:34Z",
     "snippet": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0%2C10.748709970289%2C100%2C78.502580059422&w=1200"
-  },
-  {
-    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T22:03:02Z",
-    "snippet": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800"
   },
   {
     "title": "California sues OpenAI over rogue AI hacking incidents",
@@ -136,22 +384,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0%2C10.729149249175%2C100%2C78.54170150165&w=1200"
   },
   {
-    "title": "US data centers now burn more electricity than a midsized country",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-    "source": "The Verge AI",
-    "date": "2026-11-16T20:27:58Z",
-    "snippet": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T20:07:13Z",
-    "snippet": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/1920px-Rob_Bonta_at_Central_Bay_Operations_and_Maintenance_Facility_opening_December_2018.jpeg?resize=1200,981"
-  },
-  {
     "title": "Apple could build its AI health chatbot from this study – how to enroll",
     "url": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/",
     "source": "ZDNet AI",
@@ -160,44 +392,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/63e6c0eb-8321-4e2c-a17a-50dd35f33946.jpg"
   },
   {
-    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-    "source": "The Verge AI",
-    "date": "2026-11-16T19:24:40Z",
-    "snippet": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0.17391304347827%2C0%2C99.652173913043%2C100&w=1200"
-  },
-  {
-    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-    "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-    "source": "The Verge AI",
-    "date": "2026-11-16T19:23:45Z",
-    "snippet": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T19:12:02Z",
-    "snippet": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024"
-  },
-  {
     "title": "5 ways AI will change how you defend your business in 2027",
     "url": "https://www.zdnet.com/innovation/google-cloud-ciso-perspectives-2027-ai-security-defenses/",
     "source": "ZDNet AI",
     "date": "2026-11-16T18:58:52Z",
     "snippet": "Security leaders reveal the future consequences of AI outpacing human defenders.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/walldefenses-2026-11-16-130819.jpg"
-  },
-  {
-    "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-    "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-    "source": "The Verge AI",
-    "date": "2026-11-16T18:43:35Z",
-    "snippet": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees,",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
     "title": "iPhone Duo 2 prototypes suggest Face ID, Action Button, other potential 2027 features",
@@ -216,22 +416,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600"
   },
   {
-    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T18:11:10Z",
-    "snippet": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024"
-  },
-  {
-    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T17:36:43Z",
-    "snippet": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675"
-  },
-  {
     "title": "Your Samsung phone could soon get a personal AI agent – what we know about Galaxy Claw",
     "url": "https://www.zdnet.com/innovation/samsung-galaxy-claw-ai-cross-app-upgrade/",
     "source": "ZDNet AI",
@@ -246,30 +430,6 @@
     "date": "2026-11-16T17:21:42Z",
     "snippet": "Google’s Ask Maps features start rolling out today on Android and iOS. Here’s what they can do for you now.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304015528.jpg"
-  },
-  {
-    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T17:10:00Z",
-    "snippet": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675"
-  },
-  {
-    "title": "OpenAI will embed safety researchers to investigate AI subversion",
-    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T17:02:43Z",
-    "snippet": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
-  },
-  {
-    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T17:00:00Z",
-    "snippet": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675"
   },
   {
     "title": "Jensen Huang Is Gone. Now What?",
@@ -296,46 +456,6 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?resize=1200,600"
   },
   {
-    "title": "Audible turns to AI to help users discover audiobooks",
-    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T15:52:19Z",
-    "snippet": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824"
-  },
-  {
-    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T15:02:34Z",
-    "snippet": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/us-commerce.jpg?w=564"
-  },
-  {
-    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T14:48:13Z",
-    "snippet": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800"
-  },
-  {
-    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-    "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-    "source": "The Verge AI",
-    "date": "2026-11-16T14:00:00Z",
-    "snippet": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Google Maps can now create trip itineraries for you",
-    "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-    "source": "The Verge AI",
-    "date": "2026-11-16T14:00:00Z",
-    "snippet": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’",
     "url": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
     "source": "ZDNet AI",
@@ -360,44 +480,12 @@
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600"
   },
   {
-    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T12:30:00Z",
-    "snippet": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/dreamteam-co-founders.jpg?resize=1200,800"
-  },
-  {
     "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
     "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
     "source": "Wired AI",
     "date": "2026-11-16T11:00:00Z",
     "snippet": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
     "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg"
-  },
-  {
-    "title": "Apple launches new app to study how people use AI for health",
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T01:30:00Z",
-    "snippet": "Apple's new app for a study will answer everyday medical questions.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800"
-  },
-  {
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-15T23:30:00Z",
-    "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800"
-  },
-  {
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-15T21:56:35Z",
-    "snippet": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
   },
   {
     "title": "AI DJs Completely Kill My Groove",
@@ -446,14 +534,6 @@
     "date": "2026-11-13T21:43:32Z",
     "snippet": "A surprise defect took more than 80% of Microsoft’s servers out at the outage’s peak. Here’s what happened.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304360163.jpg"
-  },
-  {
-    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-    "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-    "source": "Wired AI",
-    "date": "2026-11-13T19:08:57Z",
-    "snippet": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-    "image": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/master/pass/Security_MicrosoftBackOnline_v1.jpg"
   },
   {
     "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
@@ -512,84 +592,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/fc1fdc1f-530e-47f1-8c1e-d0bc66191958-1-201-a.jpg"
   },
   {
-    "title": "If the November Windows update fails to install on your PC, here’s what to do",
-    "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/",
-    "source": "ZDNet AI",
-    "date": "2026-11-12T15:11:08Z",
-    "snippet": "This month’s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-update-failure.jpg"
-  },
-  {
-    "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
-    "url": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
-    "source": "ZDNet AI",
-    "date": "2026-11-11T20:30:00Z",
-    "snippet": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/image-1.jpeg"
-  },
-  {
-    "title": "Google Fi now switches between the best mobile networks automatically – how it works",
-    "url": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
-    "source": "ZDNet AI",
-    "date": "2026-11-11T19:41:41Z",
-    "snippet": "Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg"
-  },
-  {
-    "title": "Oura Ring users may get in-app access to real doctors soon – what we know",
-    "url": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
-    "source": "ZDNet AI",
-    "date": "2026-11-11T17:45:55Z",
-    "snippet": "Oura’s acquisition of Counsel Health could signal a new dawn for digital care.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png"
-  },
-  {
-    "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI",
-    "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
-    "source": "ZDNet AI",
-    "date": "2026-11-11T17:11:19Z",
-    "snippet": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg"
-  },
-  {
-    "title": "Claude can collaborate in your team meetings soon – like an intern",
-    "url": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
-    "source": "ZDNet AI",
-    "date": "2026-11-11T16:46:09Z",
-    "snippet": "Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2294192923.jpg"
-  },
-  {
-    "title": "Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why",
-    "url": "https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping/",
-    "source": "ZDNet AI",
-    "date": "2026-11-11T15:40:30Z",
-    "snippet": "If you’re an Ubuntu user considering a leap to Fedora, but you’re hesitating, I explain why you should go ahead and just do it.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ubuntufedora.jpg"
-  },
-  {
     "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
     "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
     "source": "Ars Technica",
     "date": "2026-11-10T21:12:59Z",
     "snippet": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-500x500.webp"
-  },
-  {
-    "title": "Microsoft fixes over 1,000 Windows flaws – and one is being exploited",
-    "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/",
-    "source": "ZDNet AI",
-    "date": "2026-11-10T21:00:31Z",
-    "snippet": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. But don’t skip these security fixes.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg"
-  },
-  {
-    "title": "Need more AI in Creator Studio? Apple may charge you for it",
-    "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
-    "source": "ZDNet AI",
-    "date": "2026-11-10T20:38:54Z",
-    "snippet": "With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg"
   },
   {
     "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -624,12 +632,12 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d-500x500.png"
   },
   {
-    "title": "Innovating with AI in the special chemicals industry",
+    "title": "Innovating with AI in the specialty chemicals industry",
     "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
     "source": "MIT Technology Review",
     "date": "2026-11-09T13:00:00Z",
     "snippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTRInfoysLubrizol-open-card-v3.png?resize=1200,600"
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTRI-Infosys-Lubrizol-webcast-open-card-social-card.png?resize=1200,600"
   },
   {
     "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -790,13 +798,5 @@
     "date": "2026-10-21T21:48:52Z",
     "snippet": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-500x500.jpg"
-  },
-  {
-    "title": "The new human-crafted Apple Music brand matters in an AI world",
-    "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-    "source": "Ars Technica",
-    "date": "2026-10-21T19:44:40Z",
-    "snippet": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-500x500.jpg"
   }
 ]
