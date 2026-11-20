@@ -1,5 +1,61 @@
 [
   {
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20T14:00:00Z",
+    "snippet": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800"
+  },
+  {
+    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "source": "The Verge AI",
+    "date": "2026-11-20T12:30:47Z",
+    "snippet": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0%2C3.8035109331691%2C100%2C92.392978133662&w=1200"
+  },
+  {
+    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+    "source": "Wired AI",
+    "date": "2026-11-20T12:00:00Z",
+    "snippet": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+    "image": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg"
+  },
+  {
+    "title": "Regular Tech Bros Are Worried About Honeypots",
+    "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+    "source": "Wired AI",
+    "date": "2026-11-20T11:00:00Z",
+    "snippet": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+    "image": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg"
+  },
+  {
+    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "source": "Wired AI",
+    "date": "2026-11-20T07:00:00Z",
+    "snippet": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+    "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg"
+  },
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20T00:56:01Z",
+    "snippet": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
+  },
+  {
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20T00:43:50Z",
+    "snippet": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
+  },
+  {
     "title": "Apple is hiring engineers to build its own AI agent",
     "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "source": "The Verge AI",
@@ -224,14 +280,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "Canva adds an AI ‘off’ button",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-    "source": "The Verge AI",
-    "date": "2026-11-19T12:30:00Z",
-    "snippet": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
     "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
     "source": "Wired AI",
@@ -320,30 +368,6 @@
     "image": "https://media.wired.com/photos/6afcfe9d821bf3ffcbf308a8/master/pass/politics_trump_adventures_china.jpg"
   },
   {
-    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-    "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T21:57:40Z",
-    "snippet": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
-  },
-  {
-    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T21:34:13Z",
-    "snippet": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305757563-Medium.jpeg?w=594"
-  },
-  {
-    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T21:31:21Z",
-    "snippet": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513578-e.jpg?resize=1200,800"
-  },
-  {
     "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
     "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
     "source": "Wired AI",
@@ -368,14 +392,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Figure-Top-5-new-AI-features-in-Apples-Health-app.jpg"
   },
   {
-    "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-    "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-    "source": "Wired AI",
-    "date": "2026-11-18T17:33:07Z",
-    "snippet": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-    "image": "https://media.wired.com/photos/6afddee377c5562ae471019b/master/pass/GettyImages-2304258889.jpg"
-  },
-  {
     "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
     "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
     "source": "ZDNet AI",
@@ -392,28 +408,12 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/yellow-cart-GettyImages-2279292045.jpg"
   },
   {
-    "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-    "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
-    "source": "Wired AI",
-    "date": "2026-11-18T16:35:24Z",
-    "snippet": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-    "image": "https://media.wired.com/photos/6afdd3316a27dda013bf584c/master/pass/Security_Criminals%20Have%20a%20New%20Favorite%20AI%20Hacking%20Tool_v2.jpg"
-  },
-  {
     "title": "Your Wear OS smartwatch just got a new way to save battery life",
     "url": "https://www.zdnet.com/tech/wear-os-smartwatches-update-save-battery-life-galaxy-pixel/",
     "source": "ZDNet AI",
     "date": "2026-11-18T16:24:20Z",
     "snippet": "It could make your Pixel Watch or Samsung Galaxy Watch more power efficient.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00138_8b66e2.jpg"
-  },
-  {
-    "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-    "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-    "source": "Wired AI",
-    "date": "2026-11-18T15:02:40Z",
-    "snippet": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-    "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/master/pass/Thomas-Nagel-QandA-Business.jpg"
   },
   {
     "title": "The AI Hype Index: AI is everywhere",
