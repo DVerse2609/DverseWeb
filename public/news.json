@@ -1,5 +1,21 @@
 [
   {
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "source": "The Verge AI",
+    "date": "2026-11-21T14:00:00Z",
+    "snippet": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "The Outages Are Just Getting Started",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+    "source": "Wired AI",
+    "date": "2026-11-21T13:00:00Z",
+    "snippet": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg"
+  },
+  {
     "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
     "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
     "source": "Wired AI",
@@ -312,14 +328,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801"
   },
   {
-    "title": "Anthropic starts trading on Wall Street",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-    "source": "The Verge AI",
-    "date": "2026-11-19T16:52:01Z",
-    "snippet": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305334560.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
-  },
-  {
     "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
     "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
     "source": "TechCrunch AI",
@@ -390,14 +398,6 @@
     "date": "2026-11-18T23:45:00Z",
     "snippet": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200"
-  },
-  {
-    "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-    "url": "https://www.wired.com/story/guys-really-we-got-this/",
-    "source": "Wired AI",
-    "date": "2026-11-18T22:16:23Z",
-    "snippet": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-    "image": "https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg"
   },
   {
     "title": "Google Wallet comes to your iPhone – but without this feature",
