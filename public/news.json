@@ -1,5 +1,53 @@
 [
   {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-21T21:37:10Z",
+    "snippet": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800"
+  },
+  {
+    "title": "A tale of two Nvidias",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-21T21:07:42Z",
+    "snippet": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
+  },
+  {
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "source": "The Verge AI",
+    "date": "2026-11-21T20:03:37Z",
+    "snippet": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-21T17:00:00Z",
+    "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
+  },
+  {
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-21T16:00:00Z",
+    "snippet": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200"
+  },
+  {
+    "title": "Can Anthropic afford to put safety first?",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "source": "The Verge AI",
+    "date": "2026-11-21T15:00:00Z",
+    "snippet": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
     "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
     "source": "The Verge AI",
@@ -240,28 +288,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
   },
   {
-    "title": "Google is putting AI chats right on the homepage",
-    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "source": "The Verge AI",
-    "date": "2026-11-19T20:05:06Z",
-    "snippet": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Anthropic’s IPO could deliver $156B to charity",
     "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
     "source": "TechCrunch AI",
     "date": "2026-11-19T19:10:45Z",
     "snippet": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800"
-  },
-  {
-    "title": "Gemini on Mac can now use your computer",
-    "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-    "source": "The Verge AI",
-    "date": "2026-11-19T18:21:13Z",
-    "snippet": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0%2C10.738463156834%2C100%2C78.523073686333&w=1200"
   },
   {
     "title": "Meta Muse booked an Airbnb without permission – and that’s not the worst of it",
@@ -336,22 +368,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594"
   },
   {
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T14:54:39Z",
-    "snippet": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304538389.jpg?w=1024"
-  },
-  {
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T14:00:00Z",
-    "snippet": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Static_Go-Proactive.jpeg?resize=1200,675"
-  },
-  {
     "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
     "url": "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/",
     "source": "ZDNet AI",
@@ -382,22 +398,6 @@
     "date": "2026-11-19T11:13:01Z",
     "snippet": "When everything goes down, don’t assume it’s a cyberattack.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-500x500.jpg"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T00:42:56Z",
-    "snippet": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800"
-  },
-  {
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T23:45:00Z",
-    "snippet": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200"
   },
   {
     "title": "Google Wallet comes to your iPhone – but without this feature",
