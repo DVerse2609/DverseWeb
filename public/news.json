@@ -1,5 +1,37 @@
 [
   {
+    "title": "We haven’t seen the last of the major tech outages",
+    "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "source": "The Verge AI",
+    "date": "2026-11-22T22:48:02Z",
+    "snippet": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-22T21:14:07Z",
+    "snippet": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+  },
+  {
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-22T18:08:43Z",
+    "snippet": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+  },
+  {
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "source": "The Verge AI",
+    "date": "2026-11-22T17:25:20Z",
+    "snippet": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
     "title": "The vibe-coding revolution is coming to all the gadgets",
     "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
     "source": "The Verge AI",
@@ -232,22 +264,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
   },
   {
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "source": "The Verge AI",
-    "date": "2026-11-19T22:31:41Z",
-    "snippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200"
-  },
-  {
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-    "source": "The Verge AI",
-    "date": "2026-11-19T21:59:35Z",
-    "snippet": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Meta’s new Muse Charm device may cost $300",
     "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
     "source": "TechCrunch AI",
@@ -358,22 +374,6 @@
     "date": "2026-11-19T17:00:00Z",
     "snippet": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
     "image": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg"
-  },
-  {
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T16:59:23Z",
-    "snippet": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801"
-  },
-  {
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T16:19:41Z",
-    "snippet": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594"
   },
   {
     "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
