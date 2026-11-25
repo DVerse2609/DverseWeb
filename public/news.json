@@ -1,6 +1,78 @@
 [
   {
-    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+    "title": "Nothing offers a full look at its AI earbuds and charging case",
+    "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+    "source": "The Verge AI",
+    "date": "2026-11-25T16:00:59Z",
+    "snippet": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408"
+  },
+  {
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T15:41:43Z",
+    "snippet": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Anita-Verma-Lallian-2.jpg?w=1024"
+  },
+  {
+    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "source": "The Verge AI",
+    "date": "2026-11-25T14:12:33Z",
+    "snippet": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+  },
+  {
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T14:10:18Z",
+    "snippet": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+  },
+  {
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T13:00:00Z",
+    "snippet": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800"
+  },
+  {
+    "title": "Has vibe coding made open source the new normal for synths?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+    "source": "The Verge AI",
+    "date": "2026-11-25T13:00:00Z",
+    "snippet": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200"
+  },
+  {
+    "title": "AI may soon change what it means to be a theoretical physicist",
+    "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+    "source": "Ars Technica",
+    "date": "2026-11-25T12:00:28Z",
+    "snippet": "Frontier AI is already solving problems that once took top physicists a full day.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-500x500.jpg"
+  },
+  {
+    "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+    "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "source": "Wired AI",
+    "date": "2026-11-25T11:30:00Z",
+    "snippet": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+    "image": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg"
+  },
+  {
+    "title": "AI is straining America’s open records systems",
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "source": "MIT Technology Review",
+    "date": "2026-11-25T10:00:00Z",
+    "snippet": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer.",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600"
+  },
+  {
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
     "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
     "source": "TechCrunch AI",
     "date": "2026-11-25T00:12:02Z",
@@ -192,14 +264,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754"
   },
   {
-    "title": "Raising the stakes for enterprise networks with AI modernization",
-    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-    "source": "MIT Technology Review",
-    "date": "2026-11-24T15:15:16Z",
-    "snippet": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network.",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TataSocialCard-1200v3.png?resize=1200,600"
-  },
-  {
     "title": "Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it",
     "url": "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/",
     "source": "ZDNet AI",
@@ -248,14 +312,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-    "title": "Welcome to elite impunity, Jensen Huang",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-    "source": "The Verge AI",
-    "date": "2026-11-23T22:09:26Z",
-    "snippet": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200"
-  },
-  {
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
     "source": "TechCrunch AI",
@@ -288,52 +344,12 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800"
   },
   {
-    "title": "AI data centers throw another wrench into chaotic UN climate talks",
-    "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-    "source": "The Verge AI",
-    "date": "2026-11-23T21:09:37Z",
-    "snippet": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0%2C10.750882913364%2C100%2C78.498234173273&w=1200"
-  },
-  {
-    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23T20:38:53Z",
-    "snippet": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
-  },
-  {
-    "title": "Claude AI can review pull requests and ship fixes on its own now",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-    "source": "The Verge AI",
-    "date": "2026-11-23T20:00:00Z",
-    "snippet": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
     "title": "Claude can ship code for you now – how to try it (if you dare)",
     "url": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
     "source": "ZDNet AI",
     "date": "2026-11-23T20:00:00Z",
     "snippet": "Would you let a few Claude agents review and ship your code for you?",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271847888.jpg"
-  },
-  {
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23T19:14:46Z",
-    "snippet": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800"
-  },
-  {
-    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23T18:12:22Z",
-    "snippet": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
   },
   {
     "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
@@ -414,14 +430,6 @@
     "date": "2026-11-23T12:00:00Z",
     "snippet": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it?",
     "image": "https://media.wired.com/photos/6b00ca934909d8ae8eb24f03/master/pass/livestream_ama_ai_safety.jpg"
-  },
-  {
-    "title": "States Sue SpaceX Over Grok Deepfakes",
-    "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-    "source": "Wired AI",
-    "date": "2026-11-23T11:00:00Z",
-    "snippet": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-    "image": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/master/pass/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg"
   },
   {
     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -790,13 +798,5 @@
     "date": "2026-10-30T20:40:13Z",
     "snippet": "People who love AI don't always love telling others they used it.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-500x500.jpg"
-  },
-  {
-    "title": "Basically no one is using AI agents for their DoorDash orders",
-    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-    "source": "Ars Technica",
-    "date": "2026-10-30T19:30:52Z",
-    "snippet": "But it's still early days for the relatively new e-commerce use case.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-500x500.jpg"
   }
 ]

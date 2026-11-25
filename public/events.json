@@ -309,7 +309,7 @@
     "daysLeft": -220,
     "formattedDate": "Apr 17 – 19, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ETHGlobal%20Tokyo%202026&dates=20260417/20260419&details=Uniting%20Asia%27s%20sharpest%20developers%20with%20global%20protocol%20architects.%20Hackers%20compete%20for%20bounties%20in%20decentralized%20identity%2C%20AI%20agents%2C%20and%20scaling%20solutions.%0A%0AOfficial%20Website%3A%20https%3A//ethglobal.com/events/tokyo2026%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Toranomon%20Hills%20Forum%2C%20Tokyo%2C%20Japan&sf=true&output=xml",
-    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop"
+    "image": "https://ethglobal.b-cdn.net/events/tokyo2026/images/4xv1b/default.jpg"
   },
   {
     "id": "zkml-hackathon-berlin-2026",
@@ -1089,7 +1089,7 @@
     "daysLeft": -143,
     "formattedDate": "Jul 03 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ETHGlobal%20Autonomous%20Agents%20Paris&dates=20260703/20260705&details=A%20targeted%203-day%20hackathon%20focused%20exclusively%20on%20smart%20contract-invoked%20autonomous%20agents%2C%20ERC-4337%20session%20keys%2C%20and%20verifiable%20automated%20actions.%0A%0AOfficial%20Website%3A%20https%3A//ethglobal.com%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Station%20F%2C%20Paris%2C%20France&sf=true&output=xml",
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop"
+    "image": "https://ethglobal.com/og.png"
   },
   {
     "id": "japan-blockchain-week-2026",
@@ -1167,7 +1167,7 @@
     "daysLeft": -136,
     "formattedDate": "Jul 10 – 12, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ETHGlobal%20Brussels%202026&dates=20260710/20260712&details=Gathering%20European%20developers%20for%20a%20high-intensity%20hackathon%20right%20in%20the%20administrative%20capital%20of%20Europe.%0A%0AOfficial%20Website%3A%20https%3A//ethglobal.com%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=The%20EGG%20Brussels%2C%20Brussels%2C%20Belgium&sf=true&output=xml",
-    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop"
+    "image": "https://ethglobal.com/og.png"
   },
   {
     "id": "icml-2026",
@@ -2259,7 +2259,7 @@
     "daysLeft": -20,
     "formattedDate": "Nov 02 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CoRL%202026%20%28Conference%20on%20Robot%20Learning%29&dates=20261102/20261105&details=Focused%20exclusively%20on%20the%20intersection%20of%20robotics%20and%20machine%20learning%2C%20highlighting%20policy%20learning%2C%20world%20models%2C%20and%20foundation%20models%20for%20embodied%20agents.%0A%0AOfficial%20Website%3A%20https%3A//corl.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=COEX%20Convention%20%26%20Exhibition%20Center%2C%20Seoul%2C%20South%20Korea&sf=true&output=xml",
-    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeg31GgPbuDFSA3VZtSqeRcVg4z86NPhLPvA7VTmNGWBBBuBOpEyEgi6d4sI5NM8YVFBVgRsrXu0B4KedBxPU7mqx0NOuKiDtEbBRDVVLKDhXEQTzTkpFl0bP-aVo3XKbNwEdg67mvpnvZIchxOwDFO8Vshn0zJgL1IeCnUShMrCTxC3bVtjWa5Q-yPPMQ=w1280"
+    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdlcumEIH9-nZo1dEciYYc7BbeZn2jVY8ss4d7BzF2uEa9beVUu9qrKfSqCN2aQKPoO_EXJ_Uq1FKqeJyOid9osa2PZvEVTdjehUetL7C_ZO82p0R6E1s6TsT8jLMEp0tShODkgqjJ-B4aUgqvvcoDDQubwZHvqaTkUbgneN5OCUEspk9UlUaz0QhCY2HU=w1280"
   },
   {
     "id": "devcon-2026",
