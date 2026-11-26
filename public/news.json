@@ -1,5 +1,37 @@
 [
   {
+    "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-26T16:00:00Z",
+    "snippet": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675"
+  },
+  {
+    "title": "ZDNET’s best headphones of 2026: These two pairs left us impressed",
+    "url": "https://www.zdnet.com/tech/zdnet-best-headphones-of-2026/",
+    "source": "ZDNet AI",
+    "date": "2026-11-26T11:00:00Z",
+    "snippet": "We tested dozens of Bluetooth headphones in 2026, but two stood out. Here’s our top picks.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Headphones-SERP-feature-image.jpg"
+  },
+  {
+    "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "source": "Wired AI",
+    "date": "2026-11-26T10:51:27Z",
+    "snippet": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+    "image": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/master/pass/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+  },
+  {
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "source": "The Verge AI",
+    "date": "2026-11-26T09:54:40Z",
+    "snippet": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts -",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
     "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
     "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
     "source": "TechCrunch AI",
@@ -320,22 +352,6 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ai-label_1c35e3.jpg?quality=90&strip=all&crop=0%2C19.887257893553%2C100%2C60.225484212893&w=1200"
   },
   {
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-24T16:10:00Z",
-    "snippet": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1373266060.jpg?resize=1200,800"
-  },
-  {
-    "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-    "source": "The Verge AI",
-    "date": "2026-11-24T16:09:23Z",
-    "snippet": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200"
-  },
-  {
     "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
     "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
     "source": "Wired AI",
@@ -454,14 +470,6 @@
     "date": "2026-11-23T13:11:00Z",
     "snippet": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
     "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
-  },
-  {
-    "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-    "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-    "source": "Wired AI",
-    "date": "2026-11-23T12:00:00Z",
-    "snippet": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it?",
-    "image": "https://media.wired.com/photos/6b00ca934909d8ae8eb24f03/master/pass/livestream_ama_ai_safety.jpg"
   },
   {
     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -622,14 +630,6 @@
     "date": "2026-11-18T00:27:29Z",
     "snippet": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception-500x454.png"
-  },
-  {
-    "title": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
-    "url": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
-    "source": "ZDNet AI",
-    "date": "2026-11-17T23:14:05Z",
-    "snippet": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png"
   },
   {
     "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
