@@ -1,5 +1,101 @@
 [
   {
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T22:44:32Z",
+    "snippet": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
+  },
+  {
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "source": "The Verge AI",
+    "date": "2026-11-25T21:51:26Z",
+    "snippet": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200"
+  },
+  {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T20:03:27Z",
+    "snippet": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800"
+  },
+  {
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T19:54:57Z",
+    "snippet": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T19:44:24Z",
+    "snippet": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024"
+  },
+  {
+    "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
+    "url": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+    "source": "ZDNet AI",
+    "date": "2026-11-25T18:54:05Z",
+    "snippet": "Anthropic’s new ‘install as app’ feature makes it easy to turn your Claude artifacts into desktop apps on your computer – with some limitations.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/How-to-turn-Claude-artifact-into-desktop-app-on-Mac-or-Windows-computer.jpg"
+  },
+  {
+    "title": "Backblaze explains why it's sharing customer information with advertisers",
+    "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+    "source": "Ars Technica Tech",
+    "date": "2026-11-25T18:38:29Z",
+    "snippet": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-500x500.jpg"
+  },
+  {
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T18:11:46Z",
+    "snippet": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800"
+  },
+  {
+    "title": "Gen Z is the least interested in AI at work – and it’s not even close",
+    "url": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
+    "source": "ZDNet AI",
+    "date": "2026-11-25T18:07:00Z",
+    "snippet": "Younger workers don’t find AI useful, according to a recent survey.",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1183759564.jpg"
+  },
+  {
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "source": "The Verge AI",
+    "date": "2026-11-25T17:44:51Z",
+    "snippet": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200"
+  },
+  {
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T17:35:58Z",
+    "snippet": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675"
+  },
+  {
+    "title": "Etsy clarifies AI terms after seller backlash",
+    "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+    "source": "Ars Technica",
+    "date": "2026-11-25T17:12:57Z",
+    "snippet": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678-500x500.jpg"
+  },
+  {
     "title": "Nothing offers a full look at its AI earbuds and charging case",
     "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
     "source": "The Verge AI",
@@ -36,7 +132,7 @@
     "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
     "source": "TechCrunch AI",
     "date": "2026-11-25T13:00:00Z",
-    "snippet": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+    "snippet": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800"
   },
   {
@@ -240,28 +336,12 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200"
   },
   {
-    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-24T16:02:37Z",
-    "snippet": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800"
-  },
-  {
     "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
     "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
     "source": "Wired AI",
     "date": "2026-11-24T16:00:00Z",
     "snippet": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
     "image": "https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/master/pass/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg"
-  },
-  {
-    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-    "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-24T15:51:07Z",
-    "snippet": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754"
   },
   {
     "title": "Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it",
@@ -294,54 +374,6 @@
     "date": "2026-11-24T10:15:00Z",
     "snippet": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
     "image": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg"
-  },
-  {
-    "title": "Trump engineered a risky comeback for Jensen Huang",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-    "source": "The Verge AI",
-    "date": "2026-11-23T22:25:12Z",
-    "snippet": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0%2C12.22929670334%2C100%2C75.541406593319&w=1200"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "source": "The Verge AI",
-    "date": "2026-11-23T22:10:32Z",
-    "snippet": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23T22:05:50Z",
-    "snippet": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
-  },
-  {
-    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23T22:02:05Z",
-    "snippet": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675"
-  },
-  {
-    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23T21:47:41Z",
-    "snippet": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
-  },
-  {
-    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23T21:25:42Z",
-    "snippet": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800"
   },
   {
     "title": "Claude can ship code for you now – how to try it (if you dare)",
@@ -600,22 +632,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png"
   },
   {
-    "title": "Microsoft wants to put a dollar value on AI’s work – but can you trust the math?",
-    "url": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
-    "source": "ZDNet AI",
-    "date": "2026-11-17T23:05:48Z",
-    "snippet": "With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there’s a critical difference between estimated value and money saved.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Satya.png"
-  },
-  {
-    "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
-    "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
-    "source": "ZDNet AI",
-    "date": "2026-11-17T22:42:44Z",
-    "snippet": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg"
-  },
-  {
     "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
     "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
     "source": "Ars Technica Tech",
@@ -782,21 +798,5 @@
     "date": "2026-11-03T16:03:13Z",
     "snippet": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg"
-  },
-  {
-    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-    "source": "Ars Technica Tech",
-    "date": "2026-10-30T21:09:54Z",
-    "snippet": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg"
-  },
-  {
-    "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-    "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-    "source": "Ars Technica",
-    "date": "2026-10-30T20:40:13Z",
-    "snippet": "People who love AI don't always love telling others they used it.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-500x500.jpg"
   }
 ]
