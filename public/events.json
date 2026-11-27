@@ -309,7 +309,7 @@
     "daysLeft": -222,
     "formattedDate": "Apr 17 – 19, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ETHGlobal%20Tokyo%202026&dates=20260417/20260419&details=Uniting%20Asia%27s%20sharpest%20developers%20with%20global%20protocol%20architects.%20Hackers%20compete%20for%20bounties%20in%20decentralized%20identity%2C%20AI%20agents%2C%20and%20scaling%20solutions.%0A%0AOfficial%20Website%3A%20https%3A//ethglobal.com/events/tokyo2026%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Toranomon%20Hills%20Forum%2C%20Tokyo%2C%20Japan&sf=true&output=xml",
-    "image": "https://ethglobal.b-cdn.net/events/tokyo2026/images/4xv1b/default.jpg"
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop"
   },
   {
     "id": "zkml-hackathon-berlin-2026",
@@ -1089,7 +1089,7 @@
     "daysLeft": -145,
     "formattedDate": "Jul 03 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ETHGlobal%20Autonomous%20Agents%20Paris&dates=20260703/20260705&details=A%20targeted%203-day%20hackathon%20focused%20exclusively%20on%20smart%20contract-invoked%20autonomous%20agents%2C%20ERC-4337%20session%20keys%2C%20and%20verifiable%20automated%20actions.%0A%0AOfficial%20Website%3A%20https%3A//ethglobal.com%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Station%20F%2C%20Paris%2C%20France&sf=true&output=xml",
-    "image": "https://ethglobal.com/og.png"
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop"
   },
   {
     "id": "japan-blockchain-week-2026",
@@ -1167,7 +1167,7 @@
     "daysLeft": -138,
     "formattedDate": "Jul 10 – 12, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ETHGlobal%20Brussels%202026&dates=20260710/20260712&details=Gathering%20European%20developers%20for%20a%20high-intensity%20hackathon%20right%20in%20the%20administrative%20capital%20of%20Europe.%0A%0AOfficial%20Website%3A%20https%3A//ethglobal.com%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=The%20EGG%20Brussels%2C%20Brussels%2C%20Belgium&sf=true&output=xml",
-    "image": "https://ethglobal.com/og.png"
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop"
   },
   {
     "id": "icml-2026",
@@ -1401,7 +1401,7 @@
     "daysLeft": -106,
     "formattedDate": "Aug 09 – 13, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ACM%20SIGGRAPH%202026&dates=20260809/20260813&details=The%20world%27s%20leading%20annual%20conference%20on%20computer%20graphics%20and%20interactive%20techniques%2C%20unveiling%20breakthroughs%20in%20neural%20rendering%2C%20Gaussian%20splatting%2C%20and%20generative%203D%20physics.%0A%0AOfficial%20Website%3A%20https%3A//s2026.siggraph.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Los%20Angeles%20Convention%20Center%2C%20Los%20Angeles%2C%20CA%2C%20USA&sf=true&output=xml",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop"
+    "image": "https://s2026.siggraph.org/wp-content/uploads/2025/08/s2026-site-image.jpg"
   },
   {
     "id": "istanbul-blockchain-week-2026",
@@ -2259,7 +2259,7 @@
     "daysLeft": -22,
     "formattedDate": "Nov 02 – 05, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CoRL%202026%20%28Conference%20on%20Robot%20Learning%29&dates=20261102/20261105&details=Focused%20exclusively%20on%20the%20intersection%20of%20robotics%20and%20machine%20learning%2C%20highlighting%20policy%20learning%2C%20world%20models%2C%20and%20foundation%20models%20for%20embodied%20agents.%0A%0AOfficial%20Website%3A%20https%3A//corl.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=COEX%20Convention%20%26%20Exhibition%20Center%2C%20Seoul%2C%20South%20Korea&sf=true&output=xml",
-    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf6-xDGpJJE_DEOf2zRFr7FPTHPX0GWQ-vbYWCRD96Tvh-LPVAvWrxdlDkQgrrDIscwp2ZjbHEIJM977tX43vyvmbHrBJkOdJo_-tvabO0R6RxOy3FYruFMDqkdagN2NzFmJaePDkWUFcnFQwPjrkHItBoW417UvT3RWH9I3oN69GE_5muf5BRuS2WIVck=w1280"
+    "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdtWp-A7TMNJk48MX_mAZOyy8HLn4Urh8YTBk48cMkkx7QqMhRUB82aNURhiZm37AEoHkmS0E3kbemjNJAszmXkTvWNewO2vLglbW1F92clt3kXcxxP2XirBXNR5tH01pGtZP_FTbyfOWRf2e8YmQpTwJGmEFxM5FMkuPNJlqSYFvaW9JwmJgc7m5vsRxE=w1280"
   },
   {
     "id": "devcon-2026",
@@ -2415,7 +2415,7 @@
     "daysLeft": -7,
     "formattedDate": "Nov 15 – 20, 2026",
     "googleCalendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SC26%20%28Supercomputing%20Conference%29&dates=20261115/20261120&details=The%20international%20conference%20for%20high%20performance%20computing%2C%20networking%2C%20storage%2C%20and%20analysis.%20Showcasing%20exascale%20computing%20and%20massive%20AI%20training%20superclusters.%0A%0AOfficial%20Website%3A%20https%3A//sc26.supercomputing.org%0ACurated%20by%20dataverse.ai%20%28%24DVERSE%29&location=Georgia%20World%20Congress%20Center%2C%20Atlanta%2C%20GA%2C%20USA&sf=true&output=xml",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop"
+    "image": "https://sc26.supercomputing.org/wp-content/uploads/2025/11/sc26_1200x750.png"
   },
   {
     "id": "ai-agent-swarms-miami-2026",

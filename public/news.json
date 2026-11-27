@@ -1,5 +1,21 @@
 [
   {
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "source": "The Verge AI",
+    "date": "2026-11-27T14:00:00Z",
+    "snippet": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+  },
+  {
+    "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "source": "Wired AI",
+    "date": "2026-11-27T07:00:00Z",
+    "snippet": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+    "image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg"
+  },
+  {
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
     "source": "TechCrunch AI",
@@ -344,14 +360,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200"
   },
   {
-    "title": "Jensen Huang deepfakes are the hot new AI slop",
-    "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-    "source": "The Verge AI",
-    "date": "2026-11-24T16:30:00Z",
-    "snippet": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ai-label_1c35e3.jpg?quality=90&strip=all&crop=0%2C19.887257893553%2C100%2C60.225484212893&w=1200"
-  },
-  {
     "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
     "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
     "source": "Wired AI",
@@ -454,14 +462,6 @@
     "date": "2026-11-23T13:29:04Z",
     "snippet": "Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2263696087.jpg"
-  },
-  {
-    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-    "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-    "source": "Wired AI",
-    "date": "2026-11-23T13:11:00Z",
-    "snippet": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-    "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
   },
   {
     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
